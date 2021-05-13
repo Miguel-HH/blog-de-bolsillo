@@ -1,0 +1,117 @@
+body {
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans",
+    "Helvetica Neue", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: var(--bg);
+    color: var(--txt1);
+}
+
+h1, h2, h3 {
+    color: var(--title1);
+    width: 100%;
+    margin-top: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding-bottom: 1.5rem;
+}
+
+h2 {
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+p {
+    color: var(--txt1);
+    font-weight: 400;
+    padding-top: 0.25rem;
+}
+
+a:link {
+    color: var(--high1);
+    font-weight: 600;
+}
+
+a:visited {
+    color: var(--high1);
+    font-weight: 600;
+}
+
+main li {
+    margin: 0.5rem 0rem 0.5rem 1.5rem;
+}
+
+.anchor {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--title1);
+}
+
+:target {
+    background-color: var(--bg2);
+    color: var(--title1);
+}
+
+.h2-list {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.main-title {
+    box-shadow: 2.5rem 0 0 var(--high1);
+	width: 6ch;
+    margin: 2rem auto;
+    overflow: hidden;
+    white-space: nowrap;
+    text-decoration: none;
+    font-size: 5rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: monospace;
+    animation:  caret .5s step-end infinite alternate,
+                type 3s steps(6, end);
+
+    &:link {
+        color: var(--title1);
+    }
+
+    &:visited {
+        color: var(--title1);
+    }
+}
+
+@keyframes type {
+    0% {
+    width: 0;
+    }
+}
+
+@keyframes caret {
+    50% {
+    box-shadow: 2.5rem 0 0 transparent;
+    }
+}
+
+.title {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: right;
+
+    &:link {
+        color: var(--high1);
+    }
+
+    &:visited {
+        color: var(--high1);
+    }
+}

@@ -1,0 +1,42 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dark {
+  --bg: #222;
+  --bg2: #333;
+  --txt1: #ccc;
+  --txt2: #999;
+  --title1: #eee;
+  --high1: hsl(185, 100%, 45%);
+  --high2: hsl(185, 95%, 40%);
+}
+
+.light {
+  --bg: #eee;
+  --bg2: #ddd;
+  --txt1: #333;
+  --txt2: #777;
+  --title1: #222;
+  --high1: hsl(185, 100%, 30%);
+  --high2: hsl(185, 95%, 23%);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+footer {
+  margin: 2rem auto 0rem;
+  padding-bottom: 1rem;
+  color: var(--txt1);
+  font-size: 0.8rem;
+}
+
+hr {
+  margin: 2rem auto;
+  border-top: 2px solid var(--txt1);
+  text-decoration: none;
+}

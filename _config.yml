@@ -1,0 +1,53 @@
+title: Miguel Angel
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/blog-de-bolsillo"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: mrguelius
+github_username:  Miguel-HH
+
+# Build settings
+theme: null ##minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - _articulos/.obsidian
+  - _articulos/z-obsidian
+  - _articulos/z-recursos
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /:categories/:title/
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
+  -
+    scope:
+      type: articulos
+      path: _articulos
+    values:
+      is_post: false
+      layout: post
+
+include: [_pages]
+
+collections:
+  articulos:
+    output: true
+
+sass:
+  style: compressed

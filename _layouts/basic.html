@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href={{ "/assets/styles/main.css" | relative_url }}>
+    <link rel="stylesheet" href={{ "/assets/styles/prism.css" | relative_url }}>
+</head>
+<body>
+    {% include sidebar.html %}
+    <main class="page-content">
+        {{ content }}
+    </main>
+</body>
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+</html>
