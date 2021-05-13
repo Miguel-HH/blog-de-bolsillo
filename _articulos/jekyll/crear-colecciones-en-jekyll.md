@@ -54,4 +54,4 @@ Ingresar en la ruta `localhost:4000/` y cruzar los dedos.
 
 ---
 
-- [Quiero aprender más sobre: "Jekyll"](../0/jekyll)
+- [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

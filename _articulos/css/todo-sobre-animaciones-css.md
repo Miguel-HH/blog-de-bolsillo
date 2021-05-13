@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Animaciones en CSS"
 date: 2021-05-05
 tags: css
@@ -127,4 +128,4 @@ animation: propiedad-1 propiedad-2 3s 4s;
 
 ---
 
-- [Quiero aprender más sobre: "CSS"](../0/css)
+- [Quiero aprender más sobre: "CSS"](../00/css)

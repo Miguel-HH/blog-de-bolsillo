@@ -64,5 +64,5 @@ Para bajar de la ruta actual **"articulos/jekyll/enlaces.md"** ...
 
 ---
 
-- [Quiero aprender más sobre: "Markdown"](../0/markdown)
-- [Quiero aprender más sobre: "Jekyll"](../0/jekyll)
+- [Quiero aprender más sobre: "Markdown"](../00/markdown)
+- [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

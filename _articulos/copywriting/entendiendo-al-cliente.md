@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Entendiendo al cliente"
 date: 2021-05-03
 tags: copywriting
@@ -50,4 +51,4 @@ Es todo lo que está "fuera de la oficina del cliente". Hay que investigar a la 
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

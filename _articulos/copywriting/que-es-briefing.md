@@ -1,4 +1,5 @@
 ---
+published: false
 title: "¿Qué es Briefing?"
 date: 2021-05-05
 tags: copywriting
@@ -59,4 +60,4 @@ Cada proyecto debe tener un Briefing, es decir un documento de fácil acceso en 
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

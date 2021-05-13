@@ -2,13 +2,14 @@
 title: "Copywriting"
 date: 2021-04-28
 tags: indice
+articles: 9
 layout: basic
 ---
 
 # Copywriting
 
 ## Fórmulas de copywriting
-- [Fundamentos del Copywriting](../copywriting/que-es-el-copywriting)
+- [Fundamentos del Copywriting](../copywriting/teoria-del-copywriting)
 - [Escritura del Copywriting](../copywriting/proceso-de-escritura-del-copywriting)
 - [¿Cómo escribir?](../copywriting/como-escribir-un-copy)
 
@@ -26,5 +27,5 @@ layout: basic
 
 ---
 
-- [Quiero saber más de: "UX"](../0/ux)
+- [Quiero saber más de: "UX"](../00/ux)
 - [Volver al índice general](../index)

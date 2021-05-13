@@ -2,37 +2,37 @@
 title: "Ruta de aprendizaje Front-end"
 date: 2021-05-05
 tags: frontend
-layout: basic
+layout: post
 ---
 
 # Ruta de aprendizaje Front-end
 
-1. [¿Qué es Internet?](../0/internet)
-2. [HTML](../0/html)
-3. [CSS](..//0/css)
-4. [[JavaScript]]
+1. [¿Qué es Internet?](../00/internet)
+2. [HTML](../00/html)
+3. [CSS](../00/css)
+4. [JavaScript](../00/javascript)
 	- Fundamentos de Javascript
 	- Manipulación del DOM con JavaScript
 	- Fetch APIs
 	- AJAX XHR
 	- ECMAScript
 	- Javascript modular
-5. [[Sistema de control de versiones]]
-	- [[GIT]]
-		- [[GitHub]]
+5. Sistema de control de versiones
+	- GIT
+		- GitHub
 		- [ ] GitLab
 		- [ ] Bitbucket
-6. [[Seguridad de redes]]
-7. [[Package Managers]]
-	- [[NPM]]
-	- [[YARN]]
-8. [[CSS avanzado]]
-	- [[Arquitectura CSS]]
-	- [[Preprocesadores CSS]]
-9. [[Herramientas Frontend]]
+6. Seguridad de redes
+7. Package Managers
+	- NPM
+	- YARN
+8. CSS avanzado
+	- Arquitectura CSS
+	- Preprocesadores CSS
+9. Herramientas Frontend
 	- Task runners
-	- [[Module Bundler]]
-	- [[Linters]]
+	- Module Bundler
+	- Linters
 10. [[Frameworks]]
 	- [[React.js]]
 	- [[Angular]]
@@ -65,4 +65,4 @@ layout: basic
 
 ---
 
-- [Quiero aprender más sobre: "Frontend"](../0/frontend)
+- [Quiero aprender más sobre: "Frontend"](../00/frontend)

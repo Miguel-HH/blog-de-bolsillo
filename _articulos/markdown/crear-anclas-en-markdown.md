@@ -73,4 +73,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cupiditate cum natu
 
 ---
 
-- [Quiero aprender más sobre: "Markdown"](../0/markdown)
+- [Quiero aprender más sobre: "Markdown"](../00/markdown)

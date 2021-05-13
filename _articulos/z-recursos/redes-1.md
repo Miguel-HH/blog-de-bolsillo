@@ -8,4 +8,4 @@ tags: internet
 
 Cuando dos ordenadores necesitan comunicarse, tienes que vincularlos, ya sea físicamente (por lo general con un cable de Ethernet o de forma inalámbrica (por ejemplo por WiFi o sistema de Bluetooth. Todos los ordenadores modernos pueden soportar cualquiera de este tipo de conexiones.
 
-[internet-0](internet-0.md)
+[internet-1](internet-1.md)

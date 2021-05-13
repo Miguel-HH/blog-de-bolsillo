@@ -1,11 +1,12 @@
 ---
-title: "Copywriting básico"
+published: false
+title: "Teoría del copywriting"
 date: 2021-05-02
 tags: copywriting
 layout: post-copywriting
 ---
 
-# Copywriting básico
+# Teoría del copywriting
 
 > ¿Sientes que tus textos no son capaces de enganchar al lector desde el primer párrafo y que si esto continúa así los resultados de tu carrera o tu negocio podrían verse afectados por esta situación? Hoy quiero enseñarte de qué trata el copywriting y por qué es tan útil en tu vida.
 
@@ -204,4 +205,4 @@ El producto o servicio no debe venderse como un producto o servicio, se debe ven
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

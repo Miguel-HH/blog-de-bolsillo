@@ -9,4 +9,4 @@ layout: post-html
 
 ---
 
-- [Quiero aprender más sobre: "HTML"](../0/html)
+- [Quiero aprender más sobre: "HTML"](../00/html)

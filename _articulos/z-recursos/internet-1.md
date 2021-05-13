@@ -8,4 +8,4 @@ tags: internet
 
 **Internet** es la columna vertebral de la Web, la infraestructura técnica que la hace posible. En lo más básico, Internet es una gran red de computadoras que se comunican simultáneamente.
 
-[redes-0](redes-0.md)
+[redes-1](redes-1.md)

@@ -29,4 +29,4 @@ Accept-Language: fr
 ---
 
 - [Quiero aprender más sobre: "HTTP"](que-es-http)
-- [Quiero aprender más sobre: "HTML"](../0/html)
+- [Quiero aprender más sobre: "HTML"](../00/html)

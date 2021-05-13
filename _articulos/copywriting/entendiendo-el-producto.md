@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Entendiendo el producto"
 date: 2021-05-02
 tags: copywriting
@@ -41,4 +42,4 @@ layout: post-copywriting
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

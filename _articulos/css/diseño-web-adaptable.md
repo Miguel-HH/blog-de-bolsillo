@@ -6,10 +6,12 @@ layout: post-css
 ---
 
 # Diseño web adaptable
-- Responsive design
-- [Media Queries](media-queries)
 
-##
+> ## Ruta de aprendizaje
+> - Responsive design
+> - [Media Queries](media-queries)
+
+## CSS Grid
 
 - Cambiar orden GRID
 - Grid Areas
@@ -18,4 +20,4 @@ layout: post-css
 ---
 
 - [Tema relacionado: "CSS Grid"](grid)
-- [Quiero aprender más de: "CSS"](../0/css)
+- [Quiero aprender más de: "CSS"](../00/css)

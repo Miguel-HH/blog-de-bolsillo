@@ -6,7 +6,6 @@ layout: post-copywriting
 ---
 
 ## 2.1 - Sé creativo
-
 Antes de escribir cualquier texto es importante preguntarse qué, cómo y por qué.
 
 - ¿Por qué se va a contar esto, qué se quiere conseguir?
@@ -16,7 +15,6 @@ Antes de escribir cualquier texto es importante preguntarse qué, cómo y por qu
 El copywriting está enfocado a la manera en la que se muestran los beneficios al cliente. Cuando el cliente lea o escuche el copy debe tener muy claro que es para él.
 
 ### Criterios para definir la creatividad
-
 El copy debe tener un objetivo. no debe ser creativo porque sí. Siempre debe despertar una acción.
 
 - **Ser original:** Intentar mostrar una revelación abrupta. "Golpear al cliente en la cara" con una solución. El cliente puede ser consciente o no pero debe querer esa solución.
@@ -65,4 +63,4 @@ Hay un momento en el cual los potenciales clientes pueden perder el interés mie
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

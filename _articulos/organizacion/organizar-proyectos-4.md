@@ -24,4 +24,4 @@ layout: post-organizacion
 - [3 - Implementar](organizar-proyectos-3)
 - 4 - Iterar
 - [5 - Indexar](organizar-proyectos-5)
-- [Quiero aprender más sobre: "Organización"](../0/organizacion)
+- [Quiero aprender más sobre: "Organización"](../00/organizacion)

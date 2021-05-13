@@ -33,4 +33,4 @@ Content-Type: text/html
 
 - [Regresar a: "Petición HTTP"](que-es-una-peticion-http)
 - [Quiero aprender más sobre: "HTTP"](que-es-http)
-- [Quiero aprender más sobre: "internet"](../0/internet)
+- [Quiero aprender más sobre: "internet"](../00/internet)

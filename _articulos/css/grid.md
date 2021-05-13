@@ -7,6 +7,8 @@ layout: post-css
 
 # CSS Grid
 
+grid area
+
 - HTML
 
 ```html
@@ -56,4 +58,4 @@ espacio entre elementos del grid
 
 - [Tema relacionado: "CSS flexbox"](flexbox)
 - [Regresar a: "Layout CSS"](layout)
-- [Quiero aprender más sobre: "CSS"](../0/css)
+- [Quiero aprender más sobre: "CSS"](../00/css)

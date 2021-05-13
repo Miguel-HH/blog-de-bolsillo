@@ -1,4 +1,5 @@
 ---
+published: false
 title: "1. Investigación para el blog"
 date: 2021-05-01
 tags: blog
@@ -6,7 +7,6 @@ layout: post-blog
 ---
 
 # 1. Investigación para el blog
-
 Tengo cientos de apuntes de todas las cosas que he estudiado pero no sé como organizarlas para que me sea fácil volver a estudiarlas ni tampoco sé cómo compartirlas en internet.
 
 ## 1.1 - Investigación personal. ¿Qué, cómo y porqué?
@@ -79,4 +79,4 @@ Tecnologías necesarias para construir, editar y compartir el blog.
 
 ---
 
-- [Quiero aprender más sobre: "Blogging"](../0/blog)
+- [Quiero aprender más sobre: "Blogging"](../00/blog)

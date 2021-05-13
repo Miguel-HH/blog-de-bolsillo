@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Email marketing"
 date: 2021-05-03
 tags: copywriting marketing
@@ -102,4 +103,4 @@ Secuencia de emails para pasar desde las campañas hasta la venta final:
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

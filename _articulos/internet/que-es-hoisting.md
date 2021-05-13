@@ -9,4 +9,4 @@ layout: post-internet
 
 ---
 
-- [Quiero aprender más sobre: "internet"](../0/internet)
+- [Quiero aprender más sobre: "internet"](../00/internet)

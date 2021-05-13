@@ -2,6 +2,7 @@
 title: "UX"
 date: 2021-05-06
 tags: indice
+articles: 1
 layout: basic
 ---
 
@@ -9,7 +10,7 @@ layout: basic
 
 ## UX Writing
 
-- [Copywriting](copywriting)
+- [Copywriting](../00/copywriting)
 
 ---
 

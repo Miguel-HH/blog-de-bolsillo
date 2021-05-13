@@ -6,7 +6,6 @@ layout: basic
 ---
 
 # Nube de tags
-
 <p class="tag-nube">
 {% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}
@@ -18,26 +17,24 @@ layout: basic
 {% endfor %}
 </p>
 
----
-
 ## Front-end Web Development
-- [CSS](0/css)
-- [JavaScript](0/javascript)
-- [Programación](0/programacion)
-- [HTML](0/html)
-- [Internet](0/internet)
-- [Frontend](0/frontend)
+- [CSS](00/css)
+- [JavaScript](00/javascript)
+- [Programación](00/programacion)
+- [HTML](00/html)
+- [Internet](00/internet)
+- [Frontend](00/frontend)
 - SASS
 
 ## User Experience Design
-- [Copywriting](0/copywriting)
-- [Organización](0/organizacion)
-- [UX](0/ux)
+- [Copywriting](00/copywriting)
+- [Organización](00/organizacion)
+- [UX](00/ux)
 - UI
 - Marketing
 
 ## Blogging
-- [Blogging](0/blog)
-- [Jekyll](0/jekyll)
-- [Markdown](0/markdown)
+- [Blogging](00/blog)
+- [Jekyll](00/jekyll)
+- [Markdown](00/markdown)
 - Notion

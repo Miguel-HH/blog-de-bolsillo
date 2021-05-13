@@ -134,4 +134,4 @@ No hay una mejor que otra. Elegir entre publicidad directa o indirecta depender�
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

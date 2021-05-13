@@ -24,4 +24,4 @@ layout: post-jekyll
 
 ---
 
-- [Quiero saber más de: "Jekyll"](../0/jekyll)
+- [Quiero saber más de: "Jekyll"](../00/jekyll)

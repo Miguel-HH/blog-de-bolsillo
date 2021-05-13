@@ -1,13 +1,14 @@
 ---
-title: "SASS"
+title: "Notion"
 date: 2021-05-08
 tags: indice
+articles: 1
 layout: basic
 ---
 
-# SASS
+# Notion
 
-- [SASS en Jekyll](../jekyll/agregar-css-en-jekyll)
+- [Fórmulas de Notion](../notion/formulas-en-notion)
 
 ---
 

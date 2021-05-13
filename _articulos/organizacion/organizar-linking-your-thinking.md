@@ -17,4 +17,4 @@ Yo ayudo a otros a resolver sus problemas gratis.
 
 ---
 
-- [Quiero aprender más sobre: "Organización"](../0/organizacion)
+- [Quiero aprender más sobre: "Organización"](../00/organizacion)

@@ -1,9 +1,9 @@
 ---
+published: false
 title: "LinkedIn"
 date: 2021-05-05
 tags: copywriting
 layout: post-copywriting
-published: false
 ---
 
 # LinkedIn
@@ -60,4 +60,4 @@ Gracias por ayudarme a superar esta dura enfermedad. 🤣
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

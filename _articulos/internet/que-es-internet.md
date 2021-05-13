@@ -34,4 +34,4 @@ https://developer.mozilla.org/es/docs/Learn/Common_questions/How_does_the_Intern
 
 ---
 
-- [Quiero aprender más sobre: "internet"](../0/internet)
+- [Quiero aprender más sobre: "internet"](../00/internet)

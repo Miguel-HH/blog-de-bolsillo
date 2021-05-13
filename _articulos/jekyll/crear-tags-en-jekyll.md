@@ -87,4 +87,4 @@ Cada vez que se cree un **tag**, no se creará automáticamente la página `/tag
 
 ---
 
-- [Quiero aprender más sobre: "Jekyll"](../0/jekyll)
+- [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

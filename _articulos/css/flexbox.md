@@ -7,8 +7,10 @@ layout: post-css
 
 # CSS Flexbox
 
+flexbox direction
+
 ---
 
 - [Tema relacionado: "CSS Grid"](grid)
 - [Regresar a: "Layout CSS"](layout)
-- [Quiero aprender más sobre: "CSS"](../0/css)
+- [Quiero aprender más sobre: "CSS"](../00/css)

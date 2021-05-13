@@ -10,4 +10,4 @@ La propiedad `line-height` se usa para especificar el espacio entre líneas.
 
 ---
 
-- [Quiero aprender más sobre: "CSS"](../0/css)
+- [Quiero aprender más sobre: "CSS"](../00/css)

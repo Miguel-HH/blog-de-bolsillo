@@ -27,4 +27,4 @@ Entrega información a los clientes que envíen peticiones con el protocolo corr
 
 ---
 
-- [Quiero aprender más sobre: "internet"](../0/internet)
+- [Quiero aprender más sobre: "internet"](../00/internet)

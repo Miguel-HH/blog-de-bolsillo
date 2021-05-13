@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Marca Personal"
 tags: marketing
 date: 2021-04-29
@@ -22,4 +23,4 @@ layout: post-marketing
 
 ---
 
-- [Quiero aprender más sobre: "Marketing"](../0/marketing)
+- [Quiero aprender más sobre: "Marketing"](../00/marketing)

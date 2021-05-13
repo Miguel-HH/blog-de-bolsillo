@@ -12,4 +12,4 @@ Es un sistema de nombres de dominio el cual traduce los nombres de dominios apto
 
 ---
 
-- [Quiero aprender más sobre: "internet"](../0/internet)
+- [Quiero aprender más sobre: "internet"](../00/internet)

@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Estructura de una página web"
 date: 2021-05-05
 tags: copywriting
@@ -181,4 +182,4 @@ Cada frase que busque conseguir un **SÍ** debe estar enfocada en conseguir otro
 
 ---
 
-- [Quiero aprender más sobre: "Copywriting"](../0/copywriting)
+- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

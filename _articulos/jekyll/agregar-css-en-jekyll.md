@@ -2,7 +2,7 @@
 title: "Agregar CSS en Jekyll"
 tags: jekyll css
 date: 2021-04-26
-layout: basic
+layout: post-css
 ---
 
 # Agregar CSS en Jekyll
@@ -52,6 +52,6 @@ body {
 
 ---
 
-- [Quiero aprender más sobre: "Jekyll"](../0/jekyll)
-- [Quiero aprender más sobre: "SASS"](../0/sass)
-- [Quiero aprender más sobre: "CSS"](../0/css)
+- [Quiero aprender más sobre: "Jekyll"](../00/jekyll)
+- [Quiero aprender más sobre: "SASS"](../00/sass)
+- [Quiero aprender más sobre: "CSS"](../00/css)

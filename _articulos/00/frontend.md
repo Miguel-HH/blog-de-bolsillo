@@ -2,6 +2,7 @@
 title: "Frontend"
 date: 2021-04-30
 tags: indice
+articles: 1
 layout: basic
 ---
 

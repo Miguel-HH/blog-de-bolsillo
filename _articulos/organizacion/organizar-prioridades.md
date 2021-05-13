@@ -37,4 +37,4 @@ Es esa tarea que no puedes completar hoy porque requieren de mucha planificació
 
 ---
 
-- [Quiero aprender más sobre: "Organización"](../0/organizacion)
+- [Quiero aprender más sobre: "Organización"](../00/organizacion)
