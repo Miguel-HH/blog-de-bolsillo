@@ -28,8 +28,8 @@
             document.documentElement.style.setProperty("--txt1", "#ccc");
             document.documentElement.style.setProperty("--txt2", "#999");
             document.documentElement.style.setProperty("--title1", "#eee");
-            document.documentElement.style.setProperty("--high1", "hsl(185, 100%, 45%)");
-            document.documentElement.style.setProperty("--high2", "hsl(185, 95%, 40%)");
+            document.documentElement.style.setProperty("--high1", "hsl(180, 85%, 40%)");
+            document.documentElement.style.setProperty("--high2", "hsl(180, 80%, 35%)");
             document.body.className = localstorageTheme;
 
             const themeSwitch = document.getElementById("theme-switch");
@@ -40,7 +40,7 @@
             document.documentElement.style.setProperty("--txt1", "#333");
             document.documentElement.style.setProperty("--txt2", "#777");
             document.documentElement.style.setProperty("--title1", "#222");
-            document.documentElement.style.setProperty("--high1", "hsl(185, 100%, 30%)");
-            document.documentElement.style.setProperty("--high2", "hsl(185, 95%, 25%)");
+            document.documentElement.style.setProperty("--high1", "hsl(190, 90%, 30%)");
+            document.documentElement.style.setProperty("--high2", "hsl(190, 85%, 25%)");
         }
     };

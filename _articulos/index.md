@@ -6,10 +6,11 @@ layout: basic
 ---
 
 # Nube de tags
+
 <p class="tag-nube">
 {% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}
-  <a href="/articulos/tag/{{ item }}">
+  <a href="/blog-de-bolsillo/tag/{{ item }}">
     <span class="tag-highligher">
       <span class="tag-cuadro">{{ item }}</span>
     </span>
