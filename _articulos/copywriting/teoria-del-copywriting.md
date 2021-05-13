@@ -1,8 +1,9 @@
 ---
 published: false
-title: "Teoría del copywriting"
+title: Teoría del copywriting
 date: 2021-05-02
 tags: copywriting
+description: ¿Qué es el copywriting? Todo lo que necesitas saber sobre copywriting.
 layout: post-copywriting
 ---
 

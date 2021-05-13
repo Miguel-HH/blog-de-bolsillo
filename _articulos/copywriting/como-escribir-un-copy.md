@@ -1,7 +1,8 @@
 ---
-title: "¿Cómo escribir?"
-date: 2021-05-01
+title: ¿Cómo escribir?
 tags: copywriting
+date: 2021-05-01
+description: Pasos para escribir un copy.
 layout: post-copywriting
 ---
 

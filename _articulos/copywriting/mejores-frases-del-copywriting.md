@@ -1,13 +1,16 @@
 ---
-title: "Mejores frases del Copywriting"
+title: Mejores frases del Copywriting
 date: 2021-05-04
 tags: copywriting
+description: Selección de frases empleadas en el copywriting.
 layout: post-copywriting
 ---
 
 # Mejores frases del Copywriting
 
-> ¿Sientes que tus textos no son capaces de enganchar al lector desde el primer párrafo y que si esto continúa así los resultados de tu negocio podrían verse resentidos por esta situación? Hoy quiero enseñarte una de las estructuras de copywriting más sencillas de aplicar y que ofrecen un resultado más palpable: La Fórmula PAS.
+> ¿Sientes que tus textos no son capaces de enganchar al lector desde el primer párrafo y que si esto continúa así los resultados de tu negocio podrían verse resentidos por esta situación? Hoy quiero enseñarte una de las estructuras de copywriting más sencillas de aplicar y que ofrecen un resultado más palpable: la Fórmula PAS.
+
+Autor: [www.copymelo.com](https://www.copymelo.com/guia-formula-pas/)
 
 ---
 

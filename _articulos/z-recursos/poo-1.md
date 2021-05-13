@@ -12,4 +12,12 @@ date: 2021-05-12
 - [poo-objetos-literales](poo-objetos-literales)
 - [poo-objetos-atributos](poo-atributos)
 - [poo-objetos-metodos](poo-metodos)
+
+## Clases y objetos
 - [poo-objetos-redundancia](poo-redundancia)
+- [poo-funcion-constructora](poo-funcion-constructora)
+- [poo-clases](poo-clases)
+- [poo-metodos-getters-y-setters](poo-metodos-getters-y-setters)
+- [poo-herencia](poo-herencia)
+
+## Extras

@@ -1,8 +1,9 @@
 ---
 published: false
-title: "¿Qué es Briefing?"
+title: ¿Qué es Briefing?
 date: 2021-05-05
 tags: copywriting
+description: El Briefing es un resumen de todo el proyecto.
 layout: post-copywriting
 ---
 

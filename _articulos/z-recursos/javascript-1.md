@@ -44,16 +44,6 @@
 ## Extras
 > Es posible definir variables en otros archivos .js, y estos funcionarán siempre y cuando cargues los archivos necesarios en el HTML y los cargues en el orden correcto.
 
-Realmente no tenía experiencia. Venía haciendo cosas de manera autodidacta con el lenguaje de programación Ruby y el framework Rails.
-Apliqué algo de TDD, que es como testing pero nunca hice testing.
-El año pasado hice una certificación de manera virtual que hace la ciudad de buenos aires de setiembre hasta diciembre.
-Prácticamente fue gracias a EDteam que me dio esa... esa confianza que me dio para postular y nada, pasé por 5 entrevistas, me contactaron por LinkedIn
-
-Wow. Gracias por compartirme tu experiencia.
-
-Hace 6 meses yo no sabía nada de programación web. Nada. 
-- En diciembre recien comencé a aprender algo de HTML y CSS. 
-- En enero JS y GIT. 
-- En febrero me dio covid y en marzo apliqué al programa de becas en EDteam. 
-
-Ahora sé que debo centrarme en armar un portafolio y postular!!!
+## DOM
+- [javascript-importar-exportar](javascript-importar-exportar)
+- [javascript-imprimir-contenido-en-dom](javascript-imprimir-contenido-en-dom)
