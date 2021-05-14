@@ -4,7 +4,7 @@ title: Entendiendo el producto
 date: 2021-05-02
 tags: copywriting
 description: Formulario que ayudará a entender el tipo de producto que se intenta vender.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # Entendiendo el producto
@@ -41,6 +41,6 @@ layout: post-copywriting
 - **Beneficios tangibles:** Son beneficios objetivos y prácticos. Apelan a la lógica y suceden en la vida real de las personas.
 - **Beneficios intangibles:** Son beneficios subjetivos y emocionales. Surgen en la mente de los clientes y le hacen sentir mejor.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

@@ -2,6 +2,7 @@
 title: "CSS Grid"
 date: 2021-05-07
 tags: css
+description: CSS grid.
 layout: post-css
 ---
 
@@ -54,7 +55,7 @@ espacio entre elementos del grid
     grid-template-columns: repeat(6, 1fr);
 ```
 
----
+***
 
 - [Tema relacionado: "CSS flexbox"](flexbox)
 - [Regresar a: "Layout CSS"](layout)

@@ -29,13 +29,13 @@ date: 2021-04-25
       {% endcase %}
       {{ page.date | date: "%Y" }}
       </p>
-      <a class="link-list" href="{{ page.url | prepend: site.baseurl }}">
+      <a href="{{ page.url | prepend: site.baseurl }}">
       {{ page.title }}
       </a>
-      <p class="push">
+      <p class="push">tags: 
       {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a href="/blog/tag/{{ tag_name }}">
+          <a href="/blog-de-bolsillo/tag/{{ tag_name }}">
             <span class="tag-highligher">
               <span class="tag-cuadro">{{ tag_name }}</span>
             </span>

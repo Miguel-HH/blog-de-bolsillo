@@ -4,7 +4,7 @@ title: Email marketing
 date: 2021-05-03
 tags: copywriting marketing
 description: Pasos para escribir un email con técnicas de escritura persuasiva.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # Email marketing
@@ -102,6 +102,6 @@ Secuencia de emails para pasar desde las campañas hasta la venta final:
 - **Email de autoridad:** Usar testimonios. Mostrar el lado más profesional para que los potenciales clientes hagan más caso.
 - **Email de objeciones:** Email de preguntas y respuestas. Adelantarse a las dudas y preguntas de los potenciales clientes.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

@@ -2,7 +2,7 @@
 title: "Crear anclas en Markdown"
 date: 2021-05-05
 tags: markdown
-layout: post-markdown
+layout: post-md
 ---
 
 # Crear anclas en Markdown

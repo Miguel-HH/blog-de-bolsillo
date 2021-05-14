@@ -77,6 +77,7 @@ Tecnologías necesarias para construir, editar y compartir el blog.
 - ¿Notas atómicas o extensas?
 - ¿Cómo ordenar un millón de notas? ¿Con carpetas, tags, temas o categorías?
 
----
+***
 
 - [Quiero aprender más sobre: "Blogging"](../00/blog)
+- [Quiero aprender más sobre: "Design thinking"](../00/design-thinking)

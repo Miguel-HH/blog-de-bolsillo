@@ -4,7 +4,7 @@ title: Teoría del copywriting
 date: 2021-05-02
 tags: copywriting
 description: ¿Qué es el copywriting? Todo lo que necesitas saber sobre copywriting.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # Teoría del copywriting
@@ -204,6 +204,6 @@ El producto o servicio no debe venderse como un producto o servicio, se debe ven
 - Las historias reales son mejor que las historias ficticias.
 - Si el protagonista de la historia lo ha logrado, el cliente se sentirá identificado y creerá que también puede lograrlo.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

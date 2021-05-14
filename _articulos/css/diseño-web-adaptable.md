@@ -2,6 +2,7 @@
 title: "Diseño web adaptable"
 date: 2021-05-07
 tags: css
+description: Buenas prácticas para crear webs que se adapten a la pantalla de los teléfonos móviles.
 layout: post-css
 ---
 
@@ -17,7 +18,7 @@ layout: post-css
 - Grid Areas
 - Autofill - Autofit
 
----
+***
 
 - [Tema relacionado: "CSS Grid"](grid)
 - [Quiero aprender más de: "CSS"](../00/css)

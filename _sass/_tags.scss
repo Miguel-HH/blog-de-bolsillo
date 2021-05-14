@@ -19,6 +19,7 @@
   text-decoration: underline var(--high1);
   color: var(--bg);
   font-weight: 600;
+  font-size: 1rem;
   line-height: 1.8rem;
 }
 
@@ -43,9 +44,14 @@
 
 .tag-list-date {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   margin: 1rem auto;
-  line-height: 1.5rem;
+  /*line-height: 1.5rem;*/
+
+  & a {
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
 }
 
 .first-date {
@@ -53,21 +59,6 @@
   width: 6rem;
   color: var(--txt2);
   font-size: 0.8rem;
-}
-
-.link-list {
-  line-height: 2;
-  font-size: 1.1rem;
-  text-decoration: none;
-}
-
-.push {
-  margin-left: auto;
-  line-height: 2;
-
-  & a {
-    margin-left: 0.2rem;
-  }
 }
 
 .tag-nube {

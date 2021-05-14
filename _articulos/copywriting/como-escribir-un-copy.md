@@ -3,8 +3,10 @@ title: ¿Cómo escribir?
 tags: copywriting
 date: 2021-05-01
 description: Pasos para escribir un copy.
-layout: post-copywriting
+layout: post-copy
 ---
+
+# ¿Cómo escribir un copy?
 
 ## 2.1 - Sé creativo
 Antes de escribir cualquier texto es importante preguntarse qué, cómo y por qué.
@@ -62,6 +64,6 @@ Hay un momento en el cual los potenciales clientes pueden perder el interés mie
 - Es recomendable que los párrafos sean de 3 líneas como máximo.
 - Hay que dejar las jergas y utilizar un lenguaje que funcione.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

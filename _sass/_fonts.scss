@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,600;0,700;0,800;1,600;1,700;1,800&display=swap');
+
 body {
     font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans",
     "Helvetica Neue", sans-serif;
@@ -14,9 +16,12 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 3rem;
     font-weight: 700;
-    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 h2 {
@@ -67,18 +72,18 @@ main li {
 }
 
 .main-title {
-    box-shadow: 2.5rem 0 0 var(--high1);
-	width: 6ch;
+    box-shadow: 1rem 0 0 var(--high1);
+	width: 18ch;
     margin: 2rem auto;
     overflow: hidden;
     white-space: nowrap;
     text-decoration: none;
-    font-size: 5rem;
-    font-weight: 800;
+    font-size: 2rem;
+    font-weight: 600;
     text-align: center;
     font-family: monospace;
-    animation:  caret .5s step-end infinite alternate,
-                type 3s steps(6, end);
+    animation:  caret .5s 13 forwards,
+                type 5s steps(18, end);
 
     &:link {
         color: var(--title1);
@@ -97,7 +102,7 @@ main li {
 
 @keyframes caret {
     50% {
-    box-shadow: 2.5rem 0 0 transparent;
+    box-shadow: 1rem 0 0 transparent;
     }
 }
 
@@ -114,4 +119,8 @@ main li {
     &:visited {
         color: var(--high1);
     }
+}
+
+.push {
+    color: var(--txt2);
 }

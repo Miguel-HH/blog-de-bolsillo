@@ -4,7 +4,7 @@ title: ¿Qué es Briefing?
 date: 2021-05-05
 tags: copywriting
 description: El Briefing es un resumen de todo el proyecto.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # ¿Qué es Briefing?
@@ -59,6 +59,6 @@ Cada proyecto debe tener un Briefing, es decir un documento de fácil acceso en 
 - La historia del cliente.
 - La historia de la marca.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

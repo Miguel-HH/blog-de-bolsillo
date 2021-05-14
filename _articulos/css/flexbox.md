@@ -2,6 +2,7 @@
 title: "CSS Flexbox"
 date: 2021-05-07
 tags: css
+description: ¿Qué es CSS flexbox?
 layout: post-css
 ---
 
@@ -9,7 +10,7 @@ layout: post-css
 
 flexbox direction
 
----
+***
 
 - [Tema relacionado: "CSS Grid"](grid)
 - [Regresar a: "Layout CSS"](layout)

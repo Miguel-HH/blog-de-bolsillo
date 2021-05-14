@@ -2,7 +2,7 @@
 title: "Enlaces Markdown"
 date: 2021-04-25
 tags: jekyll
-layout: post-jekyll
+layout: post-md
 ---
 
 # Enlaces Markdown

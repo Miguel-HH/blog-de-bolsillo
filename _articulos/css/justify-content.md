@@ -2,6 +2,7 @@
 title: "justify-content CSS"
 date: 2021-05-05
 tags: css
+description: Usos de la proíedad de CSS "justify content".
 layout: post-css
 ---
 
@@ -46,6 +47,6 @@ justify-content: initial;
 justify-content: unset;
 ````
 
----
+***
 
 - [Quiero aprender más sobre: "CSS"](../00/css)

@@ -3,7 +3,7 @@ title: Proceso de escritura del Copywriting
 date: 2021-05-04
 tags: copywriting
 description: Todo lo que se debe hacer antes, durante y después de escribir un copy.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # Proceso de escritura del Copywriting
@@ -133,6 +133,6 @@ No hay una mejor que otra. Elegir entre publicidad directa o indirecta depender�
 - **Templado:** Conocen la marca pero nunca han comprado. Hay que averiguar cuál es el motivo para luego lanzar anuncios que "retargeting" para impactar justo en esas personas. Mientras el tráfico frío apela a las emociones, el templado apela a la razón.
 - **Caliente:** Personas que ya han comprado. Para que vuelvan a comprar hay que hacerles sentir especiales. Que por el hecho de haber confiado antes, ahora van a recibir mejores oportunidades.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

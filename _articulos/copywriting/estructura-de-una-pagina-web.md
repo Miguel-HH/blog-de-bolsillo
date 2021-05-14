@@ -4,7 +4,7 @@ title: Estructura de una página web
 date: 2021-05-05
 tags: copywriting
 description: Partes fundamentales para armar cualquier página web.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # Estructura de una página web
@@ -181,6 +181,6 @@ Primero hay que mostrar los beneficios para golpear directamente a las emociones
 
 Cada frase que busque conseguir un **SÍ** debe estar enfocada en conseguir otro **SÍ.** Cuantos más **S**Í se consigan en el camino más factible será conseguir un **SÍ** final.
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)

@@ -4,9 +4,9 @@ permalink: /
 date: 2021-04-25
 ---
 
-# Blog de bolsillo2
+# Blog offline
 
-Este "Blog" funciona de forma offline y online al mismo tiempo.
+"Desarrollo web frontend" y "Diseño de experiencia de usuario".
 
 <ul>
     <li>

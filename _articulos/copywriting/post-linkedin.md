@@ -4,7 +4,7 @@ title: Post para LinkedIn
 date: 2021-05-05
 tags: copywriting
 description: Mi primer copy fue un post en LinkedIn.
-layout: post-copywriting
+layout: post-copy
 ---
 
 # Post para LinkedIn
@@ -59,6 +59,6 @@ Ahora cada frase que escribo tiene que llamar la atención y cumplir un objetivo
 Gracias por ayudarme a superar esta dura enfermedad. 🤣
 ````
 
----
+***
 
 - [Quiero aprender más sobre: "Copywriting"](../00/copywriting)
