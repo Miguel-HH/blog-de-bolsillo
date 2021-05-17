@@ -1,11 +1,11 @@
 
-.tags-box {
-  line-height: 1.9;
+/*.tags-box {
 
   & a {
     margin-left: 0.4rem;
+    margin-top: 2rem;
   }
-}
+}*/
 
 .tag-highligher {
   text-decoration: underline var(--bg);
@@ -14,13 +14,12 @@
 
 /*tag*/
 .tag-cuadro {
-  padding: 0 0.3rem 0.25rem 0.3rem;
+  padding: 0 2px 2px 2px;
   background-color: var(--high1);
   text-decoration: underline var(--high1);
   color: var(--bg);
   font-weight: 600;
   font-size: 1rem;
-  line-height: 1.8rem;
 }
 
 .tag-list-container {
@@ -36,6 +35,7 @@
 }
 
 .post-date {
+  margin-bottom: 0.5rem;
   font-size: 0.8rem;
   color: var(--txt2);
 }
@@ -61,6 +61,6 @@
   font-size: 0.8rem;
 }
 
-.tag-nube {
-  line-height: 2;
+.tag-cloud {
+  line-height: 1.8;
 }

@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es Internet?"
+title: ¿Qué es Internet?
 date: 2021-05-05
 tags: internet
 ---

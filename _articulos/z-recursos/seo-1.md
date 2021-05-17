@@ -1,5 +1,5 @@
 ---
-title: "SEO desde cero"
+title: SEO desde cero
 tags: seo
 date: 2021-05-10
 ---
@@ -17,4 +17,4 @@ date: 2021-05-10
 ## Conceptos básicos
 - [seo-funcionamiento-google](seo-funcionamiento-google)
 - [seo-intencion-busqueda](seo-intencion-busqueda)
-- [seo-etiquetado-html](seo-etiquetado-html.md)
+- [seo-etiquetado-html](seo-etiquetado-html)

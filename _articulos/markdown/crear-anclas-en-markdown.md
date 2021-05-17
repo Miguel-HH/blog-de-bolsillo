@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Crear anclas en Markdown"
+title: Crear anclas en Markdown
 date: 2021-05-05
 tags: markdown
 layout: post-md
@@ -73,6 +73,6 @@ Aliquam, accusantium laboriosam, expedita eligendi rem magni totam amet ipsa err
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cupiditate cum natus, adipisci vel facere dolorum, corrupti quasi ea sed, earum sint. Dolores dolor omnis, quidem voluptatem ad quibusdam esse.
 
----
+***
 
 - [Quiero aprender más sobre: "Markdown"](../00/markdown)

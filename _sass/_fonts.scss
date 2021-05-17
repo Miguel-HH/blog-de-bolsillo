@@ -72,13 +72,13 @@ main li {
 }
 
 .main-title {
-    box-shadow: 1rem 0 0 var(--high1);
+    box-shadow: 0.75rem 0 0 var(--high1);
 	width: 18ch;
     margin: 2rem auto;
     overflow: hidden;
     white-space: nowrap;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 600;
     text-align: center;
     font-family: monospace;
@@ -102,7 +102,7 @@ main li {
 
 @keyframes caret {
     50% {
-    box-shadow: 1rem 0 0 transparent;
+    box-shadow: 0.75rem 0 0 transparent;
     }
 }
 

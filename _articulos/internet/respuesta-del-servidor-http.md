@@ -1,5 +1,5 @@
 ---
-title: "Respuesta del servidor"
+title: Respuesta del servidor
 date: 2021-05-07
 tags: http
 layout: post-internet
@@ -34,4 +34,4 @@ Content-Type: text/html
 
 - [Regresar a: "Petición HTTP"](que-es-una-peticion-http)
 - [Quiero aprender más sobre: "HTTP"](que-es-http)
-- [Quiero aprender más sobre: "internet"](../00/internet)
+- [Quiero aprender más sobre: "Internet"](../00/internet)

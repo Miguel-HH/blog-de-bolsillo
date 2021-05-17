@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Animaciones en CSS"
+title: Animaciones en CSS
 date: 2021-05-05
 tags: css
 layout: post-css

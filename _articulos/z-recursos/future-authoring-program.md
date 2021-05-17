@@ -1,7 +1,7 @@
 ---
-title: "Future Authoring Program"
-tags: motivacion
+title: Future Authoring Program
 date: 2021-05-12
+tags: motivacion
 ---
 
 # Future Authoring Program

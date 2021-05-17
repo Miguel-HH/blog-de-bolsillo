@@ -1,5 +1,5 @@
 ---
-title:  "¿Cómo instalar Jekyll en Windows?"
+title: ¿Cómo instalar Jekyll en Windows?
 date: 2021-04-26
 tags: jekyll
 layout: post-jekyll
@@ -26,6 +26,6 @@ description: Pasos para instalar Jekyll en Windows.
 ## Subir a GitHub pages
 - comprobar
 
----
+***
 
 - [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

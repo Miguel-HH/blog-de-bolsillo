@@ -12,6 +12,9 @@ layout: basic
 - [Layout CSS](../css/layout)
 - [Diseño WEB adaptable](../css/diseño-web-adaptable)
 
+CSS tiene: Selectores, declaraciones, propiedades y valores.
+
+
 ## Propiedades
 - [overflow](../css/overflow)
 - [line-height](../css/line-height)

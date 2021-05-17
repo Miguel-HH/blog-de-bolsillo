@@ -1,9 +1,9 @@
 ---
-title: "¿Qué es DNS?"
+title: ¿Qué es DNS?
 date: 2021-05-07
 tags: internet
 layout: post-internet
-description: Definición de DNS.
+description: Definición de 'DNS'.
 ---
 
 # ¿Qué es DNS?
@@ -13,4 +13,4 @@ Es un sistema de nombres de dominio el cual traduce los nombres de dominios apto
 
 ***
 
-- [Quiero aprender más sobre: "internet"](../00/internet)
+- [Quiero aprender más sobre: "Internet"](../00/internet)

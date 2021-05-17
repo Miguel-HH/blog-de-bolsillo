@@ -1,9 +1,9 @@
 ---
-title: "¿Qué es un Proxy?"
+title: ¿Qué es un Proxy?
 date: 2021-05-07
 tags: http
 layout: post-internet
-description: Definición de Proxy.
+description: Definición de 'Proxy' .
 ---
 
 # ¿Qué es un Proxy?
@@ -12,4 +12,4 @@ Cada petición individual se envía a un servidor, el cuál la gestiona y respon
 ***
 
 - [Regresar a: "HTTP"](que-es-http)
-- [Quiero aprender más sobre: "internet"](../00/internet)
+- [Quiero aprender más sobre: "Internet"](../00/internet)

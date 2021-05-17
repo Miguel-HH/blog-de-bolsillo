@@ -1,25 +1,22 @@
 ---
-title: "¿Qué es Internet?"
+title: ¿Qué es Internet?
 date: 2021-05-07
 tags: internet
 layout: post-internet
-description: Definición de internet.
+description: Definición de 'Internet'.
 ---
 
 # ¿Qué es Internet?
-**Internet** es la columna vertebral de la Web, la infraestructura técnica que la hace posible. En lo más básico, Internet es una gran red de computadoras que se comunican simultáneamente.
+Es la infraestructura de comunicación entre computadoras. Es decir, internet es una gran red de computadoras que se comunican simultáneamente.
 
-## Resumen
-- LAN. Local Area Network. Red de área local.
-- Los datos se dividen en pequeños paquetes y se envían a través del protocolo TCP/IP.
-- Los switches conectan los dispositivos en una LAN (los routers suelen ser a la vez switches)
-- El Router envía y recibe los paquetes de una LAN al mundo exterior.
-- WAN. Wide Area Network. **Internet es una WAN a escala mundial**.
+La conforman cables, antenas, enrutadores y protocolos de comunicación. 
 
-## Internet VS Web
-- La web es un conjunto de documentos conectados a través de hipertexto.
-- Los documentos se escribne en HTML y se envían a través del protocolo HTTP.
+## Protocolos 
+Todo archivo que se comparte en internet, se divide en pequeñas partes llamadas paquetes a través de un protocolo llamado TCP/IP. 
+
+## Web
+Internet no es lo mismo que [Web](que-es-web). 
 
 ***
 
-- [Quiero aprender más sobre: "internet"](../00/internet)
+- [Quiero aprender más sobre: "Internet"](../00/internet)

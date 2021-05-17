@@ -1,5 +1,5 @@
 ---
-title: "Crear tags en Jekyll"
+title: Crear tags en Jekyll
 date: 2021-04-25
 tags: jekyll
 layout: post-jekyll
@@ -86,6 +86,6 @@ Cada tag será nombrado "NombreDelTag.html"
 
 Cada vez que se cree un **tag**, no se creará automáticamente la página `/tag/tagespecifico`. Es necesario agregar el tag en tag/ y reiniciar el servidor ejecutando el comando `jekyll serve` en la terminal.
 
----
+***
 
 - [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

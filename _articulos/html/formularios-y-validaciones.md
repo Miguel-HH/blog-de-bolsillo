@@ -1,5 +1,5 @@
 ---
-title: "Formularios y validaciones HTML"
+title: Formularios y validaciones HTML
 date: 2021-05-07
 tags: html
 layout: post-html

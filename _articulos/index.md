@@ -1,12 +1,12 @@
 ---
-title: "Inicio"
+title: Inicio
 tags: indice
 date: 2021-05-06
 layout: basic
 ---
 
 # Nube de tags
-<p class="tag-nube">
+<p class="tag-cloud">
 {% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}
   <a href="/blog-de-bolsillo/tag/{{ item }}">
@@ -39,3 +39,4 @@ layout: basic
 - [Markdown](00/markdown)
 - Notion
 
+***

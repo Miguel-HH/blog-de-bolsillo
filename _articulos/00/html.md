@@ -7,6 +7,8 @@ layout: basic
 ---
 
 # HTML
+Es el lenguaje base de la historia web. 
+
 - [[Fundamentos de HTML]]
 - [Convenciones y buenas prácticas en HTML](../html/convenciones-y-buenas-practicas)
 - [Formularios y validaciones HTML](../html/formularios-y-validaciones)

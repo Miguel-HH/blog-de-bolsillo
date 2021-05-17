@@ -1,5 +1,5 @@
 ---
-title: "ECMAScript"
+title: ECMAScript
 date: 2021-05-08
 tags: javascript
 ---

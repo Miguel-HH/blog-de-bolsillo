@@ -1,12 +1,12 @@
 ---
-title: "line-height CSS"
+title: Propiedad CSS "line-height"
 date: 2021-05-07
 tags: css
 layout: post-css
-description: Usos de la proíedad de CSS "line-height".
+description: Usos de la propiedad de CSS "line-height".
 ---
 
-# {line-height}
+# Propiedad CSS "line-height"
 La propiedad `line-height` se usa para especificar el espacio entre líneas.
 
 ***

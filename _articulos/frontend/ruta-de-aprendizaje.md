@@ -1,12 +1,12 @@
 ---
-title: Ruta de aprendizaje del "Desarrollo Web Frontend"
+title: Mi ruta de aprendizaje "Frontend"
 date: 2021-05-05
 tags: frontend
 layout: post
 description: Ruta de aprendizaje para convertirse en un 'Desarrollador Web Frontend'.
 ---
 
-# Mi ruta de aprendizaje sobre "Desarrollo Web Frontend"
+# Mi ruta de aprendizaje "Frontend"
 
 ## Internet
 La pandemia lo cambió todo. Nos obligó a estar encerrados y comunicarnos exclusivamente por internet pero... 
@@ -16,10 +16,11 @@ La pandemia lo cambió todo. Nos obligó a estar encerrados y comunicarnos exclu
 - ¿Qué tan fácil es crear una página web? 
 
 ## Web
-Para crear una página web estática solamente necesitas aprender 2 tecnologías:
+Para crear una página web estática solamente necesitas aprender 3 tecnologías:
 
-- [HTML](../00/html) para la estructura. 
-- [CSS](../00/css) para el estilo. 
+- [HTML](../00/html) define la información, la estructura. 
+- [CSS](../00/css) define el estilo, la estética. 
+- [JavaScript](../00/javascript) define la lógica, la programación de la página web. 
 
 Y lo mejor de todo es que son de libre acceso. ¡Es gratis! 
 
@@ -32,8 +33,7 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 ## Motores de búsqueda
 ¿De qué sirve una página web si no tiene vistas?
 
-- ¿Qué es [Google](../00/google)? 
-- El [SEO](../00/seo) optimiza una página web para que capte más tráfico. 
+- [Search engine optimization](../00/seo) mejora el posicionamiento de una página web para que capte más tráfico en los motores de búsqueda. 
 
 ## Programación
 Todas las páginas web modernas utilizan el mismo lenguaje de programación. Todas. Antes había competencia pero hoy... 
@@ -41,8 +41,8 @@ Todas las páginas web modernas utilizan el mismo lenguaje de programación. Tod
 - [JavaScript](../00/javascript) tiene un monopolio en el mercado de aplicaciones web frontend. 
 
 ## Sistema de control de versiones
-> "La verdadera diferencia entre los humanos y el resto de los animales no está en el plano individual, está en el plano colectivo... Los humanos son los únicos que pueden cooperar flexiblemente y en masa."
->
+> "La verdadera diferencia entre los humanos y el resto de los animales no está en el plano individual, está en el plano colectivo... Los humanos son los únicos que pueden cooperar flexiblemente y en masa."\
+>\
 > _Yuval Noah Harari_
 
 - [Git](../00/git) es una herramienta indispensable para el trabajo en equipo. 
@@ -74,7 +74,11 @@ Todas las páginas web modernas utilizan el mismo lenguaje de programación. Tod
 - Typescript
 
 ## Progressive Web Apps
+- 
+
 ## Server Side Render
+- 
+
 ## GraphQL
 - Apollo
 - Relay modern
@@ -89,6 +93,7 @@ Todas las páginas web modernas utilizan el mismo lenguaje de programación. Tod
 - Electron
 
 ## Web Assembly
+- 
 
 ***
 

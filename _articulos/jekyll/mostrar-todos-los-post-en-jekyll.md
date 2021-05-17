@@ -1,5 +1,5 @@
 ---
-title: "Mostrar todos los post en Jekyll"
+title: Mostrar todos los post en Jekyll
 date: 2021-04-25
 tags: jekyll
 layout: post-jekyll
@@ -53,6 +53,6 @@ description: Guía para crear una lista en la que se muestren todos los post en 
 {% endraw %}
 ````
 
----
+***
 
 - [Quiero aprender más sobre: "Jekyll"](../2/0-index-jekyll)

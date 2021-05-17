@@ -1,12 +1,12 @@
 ---
-title: "Mostrar datos"
+title: Mostrar datos en Jekyll
 date: 2021-04-26
 tags: jekyll
 layout: post-jekyll
 description: Crear datos en formato liquid para visualizar en Jekyll.
 ---
 
-# Mostrar datos
+# Mostrar datos en Jekyll
 
 ## Crear data
 
@@ -38,6 +38,6 @@ description: Crear datos en formato liquid para visualizar en Jekyll.
 {% endraw %}
 ````
 
----
+***
 
 - [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

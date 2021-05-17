@@ -1,5 +1,5 @@
 ---
-title: "Computational Thinking"
+title: Computational Thinking
 date: 2021-05-08
 tags: programacion
 ---

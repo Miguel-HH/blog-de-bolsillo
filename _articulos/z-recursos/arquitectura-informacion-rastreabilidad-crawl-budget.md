@@ -1,5 +1,5 @@
 ---
-title: "Rastreabilidad (Crawl Budget)"
+title: Rastreabilidad (Crawl Budget)
 tags: arquitectura-de-la-informacion
 date: 2021-05-11
 ---

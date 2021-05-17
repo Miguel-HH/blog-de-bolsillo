@@ -1,5 +1,5 @@
 ---
-title: "Nube de tags en Jekyll"
+title: Nube de tags en Jekyll
 date: 2021-05-02
 tags: jekyll
 layout: post-jekyll
@@ -23,6 +23,6 @@ description: Guía para crear una "nube de tags" en la cual se mostrarán todos 
 {% endraw %}
 ````
 
----
+***
 
 - [Quiero saber más de: "Jekyll"](../00/jekyll)

@@ -1,9 +1,9 @@
 ---
-title: "¿Qué es una petición HTTP?"
+title: ¿Qué es una petición HTTP?
 date: 2021-05-07
 tags: http
 layout: post-internet
-description: Definición de "petición HTTP".
+description: Definición de 'Petición HTTP'.
 ---
 
 # ¿Qué es una petición HTTP?

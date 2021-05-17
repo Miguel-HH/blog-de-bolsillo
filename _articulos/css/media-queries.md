@@ -1,5 +1,5 @@
 ---
-title: "CSS Media Queries"
+title: CSS Media Queries
 date: 2021-05-07
 tags: css
 layout: post-css

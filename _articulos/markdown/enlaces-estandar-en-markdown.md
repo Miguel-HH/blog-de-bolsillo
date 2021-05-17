@@ -1,5 +1,5 @@
 ---
-title: "Enlaces Markdown"
+title: Enlaces Markdown
 date: 2021-04-25
 tags: jekyll
 layout: post-md
@@ -63,7 +63,7 @@ Para bajar de la ruta actual **"articulos/jekyll/enlaces.md"** ...
 
 ... sólo hay que escribir **nombre-carpeta/nombre-archivo**
 
----
+***
 
 - [Quiero aprender más sobre: "Markdown"](../00/markdown)
 - [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

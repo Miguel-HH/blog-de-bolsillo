@@ -1,5 +1,5 @@
 ---
-title: "Copywriting"
+title: Copywriting
 date: 2021-04-28
 tags: indice
 articles: 9

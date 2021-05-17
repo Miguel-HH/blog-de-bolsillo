@@ -1,5 +1,5 @@
 ---
-title: "Agregar CSS en Jekyll"
+title: Agregar CSS en Jekyll
 tags: jekyll css
 date: 2021-04-26
 layout: post-css
@@ -51,7 +51,7 @@ body {
 <link rel="stylesheet" href={{ "/assets/styles/main.css" | relative_url }}>
 ````
 
----
+***
 
 - [Quiero aprender más sobre: "Jekyll"](../00/jekyll)
 - [Quiero aprender más sobre: "SASS"](../00/sass)
