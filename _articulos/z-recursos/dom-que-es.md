@@ -22,17 +22,22 @@ En HTML toda etiqueta es un objeto en el DOM, y cada objeto puede tener hijos. P
 
 La propiedad `document.nombreEtiqueta` te permitirá acceder rápidamente a los elementos del DOM.
 
+
 ### Comandos
--   document
-    -   document.doctype
-    -   document.documentEement
-    -   document.head
-        -   document.charset
-        -   document.title
-    -   document.body
-        -   document.links
-        -   document.images
-        -   document.getSelection()  
-            toString()
-    -   document.scripts
-    -   document.styleSheets
+- Javascript debería insertarse despues de que cargue el DOM.
+- Todas las etiquetas son objetos en el DOM.
+- para capturar texto se puede usar: document.getSelection().toString()
+- El DOM es una web API, no es parte de la especificación JavaScript.
+
+### document
+- document.doctype
+- document.documentElement
+- document.head
+	- document.charset
+	- document.title
+- document.body
+	- document.links
+	- document.images
+	- document.getSelection().toString()
+-   document.scripts
+-   document.styleSheets

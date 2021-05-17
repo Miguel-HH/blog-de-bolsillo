@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: notion"
+title: 'Tag: "Notion"'
 tag: notion
 ---
 

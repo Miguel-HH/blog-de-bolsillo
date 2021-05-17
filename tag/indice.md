@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: indice"
+title: 'Tag: "Índice"'
 tag: indice
 ---
 

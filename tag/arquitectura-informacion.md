@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: arquitectura-informacion"
+title: 'Tag: "Arquitectura de la información"'
 tag: arquitectura-informacion
 ---
 

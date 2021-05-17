@@ -1,9 +1,9 @@
 ---
-title: "CSS Grid"
+title: CSS Grid
 date: 2021-05-07
 tags: css
-description: CSS grid.
 layout: post-css
+description: CSS grid.
 ---
 
 # CSS Grid

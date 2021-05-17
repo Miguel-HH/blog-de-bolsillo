@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: blog"
+title: 'Tag: "Blog"'
 tag: blog
 ---
 

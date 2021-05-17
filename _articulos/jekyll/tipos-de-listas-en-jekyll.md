@@ -1,8 +1,9 @@
 ---
-title:  "Listas en Jekyll"
+title:  Listas en Jekyll
 date: 2021-04-25
 tags: jekyll
 layout: post-jekyll
+description: Guía para crear listas con y sin visualización en Jekyll.
 ---
 
 # Listas Automáticas
@@ -37,6 +38,6 @@ layout: post-jekyll
 {% endraw %}
 ````
 
----
+***
 
 - [Quiero aprender más sobre: "Jekyll"](../00/jekyll)

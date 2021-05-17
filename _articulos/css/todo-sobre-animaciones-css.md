@@ -126,6 +126,6 @@ animation: propiedad-1 propiedad-2 3s 4s;
 - Si el 0% no está declarado, el navegador elegirá los valores iniciales del elemento.
 - Si el 100% no está declarado, el navegador elegirá los valores iniciales del elemento.
 
----
+***
 
 - [Quiero aprender más sobre: "CSS"](../00/css)

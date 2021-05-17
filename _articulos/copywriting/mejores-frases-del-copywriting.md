@@ -2,8 +2,8 @@
 title: Mejores frases del Copywriting
 date: 2021-05-04
 tags: copywriting
-description: Selección de frases empleadas en el copywriting.
 layout: post-copy
+description: Selección de frases empleadas en el copywriting.
 ---
 
 # Mejores frases del Copywriting

@@ -1,68 +1,95 @@
 ---
-title: "Ruta de aprendizaje Front-end"
+title: Ruta de aprendizaje del "Desarrollo Web Frontend"
 date: 2021-05-05
 tags: frontend
 layout: post
+description: Ruta de aprendizaje para convertirse en un 'Desarrollador Web Frontend'.
 ---
 
-# Ruta de aprendizaje Front-end
+# Mi ruta de aprendizaje sobre "Desarrollo Web Frontend"
 
-1. [¿Qué es Internet?](../00/internet)
-2. [HTML](../00/html)
-3. [CSS](../00/css)
-4. [JavaScript](../00/javascript)
-	- Fundamentos de Javascript
-	- Manipulación del DOM con JavaScript
-	- Fetch APIs
-	- AJAX XHR
-	- ECMAScript
-	- Javascript modular
-5. Sistema de control de versiones
-	- GIT
-		- GitHub
-		- [ ] GitLab
-		- [ ] Bitbucket
-6. Seguridad de redes
-7. Package Managers
-	- NPM
-	- YARN
-8. CSS avanzado
-	- Arquitectura CSS
-	- Preprocesadores CSS
-9. Herramientas Frontend
-	- Task runners
-	- Module Bundler
-	- Linters
-10. [[Frameworks]]
-	- [[React.js]]
-	- [[Angular]]
-	- [[Vue.js]]
-	- [ ] [[Svelte]]
-11. [[CSS moderno]]
-	- Styled components
-	- CSS modules
-	- Styled JSX
-	- Emotion
-12. [[Componentes web]]
-	- [ ] HTML templates
-	- [ ] Custom elements
-	- [ ] Shadow DOM
-13. [[Frameworks CSS]]
-14. [[Testing]]
-	- [[Unit, integration, Functional]]
-15. [[Typescript]]
-16. [[Progressive Web Apps]]
-17. [[Server Side Render]]
-18. [[GraphQL]]
-	- Apollo
-	- Relay modern
-19. [[Generador de sitios estáticos]]
-20. [[Aplicaciones móviles]]
-	- React Native
-21. [[Aplicaciones de escritorio]]
-	- Electron
-22. [[Web Assembly]]
+## Internet
+La pandemia lo cambió todo. Nos obligó a estar encerrados y comunicarnos exclusivamente por internet pero... 
 
----
+- [¿Qué es internet?](../00/internet)
+- ¿Qué es una página web? 
+- ¿Qué tan fácil es crear una página web? 
+
+## Web
+Para crear una página web estática solamente necesitas aprender 2 tecnologías:
+
+- [HTML](../00/html) para la estructura. 
+- [CSS](../00/css) para el estilo. 
+
+Y lo mejor de todo es que son de libre acceso. ¡Es gratis! 
+
+## Entorno de desarrollo
+Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc de notas** de Windows. Pero hay aplicaciones específicas para escribir código. 
+
+- [Visual Studio Code](../00/vscode) es muy fácil de aprender a utilizar. 
+- [Vim](../00/vim) es la favorita de muchos programadores pero no es tan sencilla de aprender.
+
+## Motores de búsqueda
+¿De qué sirve una página web si no tiene vistas?
+
+- ¿Qué es [Google](../00/google)? 
+- El [SEO](../00/seo) optimiza una página web para que capte más tráfico. 
+
+## Programación
+Todas las páginas web modernas utilizan el mismo lenguaje de programación. Todas. Antes había competencia pero hoy... 
+
+- [JavaScript](../00/javascript) tiene un monopolio en el mercado de aplicaciones web frontend. 
+
+## Sistema de control de versiones
+> "La verdadera diferencia entre los humanos y el resto de los animales no está en el plano individual, está en el plano colectivo... Los humanos son los únicos que pueden cooperar flexiblemente y en masa."
+>
+> _Yuval Noah Harari_
+
+- [Git](../00/git) es una herramienta indispensable para el trabajo en equipo. 
+- [GitHub](../00/github) es la plataforma de desarrollo colaborativo más popular entre los programadores. 
+
+## Seguridad web 
+- ¿Qué es HTTPS?
+
+## Sistema de gestión de paquetes
+- NPM
+- YARN
+
+## Herramientas Frontend
+- Task runners
+- Module Bundler
+- Linters
+
+## Frameworks
+- React.js
+- Angular
+- Vue.js
+- Svelte
+
+## Testing
+- Unit, integration, Functional
+- Jest
+
+## La competencia de JavaScript
+- Typescript
+
+## Progressive Web Apps
+## Server Side Render
+## GraphQL
+- Apollo
+- Relay modern
+
+## Generador de sitios estáticos
+- [Jekyll](../00/jekyll)
+
+## Aplicaciones móviles
+- React Native
+
+## Aplicaciones de escritorio
+- Electron
+
+## Web Assembly
+
+***
 
 - [Quiero aprender más sobre: "Frontend"](../00/frontend)

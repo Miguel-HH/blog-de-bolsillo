@@ -1,5 +1,5 @@
 ---
-title: "HTML"
+title: HTML
 date: 2021-04-30
 tags: indice
 articles: 3
@@ -14,6 +14,6 @@ layout: basic
 - Accesibilidad
 - SEO básico
 
----
+***
 
 - [Volver al índice general](../index)

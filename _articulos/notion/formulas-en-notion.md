@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Fórmulas en Notion"
+title: Fórmulas en Notion
 date: 2021-05-05
 tags: notion
 layout: post-notion

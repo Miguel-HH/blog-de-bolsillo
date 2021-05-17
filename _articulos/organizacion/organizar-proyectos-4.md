@@ -1,5 +1,5 @@
 ---
-title: "4. Iterar hasta conseguir los objetivos"
+title: 4. Iterar hasta conseguir los objetivos
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion

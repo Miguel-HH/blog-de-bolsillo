@@ -1,5 +1,5 @@
 ---
-title: "2. Idear soluciones"
+title: 2. Idear soluciones
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion

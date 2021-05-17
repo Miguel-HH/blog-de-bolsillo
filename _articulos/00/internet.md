@@ -1,5 +1,5 @@
 ---
-title: "Internet"
+title: Internet
 date: 2021-05-07
 tags: indice
 articles: 6
@@ -14,6 +14,6 @@ layout: basic
 - [¿Qué es un dominio?](../internet/que-es-un-dominio)
 - [¿Qué es hoisting?](../internet/que-es-hoisting)
 
----
+***
 
 - [Volver al índice general](../index)

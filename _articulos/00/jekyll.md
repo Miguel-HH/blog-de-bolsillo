@@ -1,5 +1,5 @@
 ---
-title: "Jekyll"
+title: Jekyll
 date: 2021-04-25
 tags: indice
 articles: 10
@@ -22,6 +22,6 @@ layout: basic
 ## Markdown
 - [Enlaces estandar](../markdown/enlaces-estandar-en-markdown)
 
----
+***
 
 - [Volver al índice general](../index)

@@ -25,6 +25,7 @@
         if (localstorageTheme !== null && localstorageTheme === "dark") {
             document.documentElement.style.setProperty("--bg", "#222");
             document.documentElement.style.setProperty("--bg2", "#333");
+            document.documentElement.style.setProperty("--bg3", "#444");
             document.documentElement.style.setProperty("--txt1", "#ccc");
             document.documentElement.style.setProperty("--txt2", "#999");
             document.documentElement.style.setProperty("--title1", "#eee");
@@ -37,6 +38,7 @@
         } else {
             document.documentElement.style.setProperty("--bg", "#eee");
             document.documentElement.style.setProperty("--bg2", "#ddd");
+            document.documentElement.style.setProperty("--bg3", "#ccc");
             document.documentElement.style.setProperty("--txt1", "#333");
             document.documentElement.style.setProperty("--txt2", "#777");
             document.documentElement.style.setProperty("--title1", "#222");

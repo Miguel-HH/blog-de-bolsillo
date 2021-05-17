@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: copywriting"
+title: 'Tag: "Copywriting"'
 tag: copywriting
 ---
 

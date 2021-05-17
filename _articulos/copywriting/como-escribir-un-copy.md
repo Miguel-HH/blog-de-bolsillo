@@ -1,9 +1,9 @@
 ---
 title: ¿Cómo escribir?
-tags: copywriting
 date: 2021-05-01
-description: Pasos para escribir un copy.
+tags: copywriting
 layout: post-copy
+description: Pasos para escribir un copy.
 ---
 
 # ¿Cómo escribir un copy?

@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: html"
+title: 'Tag: "HTML"'
 tag: html
 ---
 

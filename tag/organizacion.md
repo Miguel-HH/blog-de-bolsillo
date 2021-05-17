@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: organizacion"
+title: 'Tag: "Organización"'
 tag: organizacion
 ---
 

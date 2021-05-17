@@ -1,8 +1,10 @@
 ---
+published: false
 title: "Crear anclas en Markdown"
 date: 2021-05-05
 tags: markdown
 layout: post-md
+description: Pasos para crear anclas internas dentro de un mismo documento tipo markdown.
 ---
 
 # Crear anclas en Markdown

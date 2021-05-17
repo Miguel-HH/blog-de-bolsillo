@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: marketing"
+title: 'Tag: "Marketing"'
 tag: marketing
 ---
 

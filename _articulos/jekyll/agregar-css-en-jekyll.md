@@ -3,6 +3,7 @@ title: "Agregar CSS en Jekyll"
 tags: jekyll css
 date: 2021-04-26
 layout: post-css
+description: Agregar estilos CSS en Jekyll.
 ---
 
 # Agregar CSS en Jekyll

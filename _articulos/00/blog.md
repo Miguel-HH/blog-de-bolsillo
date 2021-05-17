@@ -9,6 +9,6 @@ layout: basic
 # Blog
 - [Investigación para este blog](../blog/blog-investigacion-1)
 
----
+***
 
 - [Volver al índice general](../index)

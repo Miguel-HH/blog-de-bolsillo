@@ -3,6 +3,7 @@ title: "Crear tags en Jekyll"
 date: 2021-04-25
 tags: jekyll
 layout: post-jekyll
+description: Tutorial para crear tags en Jekyll sin usar plugins.
 ---
 
 # Crear tags en Jekyll

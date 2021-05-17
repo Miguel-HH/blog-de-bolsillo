@@ -1,6 +1,6 @@
 ---
 published: false
-title: "3. Investigación para el blog"
+title: 3. Investigación para el blog
 date: 2021-05-14
 tags: blog
 layout: post-blog

@@ -2,8 +2,8 @@
 title: Proceso de escritura del Copywriting
 date: 2021-05-04
 tags: copywriting
-description: Todo lo que se debe hacer antes, durante y después de escribir un copy.
 layout: post-copy
+description: Todo lo que se debe hacer antes, durante y después de escribir un copy.
 ---
 
 # Proceso de escritura del Copywriting

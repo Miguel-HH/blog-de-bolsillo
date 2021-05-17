@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: css"
+title: 'Tag: "CSS"'
 tag: css
 ---
 

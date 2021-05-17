@@ -2,8 +2,8 @@
 title: Mejores frases sobre arquitectura de la información
 date: 2021-05-14
 tags: arquitectura-informacion
-description: Selección de frases empleadas en la Arquitectura de la Información.
 layout: post-ai
+description: Selección de frases empleadas en la Arquitectura de la Información.
 ---
 
 # Mejores frases sobre "arquitectura de la información"

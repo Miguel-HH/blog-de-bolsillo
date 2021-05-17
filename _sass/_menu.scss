@@ -16,12 +16,12 @@
     display: block;
     padding: 0.5rem 1rem;
     text-decoration: none;
-    background-color: var(--title1);
-    color: var(--bg);
+    background-color: var(--bg2);
+    color: var(--txt1);
     text-align: center;
 
-    &:hover {
-        background-color: var(--txt1);
+    &:hover, :focus {
+        background-color: var(--bg3);
     }
 }
 
@@ -40,7 +40,6 @@
     max-width: 15rem;
     width: 33.333%;
     list-style: none;
-    color: var(--bg);
     transform-origin: top center;
     transform: scale(1, 0);
 }

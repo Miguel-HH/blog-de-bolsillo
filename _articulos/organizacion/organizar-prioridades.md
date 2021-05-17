@@ -1,8 +1,9 @@
 ---
-title: "¿Cómo priorizar tareas?"
+title: ¿Cómo priorizar tareas?
 date: 2021-04-29
 tags: organizacion
 layout: post-organizacion
+description: El uso de la matriz de Eisenhower para asignar prioridad a las tareas.
 ---
 
 # ¿Cómo priorizar tareas?

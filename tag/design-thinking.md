@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: design-thinking"
+title: 'Tag: "Design thinking"'
 tag: design-thinking
 ---
 

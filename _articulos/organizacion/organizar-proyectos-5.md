@@ -1,5 +1,5 @@
 ---
-title: "5. Indexar todo lo aprendido"
+title: 5. Indexar todo lo aprendido
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion

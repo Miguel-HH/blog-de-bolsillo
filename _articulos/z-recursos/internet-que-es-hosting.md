@@ -1,12 +1,12 @@
 ---
-title: "¿Qué es un navegador web?"
+title: "¿Qué es Hosting?"
 date: 2021-05-07
 tags: internet
 layout: post-internet
-description: Definición de "navegador web".
+description: Definición de hosting.
 ---
 
-# ¿Qué es un navegador web?
+# ¿Qué es Hosting?
 
 ***
 

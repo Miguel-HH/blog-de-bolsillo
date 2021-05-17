@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: internet"
+title: 'Tag: "Internet"'
 tag: internet
 ---
 

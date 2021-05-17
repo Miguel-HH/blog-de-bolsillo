@@ -1,5 +1,5 @@
 ---
-title: "Programación"
+title: Programación
 date: 2021-04-30
 tags: indice
 articles: 0
@@ -30,6 +30,6 @@ layout: basic
 - JSON
 - Git
 
----
+***
 
 - [Volver al índice general](../index)

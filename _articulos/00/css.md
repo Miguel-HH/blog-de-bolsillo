@@ -1,5 +1,5 @@
 ---
-title: "CSS"
+title: CSS
 date: 2021-04-30
 tags: indice
 articles: 8
@@ -21,6 +21,6 @@ layout: basic
 - [Suavizar Desplazamiento](../css/suavizar-desplazamiento)
 - [Editar SASS en Jekyll](../jekyll/sass-jekyll)
 
----
+***
 
 - [Volver al índice general](../index)

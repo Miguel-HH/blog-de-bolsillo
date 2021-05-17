@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,600;0,700;0,800;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,800;0,900;1,800;1,900&display=swap');
 
 body {
     font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans",
@@ -17,9 +17,9 @@ h1, h2, h3 {
 
 h1 {
     font-family: 'Raleway', sans-serif;
-    font-style: italic;
+    /*font-style: italic;*/
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 800;
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
@@ -86,11 +86,11 @@ main li {
                 type 5s steps(18, end);
 
     &:link {
-        color: var(--title1);
+        color: var(--high1);
     }
 
     &:visited {
-        color: var(--title1);
+        color: var(--high1);
     }
 }
 
@@ -106,7 +106,7 @@ main li {
     }
 }
 
-.title {
+.contact {
     text-decoration: none;
     font-size: 1rem;
     font-weight: 500;

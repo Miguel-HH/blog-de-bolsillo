@@ -1,8 +1,9 @@
 ---
-title: "Crear colecciones en Jekyll"
+title: Crear colecciones en Jekyll
 date: 2021-05-05
 tags: jekyll
 layout: post-jekyll
+description: Pasos para crear 'collections' en Jekyll.
 ---
 
 # Crear colecciones en Jekyll

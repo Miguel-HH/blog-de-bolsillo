@@ -1,12 +1,13 @@
 ---
 published: false
-title: "Marca Personal"
-tags: marketing
+title: Marca personal
 date: 2021-04-29
-layout: post-marketing
+tags: marketing
+layout: post-marketing+
+description: ¿Porqué es importante crear una marca personal?
 ---
 
-# Marca Personal
+# Marca personal
 
 # LinkedIn
 

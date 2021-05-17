@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "Tag: programacion"
+title: 'Tag: "Programación"'
 tag: programacion
 ---
 

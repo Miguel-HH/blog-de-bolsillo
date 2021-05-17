@@ -3,6 +3,7 @@ title: "Enlaces Markdown"
 date: 2021-04-25
 tags: jekyll
 layout: post-md
+description: Pasos para enlazar archivos con enlaces markdown estándar.
 ---
 
 # Enlaces Markdown

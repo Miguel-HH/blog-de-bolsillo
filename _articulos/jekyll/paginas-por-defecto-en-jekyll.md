@@ -1,8 +1,9 @@
 ---
-title: "Crear pages"
+title: Crear pages
 date: 2021-04-26
 tags: jekyll
 layout: post-jekyll
+description: Guía para crear las primeras páginas en Jekyll.
 ---
 
 # Páginas por defecto en Jekyll

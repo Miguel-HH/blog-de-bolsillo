@@ -3,6 +3,7 @@ title: "Mostrar datos"
 date: 2021-04-26
 tags: jekyll
 layout: post-jekyll
+description: Crear datos en formato liquid para visualizar en Jekyll.
 ---
 
 # Mostrar datos

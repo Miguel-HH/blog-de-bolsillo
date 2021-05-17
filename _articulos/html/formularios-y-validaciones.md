@@ -3,6 +3,7 @@ title: "Formularios y validaciones HTML"
 date: 2021-05-07
 tags: html
 layout: post-html
+description: Tipos de formularios HTML.
 ---
 
 # Formularios y validaciones HTML
@@ -19,7 +20,7 @@ layout: post-html
     </form>
 ```
 
----
+***
 
 ## Formulario con Label
 
@@ -35,7 +36,7 @@ layout: post-html
     </form>
 ```
 
----
+***
 
 ## Formulario con clic en Label
 <form>
@@ -50,6 +51,6 @@ layout: post-html
     </form>
 ```
 
----
+***
 
 - [Quiero aprender más sobre: "HTML"](../00/html)

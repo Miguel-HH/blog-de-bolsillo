@@ -1,8 +1,9 @@
 ---
-title: "Linking to thinking"
+title: Linking to thinking
 date: 2021-05-05
 tags: organizacion
 layout: post-organizacion
+description: Técnicas para enlazar las notas de estudio.
 ---
 
 # Linking to thinking
