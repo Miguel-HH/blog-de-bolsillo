@@ -7,7 +7,7 @@ layout: basic
 ---
 
 # HTML
-Es el lenguaje base de la historia web. 
+Es el lenguaje base de la historia web.
 
 - [[Fundamentos de HTML]]
 - [Convenciones y buenas prácticas en HTML](../html/convenciones-y-buenas-practicas)
@@ -18,4 +18,4 @@ Es el lenguaje base de la historia web.
 
 ***
 
-- [Volver al índice general](../index)
+- Volver a: ["Nube de tags"](../index)

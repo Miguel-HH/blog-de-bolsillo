@@ -1,11 +1,12 @@
 ---
 title: Inicio
-tags: indice
 date: 2021-05-06
+tags: indice
 layout: basic
 ---
 
 # Nube de tags
+
 <p class="tag-cloud">
 {% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}
@@ -17,7 +18,7 @@ layout: basic
 {% endfor %}
 </p>
 
-## Front-end Web Development
+## Desarrollo Web Frontend
 - [CSS](00/css)
 - [JavaScript](00/javascript)
 - [Programación](00/programacion)
@@ -26,17 +27,17 @@ layout: basic
 - [Frontend](00/frontend)
 - SASS
 
-## User Experience Design
+## Diseño de Experiencia de Usuario
+- [Arquitectura de la información](00/arquitectura-informacion)
 - [Copywriting](00/copywriting)
+- [Design thinking](00/design-thinking)
 - [Organización](00/organizacion)
 - [UX](00/ux)
-- UI
-- Marketing
+- [UI](00/ui)
+- [Marketing](00/marketing)
 
-## Blogging
+## Blogging y más
 - [Blogging](00/blog)
 - [Jekyll](00/jekyll)
 - [Markdown](00/markdown)
-- Notion
-
-***
+- [Notion](00/notion)

@@ -1,9 +1,9 @@
 ---
-title: Layout CSS
+title: "Layout CSS"
 date: 2021-05-07
 tags: css
 layout: post-css
-description: Layout es una de las partes del renderizado de CSS.
+description: "'Layout' es una de las partes del renderizado de CSS."
 ---
 
 # Layout CSS
@@ -16,4 +16,4 @@ description: Layout es una de las partes del renderizado de CSS.
 
 ***
 
-- [Quiero aprender más sobre: "CSS"](../00/css)
+- Quiero aprender más sobre: ["CSS"](../00/css)

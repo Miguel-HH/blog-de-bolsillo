@@ -4,27 +4,12 @@ permalink: /contacto
 date: 2021-04-23
 ---
 
-````css
-
-.sobre-mi {
+# Contacto
 
 Soy Miguel Angel.
 
-Escribo en archivos formato markdown,
-los subo a GitHub y se convierten en HTML.
+Escribo en archivos formato markdown, los subo a GitHub y, mágicamente, se convierten en HTML.
 
-}
 
-.correo {
-
-email@email.com
-
-}
-
-.redes {
-
-LinkedIn: ...
-
-}
-
-````
+- correo
+- redes

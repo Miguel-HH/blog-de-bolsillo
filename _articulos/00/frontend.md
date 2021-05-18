@@ -6,9 +6,9 @@ articles: 1
 layout: basic
 ---
 
-# Front-end
+# Frontend
 - [Ruta de aprendizaje Frontend](../frontend/ruta-de-aprendizaje)
 
 ***
 
-- [Volver al índice general](../index)
+- Volver a: ["Nube de tags"](../index)

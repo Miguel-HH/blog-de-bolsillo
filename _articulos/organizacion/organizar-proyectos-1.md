@@ -1,5 +1,5 @@
 ---
-title: 1. Investigar problemas
+title: "1. Investigar problemas"
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion
@@ -18,12 +18,12 @@ layout: post-organizacion
 - **Ordenar** la información en tablas.
 - Detectar las oportunidades de innovación.
 
----
+***
 
-- [Regresar a: "Organización de proyectos"](organizar-proyectos-0)
+- Volver a: ["Organización de proyectos"](organizar-proyectos-0)
 - 1 - Investigar
 - [2 - Idear](organizar-proyectos-2)
 - [3 - Implementar](organizar-proyectos-3)
 - [4 - Iterar](organizar-proyectos-4)
 - [5 - Indexar](organizar-proyectos-5)
-- [Quiero aprender más sobre: "Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Organización"](../00/organizacion)

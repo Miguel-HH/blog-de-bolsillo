@@ -1,35 +1,28 @@
 ---
-title: Crear meta tag "description" en Jekyll
+title: "Crear meta tag 'description' en Jekyll"
 date: 2021-05-15
 tags: jekyll
 layout: post-jekyll
-description: Guía para crear un meta tag 'description' el cual mejorará el SEO de la página.
+description: "Guía para crear un meta tag 'description' el cual mejorará el SEO de la página."
 ---
 
-# Crear meta tag "description" en Jekyll
+# Crear meta tag 'description' en Jekyll
+Este meta tag llamado "description" que sólo es visible para los motores de búsqueda.
 
 ````yaml
 ---
-description: Escribir 'descripción'.
+description: "Escribir 'descripción'."
 ---
 ````
-
-- Esto generará un meta tag llamado "description" que sólo es visible para los motores de búsqueda.
-- Para evitar errores de sintaxis es recomendable utilizar 'comillas simples' en vez de las "comillas dobles".
 
 ````html
 <meta name="description" content="Escribir 'descripción'.">
 ````
 
-## "Comillas"
-
-````html
-<title>Las comillas "dobles" o 'simples'</title>
-<h1>no generan errores de sintaxis</h1>
-<h2>en las etiquetas "title"</h2>
-<h3>ni tampoco en los 'headings'</h3>
-````
+Para evitar errores de sintaxis es recomendable:
+- Colocar toda la descripción entre "comillas dobles".
+- Utilizar 'comillas simples' dentro de las "comillas dobles".
 
 ***
 
-- [Quiero aprender más sobre: "Jekyll"](../00/jekyll)
+- Quiero aprender más sobre: ["Jekyll"](../00/jekyll)

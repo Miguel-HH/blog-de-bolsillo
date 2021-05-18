@@ -1,54 +1,49 @@
 ---
-title: Mi ruta de aprendizaje "Frontend"
+title: "Mi ruta de aprendizaje 'Frontend'"
 date: 2021-05-05
 tags: frontend
 layout: post
-description: Ruta de aprendizaje para convertirse en un 'Desarrollador Web Frontend'.
+description: "Ruta de aprendizaje para convertirse en un 'Desarrollador Web Frontend'."
 ---
 
 # Mi ruta de aprendizaje "Frontend"
 
 ## Internet
-La pandemia lo cambió todo. Nos obligó a estar encerrados y comunicarnos exclusivamente por internet pero... 
+La pandemia lo cambió todo. Nos obligó a estar encerrados y comunicarnos exclusivamente por internet pero...
 
-- [¿Qué es internet?](../00/internet)
-- ¿Qué es una página web? 
-- ¿Qué tan fácil es crear una página web? 
+- ¿Qué es [internet](../00/internet)?
+- ¿Qué es la [web](../internet/que-es-web)?
+- ¿Qué tan fácil es crear una página web?
 
 ## Web
 Para crear una página web estática solamente necesitas aprender 3 tecnologías:
 
-- [HTML](../00/html) define la información, la estructura. 
-- [CSS](../00/css) define el estilo, la estética. 
-- [JavaScript](../00/javascript) define la lógica, la programación de la página web. 
+- [HTML](../00/html) define la información, la estructura.
+- [CSS](../00/css) define el estilo, la estética.
+- [JavaScript](../00/javascript) define la lógica, la programación de la página web.
 
-Y lo mejor de todo es que son de libre acceso. ¡Es gratis! 
+Y lo mejor de todo es que son de libre acceso. ¡Es gratis!
 
 ## Entorno de desarrollo
-Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc de notas** de Windows. Pero hay aplicaciones específicas para escribir código. 
+Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc de notas** de Windows. Pero hay aplicaciones específicas para escribir código.
 
-- [Visual Studio Code](../00/vscode) es muy fácil de aprender a utilizar. 
+- [Visual Studio Code](../00/vscode) es muy fácil de aprender a utilizar.
 - [Vim](../00/vim) es la favorita de muchos programadores pero no es tan sencilla de aprender.
 
 ## Motores de búsqueda
 ¿De qué sirve una página web si no tiene vistas?
 
-- [Search engine optimization](../00/seo) mejora el posicionamiento de una página web para que capte más tráfico en los motores de búsqueda. 
-
-## Programación
-Todas las páginas web modernas utilizan el mismo lenguaje de programación. Todas. Antes había competencia pero hoy... 
-
-- [JavaScript](../00/javascript) tiene un monopolio en el mercado de aplicaciones web frontend. 
+- [Search engine optimization](../00/seo) mejora el posicionamiento de una página web para que capte más tráfico en los motores de búsqueda.
 
 ## Sistema de control de versiones
 > "La verdadera diferencia entre los humanos y el resto de los animales no está en el plano individual, está en el plano colectivo... Los humanos son los únicos que pueden cooperar flexiblemente y en masa."\
 >\
 > _Yuval Noah Harari_
 
-- [Git](../00/git) es una herramienta indispensable para el trabajo en equipo. 
-- [GitHub](../00/github) es la plataforma de desarrollo colaborativo más popular entre los programadores. 
+- [Git](../00/git) es una herramienta indispensable para el trabajo en equipo.
+- [GitHub](../00/github) es la plataforma de desarrollo colaborativo más popular entre los programadores.
 
-## Seguridad web 
+## Seguridad web
 - ¿Qué es HTTPS?
 
 ## Sistema de gestión de paquetes
@@ -93,8 +88,8 @@ Todas las páginas web modernas utilizan el mismo lenguaje de programación. Tod
 - Electron
 
 ## Web Assembly
-- 
+- Blazer
 
 ***
 
-- [Quiero aprender más sobre: "Frontend"](../00/frontend)
+- Quiero aprender más sobre: ["Frontend"](../00/frontend)

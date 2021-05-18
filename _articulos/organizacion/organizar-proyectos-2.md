@@ -1,5 +1,5 @@
 ---
-title: 2. Idear soluciones
+title: "2. Idear soluciones"
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion
@@ -17,10 +17,10 @@ layout: post-organizacion
 
 ---
 
-- [Regresar a: "Organización de proyectos"](organizar-proyectos-0)
+- Volver a: ["Organización de proyectos"](organizar-proyectos-0)
 - [1 - Investigar](organizar-proyectos-1)
 - 2 - Idear
 - [3 - Implementar](organizar-proyectos-3)
 - [4 - Iterar](organizar-proyectos-4)
 - [5 - Indexar](organizar-proyectos-5)
-- [Quiero aprender más sobre: "Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Organización"](../00/organizacion)

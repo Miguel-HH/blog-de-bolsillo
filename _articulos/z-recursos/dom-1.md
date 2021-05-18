@@ -28,4 +28,4 @@ JavaScript es un lenguaje que vive en el navegador y nos permite manipular el DO
 - [dom-cssom](dom-cssom)
 
 ## El navegador
-- 
+- [dom-objeto-window](dom-objeto-window)

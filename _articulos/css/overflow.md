@@ -1,12 +1,12 @@
 ---
-title: Propiedad CSS "overflow"
+title: "Propiedad CSS 'overflow'"
 date: 2021-05-07
 tags: css
 layout: post-css
-description: Usos de la propiedad de CSS "overflow".
+description: "Usos de la propiedad de CSS 'overflow'."
 ---
 
-# Propiedad CSS "overflow"
+# Propiedad CSS 'overflow'
 
 Ocultar excedente de un bloque.
 
@@ -16,4 +16,4 @@ overflow-x: auto;
 
 ***
 
-- [Quiero aprender más sobre: "CSS"](../00/css)
+- Quiero aprender más sobre: ["CSS"](../00/css)

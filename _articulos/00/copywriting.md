@@ -47,5 +47,5 @@ layout: basic
 
 ***
 
-- [Quiero saber más de: "UX"](../00/ux)
-- [Volver al índice general](../index)
+- Quiero aprender más sobre: ["UX"](../00/ux)
+- Volver a: ["Nube de tags"](../index)

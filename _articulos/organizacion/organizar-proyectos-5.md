@@ -1,5 +1,5 @@
 ---
-title: 5. Indexar todo lo aprendido
+title: "5. Indexar todo lo aprendido"
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion
@@ -13,12 +13,12 @@ layout: post-organizacion
 
 > ¡Felicitaciones! Has concluido un gran proyecto y tenemos que celebrarlo. 🥳
 
----
+***
 
-- [Regresar a: "Organización de proyectos"](organizar-proyectos-0)
+- Volver a: ["Organización de proyectos"](organizar-proyectos-0)
 - [1 - Investigar](organizar-proyectos-1)
 - [2 - Idear](organizar-proyectos-2)
 - [3 - Implementar](organizar-proyectos-3)
 - [4 - Iterar](organizar-proyectos-4)
 - 5 - Indexar
-- [Quiero aprender más sobre: "Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Organización"](../00/organizacion)

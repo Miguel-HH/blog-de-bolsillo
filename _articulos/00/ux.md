@@ -14,4 +14,4 @@ layout: basic
 
 ***
 
-- [Volver al índice general](../index)
+- Volver a: ["Nube de tags"](../index)

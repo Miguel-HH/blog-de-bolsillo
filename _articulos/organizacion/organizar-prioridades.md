@@ -1,12 +1,14 @@
 ---
-title: ¿Cómo priorizar tareas?
+title: "¿Cómo priorizar tareas?"
 date: 2021-04-29
 tags: organizacion
 layout: post-organizacion
-description: El uso de la matriz de Eisenhower para asignar prioridad a las tareas.
+description: "El uso de la 'matriz de Eisenhower' para asignar prioridad a las tareas."
 ---
 
 # ¿Cómo priorizar tareas?
+
+## Matriz de Eisenhower
 
 <table>
   <tr>
@@ -36,6 +38,6 @@ Pequeñas tareas que sólo requieren de un pequeño esfuerzo para ser completada
 
 Es esa tarea que no puedes completar hoy porque requieren de mucha planificación o requieren de aprender una nueva habilidad.
 
----
+***
 
-- [Quiero aprender más sobre: "Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Organización"](../00/organizacion)

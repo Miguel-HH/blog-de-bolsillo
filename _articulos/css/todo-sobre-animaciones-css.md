@@ -1,12 +1,12 @@
 ---
 published: false
-title: Animaciones en CSS
+title: "Animaciones en CSS"
 date: 2021-05-05
 tags: css
 layout: post-css
 ---
 
-# CSS 1
+# Animaciones en CSS
 
 ## 3.1 - Animaciones vs Transiciones
 
@@ -128,4 +128,4 @@ animation: propiedad-1 propiedad-2 3s 4s;
 
 ***
 
-- [Quiero aprender más sobre: "CSS"](../00/css)
+- Quiero aprender más sobre: ["CSS"](../00/css)

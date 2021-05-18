@@ -1,9 +1,9 @@
 ---
-title: CSS Media Queries
+title: "CSS Media Queries"
 date: 2021-05-07
 tags: css
 layout: post-css
-description: Media queries en el diseño web adaptable.
+description: "'Media queries' en el diseño web adaptable."
 ---
 
 # CSS Media Queries
@@ -18,4 +18,4 @@ description: Media queries en el diseño web adaptable.
 
 ***
 
-- [Quiero aprender más sobre: "CSS"](../00/css)
+- Quiero aprender más sobre: ["CSS"](../00/css)

@@ -1,10 +1,10 @@
 ---
 published: false
-title: Email marketing
+title: "Email marketing"
 date: 2021-05-03
 tags: copywriting marketing
 layout: post-copy
-description: Pasos para escribir un email con técnicas de escritura persuasiva.
+description: "Pasos para escribir un email con técnicas de 'escritura persuasiva'."
 ---
 
 # Email marketing
@@ -104,4 +104,4 @@ Secuencia de emails para pasar desde las campañas hasta la venta final:
 
 ***
 
-- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)
+- Quiero aprender más sobre: ["Copywriting"](../00/copywriting)

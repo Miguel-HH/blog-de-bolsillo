@@ -1,10 +1,10 @@
 ---
 published: false
-title: Post para LinkedIn
+title: "Post para LinkedIn"
 date: 2021-05-05
 tags: copywriting
 layout: post-copy
-description: Mi primer copy fue un post en LinkedIn.
+description: "Mi primer copy fue un post en LinkedIn."
 ---
 
 # Post para LinkedIn
@@ -61,4 +61,4 @@ Gracias por ayudarme a superar esta dura enfermedad. 🤣
 
 ***
 
-- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)
+- Quiero aprender más sobre: ["Copywriting"](../00/copywriting)

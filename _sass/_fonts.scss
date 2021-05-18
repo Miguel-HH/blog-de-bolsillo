@@ -9,19 +9,18 @@ body {
     color: var(--txt1);
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
+    font-family: 'Raleway', sans-serif;
     color: var(--title1);
     width: 100%;
     margin-top: 1rem;
 }
 
 h1 {
-    font-family: 'Raleway', sans-serif;
-    /*font-style: italic;*/
-    font-size: 3rem;
-    font-weight: 800;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    font-size: 2.25rem;
+    font-weight: 800;
 }
 
 h2 {

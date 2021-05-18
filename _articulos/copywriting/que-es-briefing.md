@@ -1,13 +1,13 @@
 ---
 published: false
-title: ¿Qué es Briefing?
+title: "¿Qué es 'Briefing'?"
 date: 2021-05-05
 tags: copywriting
 layout: post-copy
-description: El Briefing es un resumen de todo el proyecto.
+description: "El 'Briefing' es un resumen de todo el proyecto."
 ---
 
-# ¿Qué es Briefing?
+# ¿Qué es 'Briefing'?
 
 Cada proyecto debe tener un Briefing, es decir un documento de fácil acceso en el cual se encuentra organizada toda la información. Un briefing debería tener preguntas como:
 
@@ -61,4 +61,4 @@ Cada proyecto debe tener un Briefing, es decir un documento de fácil acceso en 
 
 ***
 
-- [Quiero aprender más sobre: "Copywriting"](../00/copywriting)
+- Quiero aprender más sobre: ["Copywriting"](../00/copywriting)

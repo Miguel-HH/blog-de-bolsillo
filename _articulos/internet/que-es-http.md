@@ -1,9 +1,9 @@
 ---
-title: ¿Qué es HTTP?
+title: "¿Qué es HTTP?"
 date: 2021-05-07
 tags: http
 layout: post-internet
-description: Definición de 'HTTP'.
+description: "Definición de 'HTTP'."
 ---
 
 # ¿Qué es HTTP?
@@ -28,4 +28,4 @@ Entrega información a los clientes que envíen peticiones con el protocolo corr
 
 ***
 
-- [Quiero aprender más sobre: "Internet"](../00/internet)
+- Quiero aprender más sobre: ["Internet"](../00/internet)

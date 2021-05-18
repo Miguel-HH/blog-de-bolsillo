@@ -1,9 +1,9 @@
 ---
-title: CSS Grid
+title: "CSS Grid"
 date: 2021-05-07
 tags: css
 layout: post-css
-description: CSS grid.
+description: "¿Qué es 'CSS grid'?"
 ---
 
 # CSS Grid
@@ -57,6 +57,6 @@ espacio entre elementos del grid
 
 ***
 
-- [Tema relacionado: "CSS flexbox"](flexbox)
-- [Regresar a: "Layout CSS"](layout)
-- [Quiero aprender más sobre: "CSS"](../00/css)
+- Tema relacionado: ["CSS flexbox"](flexbox)
+- Volver a: ["Layout CSS"](layout)
+- Quiero aprender más sobre: ["CSS"](../00/css)

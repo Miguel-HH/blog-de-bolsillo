@@ -1,9 +1,9 @@
 ---
-title: Organización de proyectos
+title: "Organización de proyectos"
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion
-description: Pasos para la organización de cualquier tipo de proyecto.
+description: "Pasos para la organización de cualquier tipo de proyecto."
 ---
 
 # Organización de proyectos
@@ -43,6 +43,6 @@ Antes de comenzar a trabajar en cualquier proyecto primero hay tomarse un tiempo
 - [¿Cómo indexar?](organizar-proyectos-5)
 - Escribir y archivar ordenadamente todas las soluciones creadas^aa
 
----
+***
 
-- [Quiero aprender más sobre: "Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Organización"](../00/organizacion)

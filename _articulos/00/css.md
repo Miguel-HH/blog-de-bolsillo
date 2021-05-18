@@ -26,4 +26,4 @@ CSS tiene: Selectores, declaraciones, propiedades y valores.
 
 ***
 
-- [Volver al índice general](../index)
+- Volver a: ["Nube de tags"](../index)

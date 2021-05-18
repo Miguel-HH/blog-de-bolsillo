@@ -1,5 +1,5 @@
 ---
-title: 3. Implementar prototipos
+title: "3. Implementar prototipos"
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion
@@ -15,12 +15,12 @@ layout: post-organizacion
 
 - **Fallar** barato, **fallar** rápido.
 
----
+***
 
-- [Regresar a: "Organización de proyectos"](organizar-proyectos-0)
+- Volver a: ["Organización de proyectos"](organizar-proyectos-0)
 - [1 - Investigar](organizar-proyectos-1)
 - [2 - Idear](organizar-proyectos-2)
 - 3 - Implementar
 - [4 - Iterar](organizar-proyectos-4)
 - [5 - Indexar](organizar-proyectos-5)
-- [Quiero aprender más sobre: "Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Organización"](../00/organizacion)

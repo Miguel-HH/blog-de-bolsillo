@@ -1,12 +1,12 @@
 ---
-title: Propiedad CSS "justify-content"
+title: "Propiedad CSS 'justify-content'"
 date: 2021-05-05
 tags: css
 layout: post-css
-description: Usos de la propiedad de CSS "justify content".
+description: "Usos de la propiedad de CSS 'justify content'."
 ---
 
-# Propiedad CSS "justify-content"
+# Propiedad CSS 'justify-content'
 
 ````css
 /* Positional alignment */
@@ -49,4 +49,4 @@ justify-content: unset;
 
 ***
 
-- [Quiero aprender más sobre: "CSS"](../00/css)
+- Quiero aprender más sobre: ["CSS"](../00/css)
