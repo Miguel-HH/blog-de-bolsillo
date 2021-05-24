@@ -1,5 +1,5 @@
 <li class="tag-list-date">
-    <p class="first-date">
+    <p class="list-date">
     {% assign m = item.date | date: "%-m" %}
     {{ item.date | date: "%-d" }}
     {% case m %}
@@ -26,7 +26,7 @@
         {% for tag in item.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/blog-de-bolsillo/tag/{{ tag_name }}">
-                <span class="tag-highligher">
+                <span class="tag-line">
                     <nobr class="tag-cuadro">{{ tag_name }}
                     </nobr>
                 </span>

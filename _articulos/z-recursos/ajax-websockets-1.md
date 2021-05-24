@@ -13,3 +13,8 @@ tags: ajax websockets
 ## Promesas
 - [ajax-websockets-funciones-callback](ajax-websockets-funciones-callback)
 - [ajax-websockets-trabajando-promesas](ajax-websockets-trabajando-promesas)
+- [ajax-websockets-async-await](ajax-websockets-async-await)
+- [ajax-websockets-creando-libreria-ajax](ajax-websockets-creando-libreria-ajax)
+
+## Alternativas a XHR
+- [ajax-websockets-axios](ajax-websockets-axios)

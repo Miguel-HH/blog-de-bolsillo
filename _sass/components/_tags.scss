@@ -1,9 +1,9 @@
-.tag-highligher {
+/* línea que une los tags */
+.tag-line {
     text-decoration: underline var(--bg1);
-    /*línea que une los tags*/
 }
 
-/*tag*/
+/* tag independiente */
 .tag-cuadro {
     padding: 0 2px 2px 2px;
     background-color: var(--high1);
@@ -13,53 +13,31 @@
     font-size: 1rem;
 }
 
-.tag-list-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 1rem;
-    margin: 1rem;
-}
-
-.tag-column {
-    background-color: hsla(180, 100%, 20%, 0.2);
-    padding: 1rem;
-}
-
-.post-date {
-    margin-bottom: 0.5rem;
-    font-size: 0.8rem;
-    color: var(--txt2);
-}
-
-/* 3 columnas de fecha-nombre-tags */
-
+/* 3 filas: fecha/enlace/tags */
 .tag-list-date {
     display: flex;
     flex-direction: column;
     margin: 1rem auto;
-    /*line-height: 1.5rem;*/
 
     & a {
+        margin: 0;
+        padding: 0;
         font-size: 1.5rem;
         text-decoration: none;
     }
 
     & div p {
+        margin-top: 0;
+        padding-top: 0;
         color: var(--txt2);
     }
 }
 
-.first-date {
-    line-height: 2.5;
-    width: 6rem;
-    color: var(--txt2);
-    font-size: 0.8rem;
-}
-
+/* Nube de tags */
 .tag-cloud {
     line-height: 1.8;
 }
-/*
-.push {
+
+.tag-list {
     color: var(--txt2);
-}*/
+}

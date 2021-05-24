@@ -1,16 +1,16 @@
 blockquote {
-    background: var(--bg2);
     border-left: 0.5rem solid var(--txt2);
     margin: 1rem 2rem;
     padding: 0.5rem;
+    background: var(--bg2);
 }
 
 blockquote p {
     display: inline;
+    align-content: center;
     color: var(--title1);
     font-size: 1rem;
     font-weight: 400;
-    align-content: center;
 }
 
 blockquote h2, blockquote h3 {

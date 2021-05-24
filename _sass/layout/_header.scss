@@ -11,9 +11,9 @@
 
         & .contact {
             text-decoration: none;
+            text-align: right;
             font-size: 1rem;
             font-weight: 500;
-            text-align: right;
 
             &:link {
                 color: var(--high1);
@@ -27,9 +27,8 @@
 }
 
 .main-title {
-    box-shadow: 0.75rem 0 0 var(--high1);
-	width: 18ch;
     margin: 2rem auto;
+    width: 18ch;
     overflow: hidden;
     white-space: nowrap;
     text-decoration: none;
@@ -37,8 +36,8 @@
     font-weight: 600;
     text-align: center;
     font-family: monospace;
-    animation:  caret .5s 13 forwards,
-                type 5s steps(18, end);
+    animation:  pop-up-rectangle .5s 13 forwards,
+                pop-up-characters 5s steps(18, end);
 
     &:link {
         color: var(--high1);
@@ -47,16 +46,20 @@
     &:visited {
         color: var(--high1);
     }
+
+    /* rectangulo parpadeando */
+    box-shadow: 0.75rem 0 0 var(--high1);
 }
 
-@keyframes type {
+@keyframes pop-up-characters {
     0% {
     width: 0;
     }
 }
 
-@keyframes caret {
+@keyframes pop-up-rectangle {
     50% {
+    /* rectangulo parpadeando */
     box-shadow: 0.75rem 0 0 transparent;
     }
 }

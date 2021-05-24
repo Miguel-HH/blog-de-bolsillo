@@ -40,7 +40,7 @@ description: "Guía para crear una lista en la que se muestren todos los post en
         {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/blog/tag/{{ tag_name }}">
-              <span class="tag-highligher">
+              <span class="tag-line">
                 <span class="tag-cuadro">{{ tag_name }}</span>
               </span>
             </a>

@@ -1,6 +1,18 @@
-.post-header {
+.post header {
     display: flex;
     flex-direction: column;
     text-align: right;
-    color: var(--txt1);
+}
+
+.post-date {
+    margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--txt2);
+}
+
+.list-date {
+    line-height: 2.5;
+    width: 6rem;
+    color: var(--txt2);
+    font-size: 0.8rem;
 }

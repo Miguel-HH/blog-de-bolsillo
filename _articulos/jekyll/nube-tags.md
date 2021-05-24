@@ -14,7 +14,7 @@ description: "Guía para crear una 'nube de tags' en la cual se mostrarán todos
 {% for item in tags %}
     <ul>
         <a href="/blog/tag/{{ item }}">
-            <span class="tag-highligher">
+            <span class="tag-line">
                 <span class="tag-cuadro">{{ item }}</span>
             </span>
         </a>

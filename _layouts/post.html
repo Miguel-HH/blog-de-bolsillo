@@ -3,7 +3,7 @@ layout: basic
 ---
 
 <article id="post">
-    <header class="post-header">
+    <header>
         <div class="post-date">
         {% assign m = page.date | date: "%-m" %}
         {{ page.date | date: "%-d" }}
@@ -27,7 +27,7 @@ layout: basic
         {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/blog-de-bolsillo/tag/{{ tag_name }}">
-                <span class="tag-highligher">
+                <span class="tag-line">
                     <nobr class="tag-cuadro">{{ tag_name }}
                     </nobr>
                 </span>

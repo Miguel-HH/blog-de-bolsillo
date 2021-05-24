@@ -4,8 +4,6 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Frutiger Linotype", "Dejavu Sans", sans-serif;
     font-size: 1rem;
     font-weight: 400;
-    background-color: var(--bg1);
-    color: var(--txt1);
 }
 
 h1, h2, h3, h4 {
@@ -35,7 +33,6 @@ h3 {
 
 p {
     color: var(--txt1);
-    font-weight: 400;
     padding-top: 0.25rem;
 }
 
@@ -56,4 +53,9 @@ main li {
 :target {
     background-color: var(--bg2);
     color: var(--title1);
+}
+
+footer {
+    color: var(--txt1);
+    font-size: 0.8rem;
 }

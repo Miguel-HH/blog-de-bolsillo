@@ -10,7 +10,7 @@ layout: basic
 {% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}
   <a href="/blog-de-bolsillo/tag/{{ item }}">
-    <span class="tag-highligher">
+    <span class="tag-line">
       <span class="tag-cuadro">{{ item }}</span>
     </span>
   </a>
