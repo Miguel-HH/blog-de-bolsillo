@@ -1,7 +1,7 @@
 ---
-layout: basic
-title: 'Tag: "Blog"'
+title: "Tag: 'Blog'"
 tag: blog
+layout: basic
 ---
 
 <h1>{{ page.title }}</h1>

@@ -7,24 +7,19 @@ description: "Definición de 'HTTP'."
 ---
 
 # ¿Qué es HTTP?
+- "Hypertext Transfer Protocol" o "Protocolo de Transferencia de Hipertexto".
+- HTTP es un protocolo que permite intercambiar información entre un servidor y un cliente.
 
-**Hypertext Transfer Protocol** - **Protocolo de Transferencia de Hipertexto**
-
-Permite intercambiar información entre un servidor y un cliente.
-
-## Servidor
-Entrega información a los clientes que envíen peticiones con el protocolo correcto.
-
-## [Proxy](que-es-proxy)
+## Arquitectura cliente-servidor
+- En este modelo, los clientes son los que realizan peticiones y los servidores son quienes responden.
+- Estas [peticiones](que-es-peticion-http) se realizan con el protocolo HTTP.
+- Los intermediarios son llamados ["Proxy"](que-es-proxy).
 
 ## Características de HTTP
-- HTTP era texto plano.
-- HTTP/2 se encapsularon los mensajes
-- HTTP es un protocolo sin estado, es decir: no guarda ningún dato entre dos peticiones en la mísma sesión. 
-- Las cookies permiten guardar datos con respecto a la sesión de comunicación. Usando la capacidad de ampliación del protocolo HTTP.
-
-## [Petición HTTP](que-es-una-peticion-http)
-## [Respuesta del servidor](respuesta-del-servidor-http)
+- HTTP es legible en texto plano.
+- HTTP/2 tiene mensajes encapsulados.
+- HTTP es un protocolo sin estado, es decir: no guarda ningún dato entre dos peticiones en la mísma sesión.
+- Las **cookies** permiten guardar datos con respecto a la sesión de comunicación. Usando la capacidad de ampliación del protocolo HTTP.
 
 ***
 

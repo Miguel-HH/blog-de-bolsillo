@@ -15,10 +15,10 @@ La pandemia lo cambió todo. Nos obligó a estar encerrados y comunicarnos exclu
 - ¿Qué es la [web](../internet/que-es-web)?
 - ¿Qué tan fácil es crear una página web?
 
-## Web
-Para crear una página web estática solamente necesitas aprender 3 tecnologías:
+## Desarollo Web
+Para crear una "página web estática" solamente necesitas aprender 3 tecnologías:
 
-- [HTML](../00/html) define la información, la estructura.
+- **HTML** define la información, la estructura.
 - [CSS](../00/css) define el estilo, la estética.
 - [JavaScript](../00/javascript) define la lógica, la programación de la página web.
 
@@ -27,13 +27,11 @@ Y lo mejor de todo es que son de libre acceso. ¡Es gratis!
 ## Entorno de desarrollo
 Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc de notas** de Windows. Pero hay aplicaciones específicas para escribir código.
 
-- [Visual Studio Code](../00/vscode) es muy fácil de aprender a utilizar.
-- [Vim](../00/vim) es la favorita de muchos programadores pero no es tan sencilla de aprender.
+- **Visual Studio Code** es muy fácil de aprender a utilizar.
+- **Vim** es la favorita de muchos programadores pero no es tan sencilla de aprender.
 
 ## Motores de búsqueda
-¿De qué sirve una página web si no tiene vistas?
-
-- [Search engine optimization](../00/seo) mejora el posicionamiento de una página web para que capte más tráfico en los motores de búsqueda.
+¿De qué sirve una página web si no tiene vistas? Si quieres tener muchas vistas, necesitas utilizar un conjunto de técnicas llamadas **SEO**.
 
 ## Sistema de control de versiones
 > "La verdadera diferencia entre los humanos y el resto de los animales no está en el plano individual, está en el plano colectivo... Los humanos son los únicos que pueden cooperar flexiblemente y en masa."\
@@ -44,14 +42,22 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - [GitHub](../00/github) es la plataforma de desarrollo colaborativo más popular entre los programadores.
 
 ## Seguridad web
-- ¿Qué es HTTPS?
+- ¿Qué es **HTTPS**?
 
-## Sistema de gestión de paquetes
-- NPM
-- YARN
+## Gestión de Dependencias y Paquetes
+- **NPM** es el "Package Manager" más popular.
+- YARN.
+
+## Preprocesadores
+- Preprocesadores de CSS
+
+## Automatización de tareas
+- Task runners
+
+## Interfaz de línea de comandos
+- CLI vs GUI
 
 ## Herramientas Frontend
-- Task runners
 - Module Bundler
 - Linters
 
@@ -69,10 +75,13 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - Typescript
 
 ## Progressive Web Apps
-- 
+- Storage, Web Sockets, Service workers
+- PRPL Pattern
 
 ## Server Side Render
-- 
+- Next.js
+- Universal
+- Nuxt.js
 
 ## GraphQL
 - Apollo

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Frutiger Linotype", "Dejavu Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: var(--bg1);
+    color: var(--txt1);
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Raleway', sans-serif;
+    color: var(--title1);
+    width: 100%;
+    margin-top: 1rem;
+}
+
+h1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 2.25rem;
+    font-weight: 800;
+}
+
+h2 {
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+p {
+    color: var(--txt1);
+    font-weight: 400;
+    padding-top: 0.25rem;
+}
+
+a:link {
+    color: var(--high1);
+    font-weight: 600;
+}
+
+a:visited {
+    color: var(--high1);
+    font-weight: 600;
+}
+
+main li {
+    margin: 0.5rem 0rem 0.5rem 1.5rem;
+}
+
+:target {
+    background-color: var(--bg2);
+    color: var(--title1);
+}

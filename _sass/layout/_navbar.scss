@@ -1,4 +1,4 @@
-.menu-dropdown {
+.menu {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     width: 100%;
@@ -9,11 +9,11 @@
     font-size: 1rem;
 }
 
-.menu-dropdown child {
+.menu child {
     position: absolute;
 }
 
-.menu-dropdown li a {
+.menu li a {
     display: block;
     padding: 0.5rem 1rem;
     text-decoration: none;
@@ -26,7 +26,7 @@
     }
 }
 
-.menu-dropdown li {
+.menu li {
     &:hover, :focus {
         .submenu {
             transform: scale(1, 1);
@@ -45,6 +45,7 @@
     transform: scale(1, 0);
 }
 
+/* ancho-de-submenu === ancho-de-menu */
 @media (max-width: 45rem) {
     .submenu {
         width: calc(33.333% - 0.666rem);
@@ -57,7 +58,7 @@
 
 .submenu li a {
     background-color: var(--high1);
-    color: var(--bg);
+    color: var(--bg1);
     &:hover {
         background-color: var(--high2);
     }

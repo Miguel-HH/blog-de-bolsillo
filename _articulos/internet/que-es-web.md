@@ -21,19 +21,19 @@ La World Wide Web es una red de alcance global.
 La estandarización asegura que ninguna empresa o gobierno pueda adueñarse de la web.
 
 ## Multiplataforma
-Funciona en cualquier sistema operativo. Todos pueden acceder a la web.
+La web funciona en cualquier sistema operativo. Todos pueden acceder a la web.
 
 ## Construir páginas web sin escribir código
-Más conocido como "Site Building".
+WordPress, Wix y otras plataformas ofrecen herramientas para crear páginas web sin la necesidad de tener conocimientos de programación.
 
 ## Construir páginas web escribiendo código
 Más conocido como "Desarrollo web"
 
 ### Páginas web estáticas
-Toda la información se encuentra en el código. Siempre muestra la misma información, por lo tanto esa información es estática.
+Toda la información se encuentra en el código. Este tipo de web siempre muestra la misma información, por lo tanto esa información es estática.
 
 ### Páginas web dinámicas
-Está conectada a una base de datos y muestra información dinámica.
+Está conectada a una base de datos y muestra información dinámica, que puede variar dependiendo del usuario.
 
 ***
 

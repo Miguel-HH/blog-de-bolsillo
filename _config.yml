@@ -46,6 +46,3 @@ include: [_pages]
 collections:
   articulos:
     output: true
-
-sass:
-  style: compressed

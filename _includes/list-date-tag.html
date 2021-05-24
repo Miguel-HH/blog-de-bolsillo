@@ -22,7 +22,7 @@
         <a href="{{ item.url | prepend: site.baseurl }}">
         {{ item.title }}
         </a>
-        <p class="push">tags: 
+        <p>tags: 
         {% for tag in item.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/blog-de-bolsillo/tag/{{ tag_name }}">

@@ -7,7 +7,7 @@ description: "Definición de 'Proxy'."
 ---
 
 # ¿Qué es 'Proxy'?
-Cada petición individual se envía a un servidor, el cuál la gestiona y responde. Entre cada _petición_ y _respuesta_, hay varios intermediarios, normalmente denominados *proxies*. Los cuales tienen funciones como cahces, balancear cargas, etc.
+Cada petición individual se envía a un servidor, el cuál la gestiona y responde. Entre cada _petición_ y _respuesta_, hay varios intermediarios llamados *proxies*. Los cuales tienen funciones como realizar caches, balancear cargas, etc.
 
 ***
 

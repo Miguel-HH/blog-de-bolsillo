@@ -1,7 +1,7 @@
 ---
-layout: basic
-title: 'Tag: "Índice"'
+title: "Tag: 'Índice'"
 tag: indice
+layout: basic
 ---
 
 <h1>{{ page.title }}</h1>

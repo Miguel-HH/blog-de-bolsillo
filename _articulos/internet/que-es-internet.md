@@ -12,9 +12,9 @@ Es la infraestructura de comunicación entre computadoras. Es decir, internet es
 La conforman cables, antenas, enrutadores y protocolos de comunicación.
 
 ## Protocolos
-Todo archivo que se comparte en internet, se divide en pequeñas partes llamadas paquetes a través de un protocolo llamado TCP/IP.
+Todo archivo que se comparte en internet, se divide en pequeñas partes llamadas "paquetes" que se envían a través de un protocolo llamado TCP/IP.
 
-## Web
+## Internet ≠ Web
 Internet no es lo mismo que [Web](que-es-web).
 
 ***

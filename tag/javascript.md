@@ -1,7 +1,7 @@
 ---
-layout: basic
-title: 'Tag: "JavaScript"'
+title: "Tag: 'JavaScript'"
 tag: javascript
+layout: basic
 ---
 
 <h1>{{ page.title }}</h1>

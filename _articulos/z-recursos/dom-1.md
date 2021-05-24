@@ -29,3 +29,8 @@ JavaScript es un lenguaje que vive en el navegador y nos permite manipular el DO
 
 ## El navegador
 - [dom-objeto-window](dom-objeto-window)
+- [dom-objeto-location](dom-objeto-location)
+- [dom-objeto-history](dom-objeto-history)
+- [dom-objeto-navigator](dom-objeto-navigator)
+- [dom-timers](dom-timers)
+- [dom-object-date](dom-object-date)

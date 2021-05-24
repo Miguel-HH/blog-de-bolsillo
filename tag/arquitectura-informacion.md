@@ -1,7 +1,7 @@
 ---
-layout: basic
-title: 'Tag: "Arquitectura de la información"'
+title: "Tag: 'Arquitectura de la información'"
 tag: arquitectura-informacion
+layout: basic
 ---
 
 <h1>{{ page.title }}</h1>

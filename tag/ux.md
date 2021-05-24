@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: 'Tag: "UX"'
+title: "Tag: 'UX'"
 tag: ux
 ---
 

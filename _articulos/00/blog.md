@@ -6,14 +6,15 @@ articles: 0
 layout: basic
 ---
 
-# Blog sobre diseño y desarrollo web
+# Blog
 
-> "Los procesadores son más rápidos que los seres humanos porque no piensan ni comprenden, solamente calculan."
->
-> _Byung-Chul Han_
+> "Los procesadores son más rápidos que los seres humanos porque no piensan ni comprenden, solamente calculan."\
+> \
+> **Byung-Chul Han**
 
-¿Quieres comprender mejor el **desarrollo web frontend** y el **diseño de experiencia de usuario**? Este blog es para ti.
+<br>
 
+Blog para todos los entusiastas del [Desarrollo Web Frontend](../frontend/ruta-de-aprendizaje).
 
 ***
 
