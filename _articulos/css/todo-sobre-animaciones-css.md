@@ -4,6 +4,7 @@ title: "Animaciones en CSS"
 date: 2021-05-05
 tags: css
 layout: post-css
+description: "Animaciones en CSS."
 ---
 
 # Animaciones en CSS

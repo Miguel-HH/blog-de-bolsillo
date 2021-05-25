@@ -13,13 +13,14 @@
     position: absolute;
 }
 
-.menu li a {
+.menu li a, .menu li p {
     display: block;
     padding: 0.5rem 1rem;
     text-decoration: none;
     background-color: var(--bg2);
     color: var(--txt1);
     text-align: center;
+    cursor: pointer;
 
     &:hover, :focus {
         background-color: var(--bg3);

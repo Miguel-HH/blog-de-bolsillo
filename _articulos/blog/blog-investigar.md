@@ -4,6 +4,7 @@ title: "1. Investigación para el blog"
 date: 2021-05-01
 tags: blog
 layout: post-blog
+description: "Investigación para el blog."
 ---
 
 # 1. Investigación para el blog

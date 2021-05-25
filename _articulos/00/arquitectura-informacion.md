@@ -1,9 +1,10 @@
 ---
-title: Arquitectura de la información
+title: "Arquitectura de la información"
 date: 2021-05-14
 tags: indice
 articles: 0
 layout: basic
+description: "Lista de artículos sobre: 'Arquitectura de la información'."
 ---
 
 # Arquitectura de la información

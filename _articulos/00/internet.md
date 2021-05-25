@@ -1,9 +1,10 @@
 ---
-title: Internet
+title: "Internet"
 date: 2021-05-07
 tags: indice
 articles: 6
 layout: basic
+description: "Lista de artículos sobre: 'Internet'."
 ---
 
 # ¿Qué es Internet?

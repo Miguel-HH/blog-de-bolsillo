@@ -3,6 +3,7 @@ title: "3. Implementar prototipos"
 date: 2021-04-27
 tags: organizacion
 layout: post-organizacion
+description: "Pasos para la organización de cualquier tipo de proyecto."
 ---
 
 # 3. Implementar prototipos

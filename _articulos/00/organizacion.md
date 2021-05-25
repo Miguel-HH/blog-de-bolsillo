@@ -1,9 +1,10 @@
 ---
-title: Organización
+title: "Organización"
 date: 2021-04-28
 tags: indice
 articles: 2
 layout: basic
+description: "Lista de artículos sobre: 'Organización'."
 ---
 
 # Organización

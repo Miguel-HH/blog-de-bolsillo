@@ -4,6 +4,7 @@ date: 2021-05-06
 tags: indice
 articles: 0
 layout: basic
+description: "Lista de artículos sobre: 'JavaScript'."
 ---
 
 # JavaScript

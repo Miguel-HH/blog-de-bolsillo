@@ -1,9 +1,10 @@
 ---
-title: Copywriting
+title: "Copywriting"
 date: 2021-04-28
 tags: indice
 articles: 9
 layout: basic
+description: "Lista de artículos sobre: 'Copywriting'."
 ---
 
 # Copywriting
