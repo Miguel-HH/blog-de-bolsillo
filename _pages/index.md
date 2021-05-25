@@ -13,4 +13,4 @@ description: "Página de inicio."
 
 <br>
 
-Blog para todos los entusiastas del [Desarrollo Web Frontend](articulos/frontend/ruta-de-aprendizaje).
+En mi celular tengo cientos de apuntes sobre [Desarrollo Web Frontend](articulos/frontend/ruta-de-aprendizaje). Pero... ¿De qué sirve el conocimiento si no se comparte?
