@@ -2,6 +2,7 @@
 title: "Tag: 'Notion'"
 tag: notion
 layout: basic
+description: "Todos los posts con el tag: 'Notion'."
 ---
 
 <h1>{{ page.title }}</h1>

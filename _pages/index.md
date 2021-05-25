@@ -2,6 +2,7 @@
 permalink: /
 title: Inicio
 date: 2021-04-25
+description: "Página de inicio."
 ---
 
 # Blog

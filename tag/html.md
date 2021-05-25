@@ -2,6 +2,7 @@
 title: "Tag: 'HTML'"
 tag: html
 layout: basic
+description: "Todos los posts con el tag: 'HTML'."
 ---
 
 <h1>{{ page.title }}</h1>

@@ -2,6 +2,7 @@
 title: "Tag: 'HTTP'"
 tag: http
 layout: basic
+description: "Todos los posts con el tag: 'HTTP'."
 ---
 
 <h1>{{ page.title }}</h1>

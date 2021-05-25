@@ -2,6 +2,7 @@
 title: "Tag: 'Frontend'"
 tag: frontend
 layout: basic
+description: "Todos los posts con el tag: 'Frontend'."
 ---
 
 <h1>{{ page.title }}</h1>

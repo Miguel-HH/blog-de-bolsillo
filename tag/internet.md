@@ -2,6 +2,7 @@
 title: "Tag: 'Internet'"
 tag: internet
 layout: basic
+description: "Todos los posts con el tag: 'Internet'."
 ---
 
 <h1>{{ page.title }}</h1>

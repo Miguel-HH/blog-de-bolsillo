@@ -2,6 +2,7 @@
 title: "Tag: 'Jekyll'"
 tag: jekyll
 layout: basic
+description: "Todos los posts con el tag: 'Jekyll'."
 ---
 
 <h1>{{ page.title }}</h1>

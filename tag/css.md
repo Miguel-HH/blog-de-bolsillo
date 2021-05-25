@@ -2,6 +2,7 @@
 title: "Tag: 'CSS'"
 tag: css
 layout: basic
+description: "Todos los posts con el tag: 'CSS'."
 ---
 
 <h1>{{ page.title }}</h1>

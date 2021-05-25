@@ -2,6 +2,7 @@
 title: "Tag: 'Copywriting'"
 tag: copywriting
 layout: basic
+description: "Todos los posts con el tag: 'Copywriting'."
 ---
 
 <h1>{{ page.title }}</h1>

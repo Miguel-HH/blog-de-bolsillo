@@ -2,6 +2,7 @@
 layout: basic
 title: "Tag: 'UX'"
 tag: ux
+description: "Todos los posts con el tag: 'UX'."
 ---
 
 <h1>{{ page.title }}</h1>

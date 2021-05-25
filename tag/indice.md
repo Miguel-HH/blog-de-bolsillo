@@ -2,6 +2,7 @@
 title: "Tag: 'Índice'"
 tag: indice
 layout: basic
+description: "Todos los posts con el tag: 'Índice'."
 ---
 
 <h1>{{ page.title }}</h1>

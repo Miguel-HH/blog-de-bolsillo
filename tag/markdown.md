@@ -2,6 +2,7 @@
 title: "Tag: 'Markdown'"
 tag: markdown
 layout: basic
+description: "Todos los posts con el tag: 'Markdown'."
 ---
 
 <h1>{{ page.title }}</h1>
