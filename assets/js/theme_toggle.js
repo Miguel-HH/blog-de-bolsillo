@@ -1,16 +1,14 @@
 /**
  * Clicking on the slider will toggle the theme between "black" and "white".
  * The selected theme will be saved on "localStorage".
- *
- * Hacer clic en slider alternará el tema entre "black" y "white".
- * El tema seleccionado será guardado en "localStorage".
  */
 
 const sliderTheme = document.getElementById('slider-theme')
 
 sliderTheme.checked = false
 
-sliderTheme.addEventListener('click', function() {
+sliderTheme.addEventListener('click', function () {
+    document.body.style.transition = '.1s';
     if (this.checked) {
         document.body.classList.remove('white')
         document.body.classList.add('black')
@@ -22,11 +20,7 @@ sliderTheme.addEventListener('click', function() {
     }
 })
 
-/**
- * The default theme is "white".
- *
- * El tema por defecto es "white".
- */
+// The default theme is "white".
 
 window.onload = () => {
     if (localStorage.getItem('savedTheme') === 'black') {

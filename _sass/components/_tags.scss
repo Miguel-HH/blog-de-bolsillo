@@ -5,7 +5,7 @@
 
 /* tag independiente */
 .tag-cuadro {
-    padding: 0 2px 2px 2px;
+    padding: 0 3px 3px 3px;
     background-color: var(--high1);
     text-decoration: underline var(--high1);
     color: var(--bg1);
@@ -13,11 +13,33 @@
     font-size: 1rem;
 }
 
-/* 3 filas: fecha/enlace/tags */
+/* 2 filas: [tags-fecha]-[enlace] */
 .tag-list-date {
     display: flex;
     flex-direction: column;
-    margin: 1rem auto;
+    margin: 2rem auto;
+
+    & span {
+        display: flex;
+        flex-direction: row;
+        line-height: 1;
+        gap: 0.5rem;
+    }
+
+    & span .list-date {
+        line-height: 1.25;
+        font-size: 0.8rem;
+    }
+
+    & span .tag-span {
+        display: flex;
+        flex-direction: row;
+        margin-top: 0;
+        padding-top: 0;
+        color: var(--txt2);
+        line-height: 1;
+        gap: 0.25rem;
+    }
 
     & a {
         margin: 0;
@@ -25,19 +47,13 @@
         font-size: 1.5rem;
         text-decoration: none;
     }
-
-    & div p {
-        margin-top: 0;
-        padding-top: 0;
-        color: var(--txt2);
-    }
-}
-
-/* Nube de tags */
-.tag-cloud {
-    line-height: 1.8;
 }
 
 .tag-list {
     color: var(--txt2);
+}
+
+/* Nube de tags */
+.tag-cloud {
+    line-height: 1.9;
 }

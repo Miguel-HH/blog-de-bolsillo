@@ -1,28 +1,6 @@
 <li class="tag-list-date">
-    <p class="list-date">
-    {% assign m = item.date | date: "%-m" %}
-    {{ item.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Ene
-    {% when '2' %}Feb
-    {% when '3' %}Mar
-    {% when '4' %}Abr
-    {% when '5' %}May
-    {% when '6' %}Jun
-    {% when '7' %}Jul
-    {% when '8' %}Aug
-    {% when '9' %}Set
-    {% when '10' %}Oct
-    {% when '11' %}Nov
-    {% when '12' %}Dic
-    {% endcase %}
-    {{ item.date | date: "%Y" }}
-    </p>
-    <div>
-        <a href="{{ item.url | prepend: site.baseurl }}">
-        {{ item.title }}
-        </a>
-        <p>tags: 
+    <span>
+        <p class="tag-span">
         {% for tag in item.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/blog-de-bolsillo/tag/{{ tag_name }}">
@@ -33,5 +11,27 @@
             </a>
         {% endfor %}
         </p>
-    </div>
+        <p class="list-date">
+            {% assign m = item.date | date: "%-m" %}
+            {{ item.date | date: "%-d" }}
+            {% case m %}
+            {% when '1' %}Ene
+            {% when '2' %}Feb
+            {% when '3' %}Mar
+            {% when '4' %}Abr
+            {% when '5' %}May
+            {% when '6' %}Jun
+            {% when '7' %}Jul
+            {% when '8' %}Aug
+            {% when '9' %}Set
+            {% when '10' %}Oct
+            {% when '11' %}Nov
+            {% when '12' %}Dic
+            {% endcase %}
+            {{ item.date | date: "%Y" }}
+        </p>
+    </span>
+    <a href="{{ item.url | prepend: site.baseurl }}">
+        {{ item.title }}
+    </a>
 </li>
