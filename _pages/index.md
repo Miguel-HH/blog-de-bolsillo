@@ -5,7 +5,7 @@ date: 2021-04-25
 description: "Página de inicio."
 ---
 
-# Blog
+# Hola
 
 > "Los procesadores son más rápidos que los seres humanos porque no piensan ni comprenden, solamente calculan."\
 > \

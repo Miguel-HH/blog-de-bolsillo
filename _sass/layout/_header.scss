@@ -22,6 +22,10 @@
             &:visited {
                 color: var(--high1);
             }
+
+            &:hover {
+                text-decoration: underline var(--high1);
+            }
         }
     }
 }
@@ -36,7 +40,7 @@
     font-weight: 600;
     text-align: center;
     font-family: monospace;
-    animation:  pop-up-rectangle .5s 13 forwards,
+    animation:  pop-up-rectangle .5s 12 forwards step-end,
                 pop-up-characters 5s steps(18, end);
 
     &:link {
@@ -48,7 +52,7 @@
     }
 
     /* rectangulo parpadeando */
-    box-shadow: 0.75rem 0 0 var(--high1);
+    box-shadow: 0.75rem 0 0 transparent;
 }
 
 @keyframes pop-up-characters {
@@ -60,6 +64,6 @@
 @keyframes pop-up-rectangle {
     50% {
     /* rectangulo parpadeando */
-    box-shadow: 0.75rem 0 0 transparent;
+    box-shadow: 0.75rem 0 0 var(--high1);
     }
 }
