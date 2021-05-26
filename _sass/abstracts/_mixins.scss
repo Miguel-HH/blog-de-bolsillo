@@ -1,0 +1,12 @@
+@mixin bg-font($bgColor, $fontColor) {
+    background-color: $bgColor;
+
+    & a {
+        color: $fontColor;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline $fontColor;
+        }
+    }
+}

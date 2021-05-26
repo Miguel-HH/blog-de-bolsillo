@@ -8,6 +8,7 @@
     display: none;
 }
 
+/* Footer genérico */
 main footer {
     position: absolute;
     max-width: 100vw;
@@ -22,25 +23,54 @@ main footer {
 }
 
 .footer {
-    background-color: var(--title1);
-
-    & a {
-        color: var(--bg1);
-    }
+    @include bg-font(var(--high1), var(--title1));
 }
 
-.footer.css{
-    background-color: #264de4;
-
-    & a {
-        color: #ebebeb;
-    }
+/* footers mix-ins */
+.footer.ai {
+    @include bg-font(#0074C4, #eee);
 }
 
-.footer.html{
-    background-color: #e34c26;
+.footer.blog {
+    @include bg-font(#e34c26, #eee);
+}
 
-    & a {
-        color: #ebebeb;
-    }
+.footer.copywriting {
+    @include bg-font(#1BA47A, #eee);
+}
+
+.footer.css {
+    @include bg-font(#264de4, #eee);
+}
+
+.footer.dt {
+    @include bg-font(#ffdd00, #333);
+}
+
+.footer.html {
+    @include bg-font(#e34c26, #eee);
+}
+
+.footer.internet {
+    @include bg-font(#0077DB, #eee);
+}
+
+.footer.javascript {
+    @include bg-font(#ffdd00, #333);
+}
+
+.footer.jekyll {
+    @include bg-font(#D92949, #eee);
+}
+
+.footer.markdown {
+    @include bg-font(#2D6B84, #eee);
+}
+
+.footer.marketing {
+    @include bg-font(#D2F08F, #333);
+}
+
+.footer.notion {
+    @include bg-font(#e34c26, #eee);
 }

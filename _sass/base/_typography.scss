@@ -36,16 +36,6 @@ p {
     padding-top: 0.25rem;
 }
 
-a:link, a:visited {
-    color: var(--high1);
-    font-weight: 600;
-    text-decoration: none;
-
-    &:hover {
-        text-decoration: underline;
-    }
-}
-
 main li {
     margin: 0.5rem 0rem 0.5rem 1.5rem;
 }
@@ -55,11 +45,14 @@ main li {
     color: var(--title1);
 }
 
-footer {
-    color: var(--txt1);
-    font-size: 0.8rem;
-}
+a {
 
-a :hover {
-    text-decoration: underline var(--bg1);
+    &:link, &:visited {
+    color: var(--high1);
+    font-weight: 500;
+    }
+
+    &:hover {
+        text-decoration: underline var(--bg1);
+    }
 }

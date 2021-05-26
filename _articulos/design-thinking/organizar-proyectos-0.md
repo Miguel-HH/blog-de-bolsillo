@@ -1,8 +1,8 @@
 ---
 title: "Organización de proyectos"
 date: 2021-04-27
-tags: organizacion
-layout: post-organizacion
+tags: design-thinking
+layout: post-dt
 description: "Pasos para la organización de cualquier tipo de proyecto."
 ---
 

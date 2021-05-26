@@ -1,8 +1,8 @@
 ---
 title: "Linking to thinking"
 date: 2021-05-05
-tags: organizacion
-layout: post-organizacion
+tags: design-thinking
+layout: post-dt
 description: "Técnicas para enlazar las notas de estudio."
 ---
 

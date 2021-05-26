@@ -1,8 +1,8 @@
 ---
 title: "¿Cómo priorizar tareas?"
 date: 2021-04-29
-tags: organizacion
-layout: post-organizacion
+tags: design-thinking
+layout: post-dt
 description: "El uso de la 'matriz de Eisenhower' para asignar prioridad a las tareas."
 ---
 

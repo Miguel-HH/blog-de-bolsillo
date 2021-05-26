@@ -51,6 +51,10 @@
         color: var(--high1);
     }
 
+    &:hover {
+        text-decoration: underline var(--high1);
+    }
+
     /* rectangulo parpadeando */
     box-shadow: 0.75rem 0 0 transparent;
 }
