@@ -24,7 +24,3 @@ CSS tiene: Selectores, declaraciones, propiedades y valores.
 ## Efectos y estilos
 - [Suavizar Desplazamiento](../css/suavizar-desplazamiento)
 - [Editar SASS en Jekyll](../jekyll/sass-jekyll)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

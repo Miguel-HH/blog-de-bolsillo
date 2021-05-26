@@ -16,7 +16,3 @@ Es el lenguaje base de la historia web.
 - HTML semántico
 - Accesibilidad
 - SEO básico
-
-***
-
-- Volver a: ["Nube de tags"](../index)

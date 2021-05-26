@@ -11,7 +11,3 @@ description: "Lista de artículos sobre: 'Organización'."
 
 - [5 etapas para organizar cualquier proyecto](../organizacion/organizar-proyectos-0)
 - [Linking your thinking](../organizacion/organizar-linking-your-thinking)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

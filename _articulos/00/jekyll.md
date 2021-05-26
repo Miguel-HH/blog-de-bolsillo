@@ -22,7 +22,3 @@ description: "Lista de artículos sobre: 'Jekyll'."
 
 ## Markdown
 - [Enlaces estandar](../markdown/enlaces-estandar-en-markdown)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

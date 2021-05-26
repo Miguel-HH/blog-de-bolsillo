@@ -22,4 +22,7 @@ description: "Pasos para la organización de cualquier tipo de proyecto."
 - [3 - Implementar](organizar-proyectos-3)
 - [4 - Iterar](organizar-proyectos-4)
 - 5 - Indexar
+
+***
+
 - Quiero aprender más sobre: ["Organización"](../00/organizacion)

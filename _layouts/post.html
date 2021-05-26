@@ -23,7 +23,7 @@ layout: basic
         {% endcase %}
         {{ page.date | date: "%Y" }}
         </div>
-        <span class="tags-box">Tags:
+        <span>Tags:
         {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/blog-de-bolsillo/tag/{{ tag_name }}">

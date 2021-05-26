@@ -57,4 +57,3 @@ Content-Type: text/html
 ***
 
 - Quiero aprender más sobre: ["HTTP"](que-es-http)
-- Quiero aprender más sobre: ["HTML"](../00/html)

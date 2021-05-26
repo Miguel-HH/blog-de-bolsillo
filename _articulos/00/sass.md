@@ -10,7 +10,3 @@ description: "Lista de artículos sobre: 'SASS'."
 # SASS
 
 - [SASS en Jekyll](../jekyll/agregar-css-en-jekyll)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

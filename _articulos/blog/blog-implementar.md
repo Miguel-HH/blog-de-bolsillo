@@ -30,4 +30,3 @@ Fallar rápido, fallar barato. Experimentar con cada ensayo y error es la clave 
 ***
 
 - Quiero aprender más sobre: ["Blogging"](../00/blog)
-- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

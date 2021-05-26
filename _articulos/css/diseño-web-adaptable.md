@@ -21,4 +21,7 @@ description: "'Buenas prácticas' para crear webs que se adapten a la pantalla d
 ***
 
 - Tema relacionado: ["CSS Grid"](grid)
+
+***
+
 - Quiero aprender más sobre: ["CSS"](../00/css)

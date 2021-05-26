@@ -30,23 +30,7 @@ description: "Lista de artículos sobre: 'Copywriting'."
 - Urgente, útil, único y ultra-específico.
 
 ## Fórmulas de copywriting
-- [Fundamentos del Copywriting](../copywriting/teoria-del-copywriting)
-- [Escritura del Copywriting](../copywriting/proceso-de-escritura-del-copywriting)
-- [¿Cómo escribir?](../copywriting/como-escribir-un-copy)
-
-***
-
-- [Briefing](../copywriting/que-es-briefing)
-- [Cliente en el Copywriting](../copywriting/entendiendo-al-cliente)
-- [Producto en el Copywriting](../copywriting/entendiendo-el-producto)
-
-***
-
-- [Frases del Copywriting](../copywriting/mejores-frases-del-copywriting)
-- [Partes de una página web](../copywriting/estructura-de-una-pagina-web)
-- [Partes del E-mail Marketing](../copywriting/email-marketing)
-
-***
-
-- Quiero aprender más sobre: ["UX"](../00/ux)
-- Volver a: ["Nube de tags"](../index)
+- [Fundamentos del Copywriting](../copywriting/teoria-copywriting)
+- [Escritura del Copywriting](../copywriting/proceso-escritura-copywriting)
+- [¿Cómo escribir?](../copywriting/como-escribir-copywriting)
+- [Frases del Copywriting](../copywriting/mejores-frases-copywriting)

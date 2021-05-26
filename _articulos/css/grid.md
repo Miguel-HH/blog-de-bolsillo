@@ -59,4 +59,7 @@ espacio entre elementos del grid
 
 - Tema relacionado: ["CSS flexbox"](flexbox)
 - Volver a: ["Layout CSS"](layout)
+
+***
+
 - Quiero aprender más sobre: ["CSS"](../00/css)

@@ -3,7 +3,7 @@ published: false
 title: "¿Qué es 'Briefing'?"
 date: 2021-05-05
 tags: copywriting
-layout: post-copy
+layout: post-copywriting
 description: "El 'Briefing' es un resumen de todo el proyecto."
 ---
 

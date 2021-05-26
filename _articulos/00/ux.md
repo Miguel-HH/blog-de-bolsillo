@@ -12,7 +12,3 @@ description: "Lista de artículos sobre: 'UX'."
 ## UX Writing
 
 - [Copywriting](../00/copywriting)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

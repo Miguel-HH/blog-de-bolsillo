@@ -2,7 +2,7 @@
 title: "Teoría del copywriting"
 date: 2021-05-02
 tags: copywriting
-layout: post-copy
+layout: post-copywriting
 description: "Todo lo que necesitas saber sobre 'copywriting'."
 ---
 

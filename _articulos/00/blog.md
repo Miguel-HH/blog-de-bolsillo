@@ -16,7 +16,3 @@ description: "Lista de artículos sobre: 'Blog'."
 <br>
 
 Blog para todos los entusiastas del [Desarrollo Web Frontend](../frontend/ruta-de-aprendizaje).
-
-***
-
-- Volver a: ["Nube de tags"](../index)

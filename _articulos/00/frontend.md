@@ -9,7 +9,3 @@ description: "Lista de artículos sobre: 'Frontend'."
 
 # Frontend
 - [Ruta de aprendizaje Frontend](../frontend/ruta-de-aprendizaje)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

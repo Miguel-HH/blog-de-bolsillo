@@ -2,7 +2,7 @@
 title: "Proceso de escritura del Copywriting"
 date: 2021-05-04
 tags: copywriting
-layout: post-copy
+layout: post-copywriting
 description: "Todo lo que se debe hacer antes, durante y después de escribir un copy."
 ---
 

@@ -10,7 +10,3 @@ description: "Lista de artículos sobre: 'Markdown'."
 # Markdown
 - [Enlaces estandar en Markdown](../markdown/enlaces-estandar-en-markdown)
 - [Crear anclas en Markdown](../markdown/crear-anclas-en-markdown)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

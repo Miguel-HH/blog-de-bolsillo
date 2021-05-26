@@ -10,7 +10,3 @@ description: "Lista de artículos sobre: 'Marketing'."
 # Marketing
 
 - [Marca Personal](../marketing/que-es-una-marca-personal)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

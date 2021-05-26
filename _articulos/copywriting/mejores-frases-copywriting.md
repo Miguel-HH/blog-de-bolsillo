@@ -2,7 +2,7 @@
 title: "Mejores frases del Copywriting"
 date: 2021-05-04
 tags: copywriting
-layout: post-copy
+layout: post-copywriting
 description: "Selección de frases empleadas en el 'Copywriting'."
 ---
 

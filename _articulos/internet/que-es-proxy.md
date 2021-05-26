@@ -12,4 +12,7 @@ Cada petición individual se envía a un servidor, el cuál la gestiona y respon
 ***
 
 - Volver a: ["HTTP"](que-es-http)
+
+***
+
 - Quiero aprender más sobre: ["Internet"](../00/internet)

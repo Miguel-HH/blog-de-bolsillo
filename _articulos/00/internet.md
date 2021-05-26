@@ -14,7 +14,3 @@ description: "Lista de artículos sobre: 'Internet'."
 - ¿Qué es [DNS](../internet/que-es-dns)?
 - ¿Qué es un [dominio web](../internet/que-es-dominio-web)?
 - ¿Qué es [hosting](../internet/que-es-hosting)?
-
-***
-
-- Volver a: ["Nube de tags"](../index)

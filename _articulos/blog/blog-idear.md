@@ -28,4 +28,3 @@ En la primera etapa, **todas** las ideas deben estar basadas en la necesidad del
 ***
 
 - Quiero aprender más sobre: ["Blogging"](../00/blog)
-- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

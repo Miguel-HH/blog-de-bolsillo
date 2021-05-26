@@ -52,6 +52,9 @@ body {
 
 ***
 
-- Quiero aprender más sobre: ["Jekyll"](../00/jekyll)
 - Quiero aprender más sobre: ["SASS"](../00/sass)
 - Quiero aprender más sobre: ["CSS"](../00/css)
+
+***
+
+- Quiero aprender más sobre: ["Jekyll"](../00/jekyll)

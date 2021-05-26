@@ -10,7 +10,3 @@ description: "Lista de artículos sobre: 'Notion'."
 # Notion
 
 - [Fórmulas de Notion](../notion/formulas-en-notion)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

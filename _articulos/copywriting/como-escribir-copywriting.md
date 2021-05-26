@@ -2,7 +2,7 @@
 title: "¿Cómo escribir un copy?"
 date: 2021-05-01
 tags: copywriting
-layout: post-copy
+layout: post-copywriting
 description: "Pasos para escribir un 'copy'."
 ---
 

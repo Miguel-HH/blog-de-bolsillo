@@ -81,4 +81,3 @@ Tecnologías necesarias para construir, editar y compartir el blog.
 ***
 
 - Quiero aprender más sobre: ["Blogging"](../00/blog)
-- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

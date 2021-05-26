@@ -8,9 +8,3 @@ description: "Lista de artículos sobre: 'Design thinking'."
 ---
 
 # Design Thinking
-
-
-
-***
-
-- Volver a: ["Nube de tags"](../index)

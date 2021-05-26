@@ -30,7 +30,3 @@ description: "Lista de artículos sobre: 'Programación'."
 
 - JSON
 - Git
-
-***
-
-- Volver a: ["Nube de tags"](../index)

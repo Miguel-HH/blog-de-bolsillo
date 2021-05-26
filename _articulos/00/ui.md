@@ -26,7 +26,3 @@ El UI mejora la usabilidad, la experiencia de usuario y el diseño de interacci�
 - UI Designer: Diseñador de interfaz de usuario.
 - IxD Designer: Diseñador de interacción.
 - Motion Designer: Animador - UI Designer.
-
-***
-
-- Volver a: ["Nube de tags"](../index)

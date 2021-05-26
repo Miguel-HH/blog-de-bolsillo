@@ -61,7 +61,3 @@ JavaScript es un monopolio. Es el único lenguaje de programación en el lado de
 ## DOM
 - [javascript-importar-exportar](javascript-importar-exportar)
 - [javascript-imprimir-contenido-en-dom](javascript-imprimir-contenido-en-dom)
-
-***
-
-- Volver a: ["Nube de tags"](../index)

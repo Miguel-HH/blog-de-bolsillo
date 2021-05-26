@@ -14,4 +14,7 @@ flexbox direction
 
 - Tema relacionado: ["CSS Grid"](grid)
 - Volver a: ["Layout CSS"](layout)
+
+***
+
 - Quiero aprender más sobre: ["CSS"](../00/css)

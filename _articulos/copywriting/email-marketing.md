@@ -3,7 +3,7 @@ published: false
 title: "Email marketing"
 date: 2021-05-03
 tags: copywriting marketing
-layout: post-copy
+layout: post-copywriting
 description: "Pasos para escribir un email con técnicas de 'escritura persuasiva'."
 ---
 
