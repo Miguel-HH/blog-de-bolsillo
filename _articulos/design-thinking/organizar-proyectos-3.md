@@ -27,4 +27,4 @@ description: "Pasos para la organización de cualquier tipo de proyecto."
 
 ***
 
-- Quiero aprender más sobre: ["Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

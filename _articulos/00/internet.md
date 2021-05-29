@@ -8,7 +8,7 @@ description: "Lista de artículos sobre: 'Internet'."
 ---
 
 # ¿Qué es Internet?
-- [Internet](../internet/que-es-internet) es una gran infraestructura mundial mientras que [la web](../internet/que-es-web) es un conjunto de documentos.
+- [Internet](../internet/que-es-internet) es una gran infraestructura mundial mientras que la [web](../internet/que-es-web) es un conjunto de documentos.
 - Toda la web utiliza el [protocolo HTTP](../internet/que-es-http).
 - Para ver los documentos de la web es necesario un [navegador web](../internet/que-es-navegador-web).
 - ¿Qué es [DNS](../internet/que-es-dns)?

@@ -15,7 +15,6 @@ description: "Lista de artículos sobre: 'CSS'."
 
 CSS tiene: Selectores, declaraciones, propiedades y valores.
 
-
 ## Propiedades
 - [overflow](../css/overflow)
 - [line-height](../css/line-height)

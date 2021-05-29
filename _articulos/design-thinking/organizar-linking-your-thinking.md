@@ -18,4 +18,4 @@ Yo ayudo a otros a resolver sus problemas gratis.
 
 ***
 
-- Quiero aprender más sobre: ["Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

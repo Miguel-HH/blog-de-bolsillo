@@ -12,6 +12,7 @@
         & .contact {
             text-decoration: none;
             text-align: right;
+            font-family: monospace;
             font-size: 1rem;
             font-weight: 500;
 
@@ -36,10 +37,10 @@
     overflow: hidden;
     white-space: nowrap;
     text-decoration: none;
-    font-size: 1.5rem;
-    font-weight: 600;
     text-align: center;
     font-family: monospace;
+    font-size: 1.5rem;
+    font-weight: 800;
     animation:  pop-up-rectangle .5s 12 forwards step-end,
                 pop-up-characters 5s steps(18, end);
 

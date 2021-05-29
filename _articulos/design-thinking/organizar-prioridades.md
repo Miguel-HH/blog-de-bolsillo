@@ -40,4 +40,4 @@ Es esa tarea que no puedes completar hoy porque requieren de mucha planificació
 
 ***
 
-- Quiero aprender más sobre: ["Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

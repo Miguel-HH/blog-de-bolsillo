@@ -45,4 +45,4 @@ Antes de comenzar a trabajar en cualquier proyecto primero hay tomarse un tiempo
 
 ***
 
-- Quiero aprender más sobre: ["Organización"](../00/organizacion)
+- Quiero aprender más sobre: ["Design thinking"](../00/design-thinking)

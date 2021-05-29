@@ -18,3 +18,9 @@ tags: ajax websockets
 
 ## Alternativas a XHR
 - [ajax-websockets-axios](ajax-websockets-axios)
+- [ajax-websockets-fetch](ajax-websockets-fetch)
+- [ajax-websockets-enviar-contenidos-fetch](ajax-websockets-enviar-contenidos-fetch)
+
+## Websockets
+- [ajax-websockets-definicion-websockets](ajax-websockets-definicion-websockets)
+- [ajax-websockets-ciclo-websockets](ajax-websockets-ciclo-websockets)

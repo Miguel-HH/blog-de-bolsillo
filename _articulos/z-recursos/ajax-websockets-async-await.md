@@ -46,3 +46,21 @@ btn.addEventListener('click', async () => {
 	setText(user.name)
 })
 ````
+
+## Ejemplo 2
+
+````js
+const loadComics = async () => {
+  const response = await fetch(url)
+    switch (response.status){
+    case STATUS_OK:
+      cons data = await response.json()
+        draw(data.data.results)
+        break
+    case STATUS_NOT_FOUND:
+      console.log('No se encontró información')
+      break
+   }
+ }
+ ````
+ 

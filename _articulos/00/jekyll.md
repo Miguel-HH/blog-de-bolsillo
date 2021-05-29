@@ -8,17 +8,17 @@ description: "Lista de artículos sobre: 'Jekyll'."
 ---
 
 ## Jekyll
-- [Instalación de Jekyll](../jekyll/como-instalar-jekyll-en-windows)
-- [Crear "pages"](../jekyll/paginas-por-defecto-en-jekyll)
-- [Crear colecciones](../jekyll/crear-colecciones-en-jekyll)
-- [Crear listas](../jekyll/tipos-de-listas-en-jekyll)
-- [Agregar tags](../jekyll/crear-tags-en-jekyll)
-- [Crear nube de tags](../jekyll/nube-de-tags-en-jekyll)
-- [Mostrar todos los post en Jekyll](../jekyll/mostrar-todos-los-post-en-jekyll)
-- [Crear y mostrar datos](../jekyll/mostrar-datos-en-jekyll)
+- [Instalación de Jekyll](../jekyll/instalar-en-windows)
+- [Crear "pages"](../jekyll/paginas-por-defecto)
+- [Crear colecciones](../jekyll/crear-colecciones)
+- [Crear listas](../jekyll/tipos-listas)
+- [Agregar tags](../jekyll/crear-tags)
+- [Crear nube de tags](../jekyll/nube-tags)
+- [Mostrar todos los post en Jekyll](../jekyll/mostrar-todos-post)
+- [Crear y mostrar datos](../jekyll/mostrar-datos-yaml)
 
 ## Estilos
-- [Estilo](../jekyll/agregar-css-en-jekyll)
+- [Estilo](../jekyll/agregar-css)
 
 ## Markdown
-- [Enlaces estandar](../markdown/enlaces-estandar-en-markdown)
+- [Enlaces estandar](../markdown/enlaces-estandar)

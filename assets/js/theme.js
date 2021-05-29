@@ -1,14 +1,11 @@
-/**
- * Clicking on the slider will toggle the theme between "black" and "white".
- * The selected theme will be saved on "localStorage".
- */
+// Clicking on the slider will toggle the theme between "black" and "white".
 
 const sliderTheme = document.getElementById('slider-theme')
 
 sliderTheme.checked = false
 
-sliderTheme.addEventListener('click', function () {
-    document.body.style.transition = '.1s';
+function saveTheme() {
+    document.body.style.transition = '.1s'
     if (this.checked) {
         document.body.classList.remove('white')
         document.body.classList.add('black')
@@ -18,11 +15,13 @@ sliderTheme.addEventListener('click', function () {
         document.body.classList.add('white')
         localStorage.setItem('savedTheme', 'white')
     }
-})
+}
 
-// The default theme is "white".
+sliderTheme.addEventListener('click', saveTheme)
 
-window.onload = () => {
+// When loading the page, it will use the theme saved in "localStorage"
+
+function loadSavedTheme() {
     if (localStorage.getItem('savedTheme') === 'black') {
         document.body.className = 'black'
         sliderTheme.checked = true
@@ -30,3 +29,5 @@ window.onload = () => {
         document.body.className = 'white'
     }
 }
+
+window.onload = loadSavedTheme()

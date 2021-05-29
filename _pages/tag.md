@@ -29,7 +29,7 @@ description: "Nube de tags."
 
 ## User Experience Design
 - [Copywriting](00/copywriting)
-- [Organización](00/organizacion)
+- [Design thinking](00/design-thinking)
 - [UX](00/ux)
 - UI
 - Marketing

@@ -32,7 +32,6 @@ description: "Nube de tags."
 - [Arquitectura de la información](00/arquitectura-informacion)
 - [Copywriting](00/copywriting)
 - [Design thinking](00/design-thinking)
-- [Organización](00/organizacion)
 - [UX](00/ux)
 - [UI](00/ui)
 - [Marketing](00/marketing)
