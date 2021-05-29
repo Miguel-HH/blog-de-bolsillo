@@ -14,6 +14,10 @@ description: "Selección de mejores frases empleadas en la 'Arquitectura de la I
 
 Autor: Diego Rufo Helguera
 
+## Libros recomendados
+
+- How to make sense if any mess - Abby Covert
+
 ***
 
 - Quiero aprender más sobre: ["Arquitectura de la información"](../00/arquitectura-informacion)

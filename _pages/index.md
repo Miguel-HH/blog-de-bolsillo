@@ -13,4 +13,4 @@ description: "Página de inicio."
 
 <br>
 
-En mi celular tengo cientos de apuntes sobre [Desarrollo Web Frontend](articulos/frontend/ruta-de-aprendizaje). Pero... ¿De qué sirve el conocimiento si no se comparte?
+En mi celular tengo cientos de apuntes sobre [Desarrollo Web Frontend](articulos/frontend/ruta-de-aprendizaje). Pero... ¿De qué sirve el conocimiento si es que no se comparte?

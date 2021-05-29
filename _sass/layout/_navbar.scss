@@ -47,9 +47,9 @@
 }
 
 /* ancho-de-submenu === ancho-de-menu */
-@media (max-width: 45rem) {
+@media (max-width: 48rem) {
     .submenu {
-        width: calc(33.333% - 0.666rem);
+        width: calc(33.333vw - 1rem);
     }
 }
 
