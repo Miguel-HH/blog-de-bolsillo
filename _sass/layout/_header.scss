@@ -36,7 +36,7 @@
 }
 
 .main-title {
-    margin: 2rem auto;
+    margin: 2em auto;
     width: 18ch;
     overflow: hidden;
     white-space: nowrap;
@@ -61,7 +61,7 @@
     }
 
     /* rectangulo parpadeando */
-    box-shadow: 0.75rem 0 0 transparent;
+    box-shadow: 0.75em 0 0 transparent;
 }
 
 @keyframes pop-up-characters {
@@ -73,6 +73,6 @@
 @keyframes pop-up-rectangle {
     50% {
     /* rectangulo parpadeando */
-    box-shadow: 0.75rem 0 0 var(--high1);
+    box-shadow: 0.75em 0 0 var(--high1);
     }
 }

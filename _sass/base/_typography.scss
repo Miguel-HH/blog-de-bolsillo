@@ -10,18 +10,18 @@ h1, h2, h3, h4 {
     /*font-family: 'Raleway', sans-serif;*/
     color: var(--title1);
     width: 100%;
-    margin-top: 1rem;
+    margin-top: 1em;
 }
 
 h1 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    font-size: 2.25rem;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 2.2rem;
     font-weight: 700;
 }
 
 h2 {
-    padding-top: 0.5rem;
+    padding-top: 0.5em;
     font-size: 1.5rem;
     font-weight: 600;
 }
@@ -33,11 +33,11 @@ h3 {
 
 p {
     color: var(--txt1);
-    padding-top: 0.25rem;
+    padding-top: 0.25em;
 }
 
 main li {
-    margin: 0.5rem 0rem 0.5rem 1.5rem;
+    margin: 0.5em 0em 0.5em 1.5em;
 }
 
 :target {

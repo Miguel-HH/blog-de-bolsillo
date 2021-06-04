@@ -15,7 +15,7 @@
 
 .menu li p, .menu li a {
     display: block;
-    padding: 0.5rem 1rem;
+    padding: 0.5em 1em;
     text-decoration: none;
     background-color: var(--bg2);
     color: var(--txt1);
@@ -39,9 +39,9 @@
 .submenu {
     display: inline-block;
     position: absolute;
-    max-width: 15rem;
+    max-width: 15em;
     width: 33.333%;
-    min-width: calc(14rem/3);
+    min-width: 5em;
     list-style: none;
     text-align: center;
     transform-origin: top center;
@@ -49,9 +49,9 @@
 }
 
 /* ancho-de-submenu === ancho-de-menu */
-@media (max-width: 48rem) {
+@media (max-width: 48em) {
     .submenu {
-        width: calc(33.333vw - 1rem);
+        width: calc(33.333vw - 1em);
     }
 }
 
