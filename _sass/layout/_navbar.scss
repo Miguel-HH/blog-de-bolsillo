@@ -42,6 +42,7 @@
     max-width: 15rem;
     width: 33.333%;
     list-style: none;
+    text-align: center;
     transform-origin: top center;
     transform: scale(1, 0);
 }
@@ -59,11 +60,12 @@
 }
 
 .submenu li a {
-    background-color: var(--high1);
+    background-color: var(--txt1);
     color: var(--bg1);
+    font-size: 0.8rem;
 
     &:hover {
-        background-color: var(--high2);
+        background-color: var(--high1);
         text-decoration: none;
     }
 }
