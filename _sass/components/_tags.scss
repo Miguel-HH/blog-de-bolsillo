@@ -5,7 +5,7 @@
 
 /* tag independiente */
 .tag-cuadro {
-    padding: 0 3px 3px 3px;
+    box-sizing: border-box;
     background-color: var(--high1);
     text-decoration: underline var(--high1);
     color: var(--bg1);
