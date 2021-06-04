@@ -5,12 +5,13 @@
 
 /* tag independiente */
 .tag-cuadro {
-    box-sizing: border-box;
+    padding: 0.2rem;
     background-color: var(--high1);
     text-decoration: underline var(--high1);
     color: var(--bg1);
     font-weight: 600;
     font-size: 1rem;
+    white-space: nowrap;
 
     &:hover {
         background-color: var(--high2);
@@ -64,7 +65,7 @@
 
 /* Nube de tags */
 .tag-cloud {
-    line-height: 1.9;
+    line-height: 2;
 }
 
 #post header span a {

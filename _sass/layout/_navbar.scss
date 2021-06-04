@@ -41,7 +41,7 @@
     position: absolute;
     max-width: 15rem;
     width: 33.333%;
-    min-width: calc(20rem/3);
+    min-width: calc(14rem/3);
     list-style: none;
     text-align: center;
     transform-origin: top center;
@@ -57,14 +57,14 @@
 
 .submenu li {
     list-style: none;
-    min-width: calc(20rem/3);
+    min-width: inherit;
 }
 
 .submenu li a {
     background-color: var(--txt1);
     color: var(--bg1);
     font-size: 0.8rem;
-    min-width: calc(20rem/3);
+    min-width: inherit;
 
     &:hover {
         background-color: var(--high1);
