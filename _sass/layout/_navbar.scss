@@ -4,6 +4,7 @@
     width: 100%;
     margin: 0;
     padding: 0;
+    margin-right: 0.5em;
     list-style: none;
     font-weight: 600;
     font-size: 1rem;
@@ -48,9 +49,9 @@
 }
 
 /* ancho-de-submenu === ancho-de-menu */
-@media (max-width: 48em) {
+@media only screen and (max-width: 48em) {
     .submenu {
-        width: calc(33.333vw - 1rem);
+        width: calc(33.333vw - 1em);
         min-width: 106.66px;
     }
 }
