@@ -9,55 +9,57 @@ description: "Lista de artículos sobre: 'JavaScript'."
 
 # JavaScript
 JavaScript es un monopolio. Es el único lenguaje de programación en el lado del cliente. No hay competencia.
-- **TypeScript** es lo más cercano a una competencia que tiene JS.
 
 ## EcmaScript es JavaScript
-**EcmaScript 6** o **ES6** es la última versión de JS.
-[ecma-script](ecma-script)
+
+[EcmaScript 6](../javascript/ecma-script) o "ES6" es la última versión de JavaScript.
 
 ## Sintaxis
-- [javascript-comentarios](javascript-comentarios)
-- [javascript-tipos-datos](javascript-tipos-datos)
-- [javascript-tipos-dato-objeto](javascript-tipos-dato-objeto)
-- [javascript-variables](javascript-variables)
-- [javascript-constantes](javascript-constantes)
+
+- [Comentarios](../javascript/comentarios)
+- [Tipos de datos](../javascript/tipos-datos)
+- [Tipos de dato objeto](../javascript/tipos-dato-objeto)
+- [Variables](../javascript/variables)
+- [Constantes](../javascript/constantes)
 
 ## Operadores
-- [javascript-operadores-aritmeticos](javascript-operadores-aritmeticos)
-- [javascript-operadores-asignacion](javascript-operadores-asignacion)
-- [javascript-operadores-concatenacion](javascript-operadores-concatenacion)
-- [javascript-operadores-comparacion](javascript-operadores-comparacion)
-- [javascript-operadores-logicos](javascript-operadores-logicos)
-- [javascript-operadores-unarios-ternarios](javascript-operadores-unarios-ternarios)
-- [javascript-type-coercion](javascript-type-coercion)
+
+- [Operadores Aritmeticos](../javascript/operadores-aritmeticos)
+- [Operadores de Asignación](../javascript/operadores-asignacion)
+- [Operadores de Concatenación](../javascript/operadores-concatenacion)
+- [Operadores de Comparación](../javascript/operadores-comparacion)
+- [Operadores Lógicos](../javascript/operadores-logicos)
+- [Operadores Unarios y Ternarios](../javascript/operadores-unarios-ternarios)
+- [Type coercion](../javascript/type-coercion)
 
 ## Condicionales y ciclos
-- [javascript-condicionales](javascript-condicionales)
-- [javascript-switch](javascript-switch)
-- [javascript-ciclos](javascript-ciclos)
+
+- [Condicionales](../javascript/condicionales)
+- [Switch](../javascript/switch)
+- [Ciclos](../javascript/ciclos)
 
 ## Funciones
-- [javascript-sintaxis-basica](javascript-sintaxis-basica)
-- [javascript-parametro](javascript-parametro)
-- [javascript-valores-retorno](javascript-valores-retorno)
-- [javascript-funciones-primera-clase](javascript-funciones-primera-clase)
-- [javascript-funciones-anonimas](javascript-funciones-anonimas)
-- [javascript-funciones-como-constantes](javascript-funciones-como-constantes)
-- [javascript-scope](javascript-scope)
-- [javascript-funciones-flecha](javascript-funciones-flecha)
+- [Sintaxis básica](../javascript/sintaxis)
+- [Parámetros](../javascript/parametros)
+- [Valores de retorno](../javascript/valores-retorno)
+- [Funciones de primera clase](../javascript/funciones-primera-clase)
+- [Funciones anónimas](../javascript/funciones-anonimas)
+- [Funciones almacenadas como constantes](../javascript/funciones-almacenadas-como-constantes)
+- [Scope](../javascript/scope)
+- [Funciones flecha](../javascript/funciones-flecha)
 
 ## Colecciones de datos
-- [javascript-metodos-array](javascript-metodos-array)
-- [javascript-foreach](javascript-foreach)
-- [javascript-filter-find-includes-every](javascript-filter-find-includes-every)
-- [javascript-manipulando-strings](javascript-manipulando-strings)
-- [javascript-valores-atributos-objetos](javascript-valores-atributos-objetos)
-- [javascript-math](javascript-math)
-- [javascript-date](javascript-date)
+- [Métodos de arreglos](../javascript/metodos-array)
+- ["forEach"](../javascript/foreach)
+- [Filter, Find, Includes y Every](../javascript/filter-find-includes-every)
+- [Manipulando "strings"](../javascript/manipulando-strings)
+- [Valores y atributos de los objetos](../javascript/valores-atributos-objetos)
+- ["math"](../javascript/math)
+- ["date"](../javascript/date)
 
 ## Extras
 > Es posible definir variables en otros archivos .js, y estos funcionarán siempre y cuando cargues los archivos necesarios en el HTML y los cargues en el orden correcto.
 
 ## DOM
-- [javascript-importar-exportar](javascript-importar-exportar)
-- [javascript-imprimir-contenido-en-dom](javascript-imprimir-contenido-en-dom)
+- [Importar y Exportar](../javascript/importar-exportar)
+- [javascript-imprimir-contenido-en-dom](../javascript/imprimir-dom)
