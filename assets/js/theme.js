@@ -33,12 +33,12 @@ function loadSavedTheme() {
 // This avoid the load of the page before the load of JavaScript.
 
 function showContent() {
-  document.body.style.visibility = 'visible';
-  document.body.style.opacity = 1;
+    document.body.style.visibility = 'visible';
+    document.body.style.opacity = 1;
 }
 
 window.addEventListener('DOMContentLoaded', function () {
-  loadSavedTheme();
-  showContent();
+    loadSavedTheme();
+    showContent();
 });
 
