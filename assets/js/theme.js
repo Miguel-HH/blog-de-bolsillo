@@ -19,7 +19,7 @@ function saveTheme() {
 
 sliderTheme.addEventListener('click', saveTheme)
 
-// When loading the page, it will use the theme saved in "localStorage"
+// Checking in the 'Local Storage' if there is a 'savedTheme'.
 
 function loadSavedTheme() {
     if (localStorage.getItem('savedTheme') === 'black') {
@@ -30,4 +30,15 @@ function loadSavedTheme() {
     }
 }
 
-window.onload = loadSavedTheme()
+// This avoid the load of the page before the load of JavaScript.
+
+function showContent() {
+  document.body.style.visibility = 'visible';
+  document.body.style.opacity = 1;
+}
+
+window.addEventListener('DOMContentLoaded', function () {
+  loadSavedTheme();
+  showContent();
+});
+

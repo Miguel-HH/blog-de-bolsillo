@@ -5,6 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{{ page.title }} - {{ site.title }}</title>
+    <style>
+        body {
+            visibility: hidden;
+            opacity: 0;
+        }
+    </style>
     <link rel="stylesheet" href={{ "/assets/styles/main.css" | relative_url }}>
     <link rel="stylesheet" href={{ "/assets/styles/prism.css" | relative_url }}>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
@@ -19,5 +25,13 @@
     </main>
     <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
     <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+    <noscript>
+        <style>
+            body {
+                visibility: visible;
+                opacity: 1;
+            }
+        </style>
+    </noscript>
 </body>
 </html>

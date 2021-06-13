@@ -5,11 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - {{ site.title }}</title>
+    <style>
+        body {
+            visibility: hidden;
+            opacity: 0;
+        }
+    </style>
     <link rel="stylesheet" type="text/css" href="assets/styles/main.css">
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicon/favicon-16x16.png">
+
 </head>
 <body>
     {% include header.html %}
@@ -17,5 +24,13 @@
         {{ content }}
     </main>
     <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+    <noscript>
+        <style>
+            body {
+                visibility: visible;
+                opacity: 1;
+            }
+        </style>
+    </noscript>
 </body>
 </html>

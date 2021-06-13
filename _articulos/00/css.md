@@ -15,6 +15,10 @@ description: "Lista de artículos sobre: 'CSS'."
 - ¿Qué es el ["Layout"](../css/layout).
 - ¿Qué es "Responsive Design" o ["Diseño WEB adaptable"](../css/diseño-web-adaptable)?
 
+## ¿Qué aprendí mientras construía este blog?
+
+- [¿Cómo evitar el 'flash' color blanco antes de que cargue el tema oscuro de una página?](../css/aplicar-tema-previo-carga-javascript)
+
 ## Propiedades CSS
 
 - [box-sizing](../css/box-sizing)
