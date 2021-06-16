@@ -62,12 +62,12 @@
 }
 
 .submenu li a {
-    background-color: var(--txt1);
+    background-color: var(--high1);
     color: var(--bg1);
     font-size: 0.8rem;
 
     &:hover {
-        background-color: var(--high1);
+        background-color: var(--high2);
         text-decoration: none;
     }
 }

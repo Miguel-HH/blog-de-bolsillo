@@ -41,6 +41,11 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - **Git** es una herramienta indispensable para el trabajo en equipo.
 - **GitHub** es la plataforma de desarrollo colaborativo más popular entre los programadores.
 
+## API
+- Ajax
+- WebSockets
+- Bases de datos (Básico)
+
 ## Seguridad web
 - ¿Qué es **HTTPS**?
 
@@ -50,6 +55,9 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 
 ## Preprocesadores
 - Preprocesadores de CSS. [SASS](../00/sass)
+
+## Manipular datos
+- JSON
 
 ## Automatización de tareas
 - Task runners
@@ -66,6 +74,9 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - Angular
 - Vue.js
 - Svelte
+
+## DOM
+- Virtual DOM
 
 ## Testing
 - Unit, integration, Functional
