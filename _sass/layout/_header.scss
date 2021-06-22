@@ -17,7 +17,7 @@
     }
 }
 
-.mainTitle {
+.mainTitle, .mainTitleAnimated {
     margin: 0 0 0.5em;
     padding-bottom: 0.2em;
     width: 9ch;
@@ -39,10 +39,9 @@
     &:hover {
         text-decoration: underline var(--high1);
     }
-
 }
 
-.mainTitle.animated {
+.mainTitleAnimated {
     animation:  pop-up-rectangle .5s 5 forwards step-end,
                 pop-up-characters 2.5s steps(9, end);
 
