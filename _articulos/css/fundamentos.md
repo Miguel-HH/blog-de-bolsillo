@@ -13,6 +13,7 @@ description: "Fundamentos para aprender CSS"
 - [Comentarios](comentarios)
 - [Variables](variables)
 - [Selectores con operadores](selectores-operadores)
+- [Pseudoclases](pseudoclases)
 
 ***
 

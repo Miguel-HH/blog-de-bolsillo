@@ -1,10 +1,12 @@
 ---
-title: "Fecha en JavaScript"
-tags: javascript
+title: "¿Cómo insertar la fecha actual en JavaScript?"
 date: 2021-05-10
+tags: javascript
+layout: post-javascript
+description: "Guía para insertar la fecha actual en JavaScript."
 ---
 
-# Fecha en JavaScript
+# ¿Cómo insertar la fecha actual en JavaScript?
 
 ## Date
 Se crea una instancia de date para tener como valor la fecha y hora en tiempo real.

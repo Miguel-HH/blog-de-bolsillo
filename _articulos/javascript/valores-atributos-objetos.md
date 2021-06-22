@@ -1,10 +1,12 @@
 ---
-title: "Valores y atributos de los objetos en JavaScript"
-tags: javascript
+title: "¿Qué son los 'Valores' y 'Atributos' de los objetos en JavaScript?"
 date: 2021-05-10
+tags: javascript
+layout: post-javascript
+description: "Descripción de 'Valores' y 'Atributos' de los objetos en JavaScript."
 ---
 
-# Valores y atributos de los objetos en JavaScript
+# ¿Qué son los 'Valores' y 'Atributos' de los objetos en JavaScript?
 
 Sirve para obtener los valores o identificar un atributo que se encuentra en un objeto.
 

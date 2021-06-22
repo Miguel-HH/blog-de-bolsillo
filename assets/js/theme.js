@@ -19,7 +19,7 @@ function saveTheme() {
 
 sliderTheme.addEventListener('click', saveTheme)
 
-// Checking in the 'Local Storage' if there is a 'savedTheme'.
+// Checking the status of 'savedTheme'.
 
 function loadSavedTheme() {
     if (localStorage.getItem('savedTheme') === 'black') {

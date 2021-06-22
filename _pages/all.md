@@ -2,6 +2,7 @@
 title: "Últimas publicaciones"
 permalink: /all
 date: 2021-04-25
+layout: basic
 description: "Todos los posts del blog."
 ---
 

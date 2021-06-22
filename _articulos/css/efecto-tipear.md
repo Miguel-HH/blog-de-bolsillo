@@ -1,32 +1,26 @@
-.header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+---
+title: "Crear un efecto de 'Máquina de escribir' con CSS puro"
+date: 2021-06-19
+tags: css
+layout: post-css
+description: "Guía para crear un efecto de 'Máquina de escribir' con CSS puro."
+---
 
-    & .upper-header {
-        display: flex;
-        flex-direction: row;
-        margin: 0;
-        padding-bottom: 3em;
-        width: 100%;
-        justify-content: space-between;
-        margin-bottom: 0;
-        padding-bottom: 0;
-        line-height: 0.75;
-        vertical-align: text-bottom;
-    }
-}
+# Crear un efecto de 'Máquina de escribir' con CSS puro
 
-.mainTitle {
+````css
+.main-title {
     margin: 0 0 0.5em;
     padding-bottom: 0.2em;
-    width: 9ch;
+    width: 18ch;
     overflow: hidden;
     white-space: nowrap;
     text-decoration: none;
     font-family: monospace;
     font-size: 1.5rem;
     font-weight: 800;
+    animation:  pop-up-rectangle .5s 12 forwards step-end,
+                pop-up-characters 5s steps(18, end);
 
     &:link {
         color: var(--high1);
@@ -39,12 +33,6 @@
     &:hover {
         text-decoration: underline var(--high1);
     }
-
-}
-
-.mainTitle.animated {
-    animation:  pop-up-rectangle .5s 5 forwards step-end,
-                pop-up-characters 2.5s steps(9, end);
 
     /* rectangulo parpadeando */
     box-shadow: 0.5em 0 0 transparent;
@@ -62,3 +50,9 @@
     box-shadow: 0.5em 0 0 var(--high1);
     }
 }
+
+````
+
+***
+
+- Quiero aprender más sobre: ["CSS"](../00/css)

@@ -1,10 +1,13 @@
 ---
-title: "Valores matemáticos en JavaScript"
+title: "¿Cómo ejecutar valores matemáticos en JavaScript?"
 tags: javascript
 date: 2021-05-10
+tags: javascript
+layout: post-javascript
+description: "Guía para ejecutar valores matemáticos en JavaScript."
 ---
 
-# Valores matemáticos en JavaScript
+# ¿Cómo ejecutar valores matemáticos en JavaScript?
 
 ## Math
 Permite tener valores matemáticos

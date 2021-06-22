@@ -2,6 +2,8 @@
 title: "Componentes presentacionales en 'React.js'"
 date: 2021-05-30
 tags: react
+layout: post-react
+description: "Definición de 'Componentes presentacionales' en React."
 ---
 
 # Componentes presentacionales en 'React.js'
@@ -15,7 +17,6 @@ Componente presentacional o componente de función
 Se presenta en la interfaz, no genera eventos. Simplemente recibe propiedades y las imprime.
 
 Su estructura es muy simple, se puede representar mediante varios pasos:
-
 - Importar React.
 - Crear una función con las siguientes características:
 
@@ -24,5 +25,8 @@ const Curso = ({props a recibir}) => (
 	//retorna estructura JSX
 )
 ````
+- Exportar el componente.
 
-- Exportamos el componente.
+***
+
+- Quiero aprender más sobre: ["React"](../00/react)

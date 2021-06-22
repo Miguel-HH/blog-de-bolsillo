@@ -8,6 +8,7 @@ description: "Lista de artículos sobre: 'CSS'."
 ---
 
 # CSS
+Significa "Cascade Style Sheets" (Hojas de estilo en cascada). CSS es un lenguaje de diseño. Sirve para darle estilo a los documentos HTML.
 
 ## Ruta de aprendizaje
 
@@ -31,3 +32,9 @@ description: "Lista de artículos sobre: 'CSS'."
 - Unidades de medida ["em" y "rem"](../css/unidades-em-rem).
 - ¿Cómo [uavizar el desplazamiento](../css/suavizar-desplazamiento) de toda la página?
 - [Editar SASS en Jekyll](../jekyll/sass-jekyll)
+
+## Preprocesadores
+- [preprocesadores](../css/preprocesadores)
+
+## Animaciones
+- [Efecto de 'Máquina de escribir'](../css/efecto-tipear)

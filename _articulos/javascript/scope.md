@@ -1,16 +1,21 @@
 ---
-title: "Scope JavaScript"
-tags: javascript
+title: "¿Qué es 'Scope' en JavaScript?"
 date: 2021-05-09
+tags: javascript
+layout: post-javascript
+description: "Descripción de 'Scope' en JavaScript."
 ---
 
-# Scope JavaScript
-Scope es el alcance que poseen ciertos datos, en este caso, el de las variables
+# ¿Qué es 'Scope' en JavaScript?
+
+Scope es el alcance que poseen ciertos datos, ciertas variables.
 
 ## Scope global
+
 Aquellas variables que se encuentren fuera de cualquier bloque de código son parte del scope global. Pueden ser consultadas desde cualquier parte de nuestro código.
 
 ## Scope local
+
 Son aquellas variables declaradas dentro de los bloques de código y como parámetros de las funciones. No pueden ser consultadas en cualquier parte de nuestro código.
 
 ### Ejemplo

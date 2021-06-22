@@ -8,14 +8,12 @@ description: "Lista de artículos sobre: 'JavaScript'."
 ---
 
 # JavaScript
-JavaScript es un monopolio. Es el único lenguaje de programación en el lado del cliente. No hay competencia.
+JavaScript es un monopolio. Es el único lenguaje de programación web. No hay competencia.
 
 ## EcmaScript es JavaScript
-
 [EcmaScript 6](../javascript/ecma-script) o "ES6" es la última versión de JavaScript.
 
 ## Sintaxis
-
 - [Comentarios](../javascript/comentarios)
 - [Tipos de datos](../javascript/tipos-datos)
 - [Tipos de dato objeto](../javascript/tipos-dato-objeto)
@@ -23,7 +21,6 @@ JavaScript es un monopolio. Es el único lenguaje de programación en el lado de
 - [Constantes](../javascript/constantes)
 
 ## Operadores
-
 - [Operadores Aritmeticos](../javascript/operadores-aritmeticos)
 - [Operadores de Asignación](../javascript/operadores-asignacion)
 - [Operadores de Concatenación](../javascript/operadores-concatenacion)
@@ -33,7 +30,6 @@ JavaScript es un monopolio. Es el único lenguaje de programación en el lado de
 - [Type coercion](../javascript/type-coercion)
 
 ## Condicionales y ciclos
-
 - [Condicionales](../javascript/condicionales)
 - [Switch](../javascript/switch)
 - [Ciclos](../javascript/ciclos)
@@ -45,14 +41,15 @@ JavaScript es un monopolio. Es el único lenguaje de programación en el lado de
 - [Funciones de primera clase](../javascript/funciones-primera-clase)
 - [Funciones anónimas](../javascript/funciones-anonimas)
 - [Funciones almacenadas como constantes](../javascript/funciones-almacenadas-como-constantes)
-- [Scope](../javascript/scope)
+- [El alcance o "Scope"](../javascript/scope)
 - [Funciones flecha](../javascript/funciones-flecha)
+- [IIFE o 'Función ejecutada inmediatamente'](../javascript/iife-funcion-ejecutada-inmediatamente)
 
 ## Colecciones de datos
 - [Métodos de arreglos](../javascript/metodos-array)
 - ["forEach"](../javascript/foreach)
 - [Filter, Find, Includes y Every](../javascript/filter-find-includes-every)
-- [Manipulando "strings"](../javascript/manipulando-strings)
+- [Editar "strings"](../javascript/editar-strings)
 - [Valores y atributos de los objetos](../javascript/valores-atributos-objetos)
 - ["math"](../javascript/math)
 - ["date"](../javascript/date)
@@ -63,3 +60,14 @@ JavaScript es un monopolio. Es el único lenguaje de programación en el lado de
 ## DOM
 - [Importar y Exportar](../javascript/importar-exportar)
 - [javascript-imprimir-contenido-en-dom](../javascript/imprimir-dom)
+
+## Asincronismo
+- [JavaScript asíncrono](../javascript/asincronismo)
+- [hoisting](../javascript/hoisting)
+- [Promesas](../javascript/promesas)
+
+## JavaScript orientado a objetos
+- [Clases](../javascript/clases)
+- [Herencia](../javascript/herencia)
+- [Closures](../javascript/closures)
+- [Función Constructora](../javascript/funcion-constructora)

@@ -1,10 +1,12 @@
 ---
-title: "Manipulando strings en JavaScript"
-tags: javascript
+title: "¿Cómo editar 'strings' en JavaScript?"
 date: 2021-05-09
+tags: javascript
+layout: post-javascript
+description: "Guía para editar 'strings' en JavaScript."
 ---
 
-# Manipulando strings en JavaScript
+# ¿Cómo editar 'strings' en JavaScript?
 
 ## Método Slice
 Sirve para modificar una cadena de texto que se tenga

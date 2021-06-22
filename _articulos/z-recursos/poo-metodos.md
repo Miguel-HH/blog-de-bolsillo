@@ -29,7 +29,7 @@ const alumno = {
 	nombres = "Alberto Junior",
 	apellidos = "Quiroga M.",
 	edad = 62
-},
+}
 
 presentarse() {
 	console.log("Hola, mi nombre es ${alumno.nombres} ${alumno.apellidos} y tengo ${alumno.edad} años.")

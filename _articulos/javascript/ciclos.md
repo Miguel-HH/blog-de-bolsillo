@@ -1,11 +1,12 @@
 ---
-title: "Ciclos JavaScript"
-tags: javascript
+title: "¿Qué son los 'Ciclos' en JavaScript?"
 date: 2021-05-09
+tags: javascript
+layout: post-javascript
+description: "Definición de las 'CLASES' en 'JavaScript orientado a objetos'."
 ---
 
-# Ciclos JavaScript
-
+# ¿Qué son los 'Ciclos' en JavaScript?
 Los ciclos permiten ejecutar un bloque de código repetidamente, hasta que se deje de cumplir una condición.
 
 ## Ciclo for
@@ -48,6 +49,7 @@ for(let producto of productos) {
 	console.log(bloque de código)
 }
 ````
+
 ## Ciclo while
 Un ciclo que se ejecutará mientras se cumpla una condición.
 

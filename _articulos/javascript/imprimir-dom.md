@@ -1,10 +1,12 @@
 ---
-title: "Imprimir contenido en el DOM - JS"
-tags: javascript
+title: "¿Cómo imprimir contenido en el DOM con JavaScript?"
 date: 2021-05-13
+tags: javascript
+layout: post-javascript
+description: "Guía para imprimir contenido en el DOM con JavaScript."
 ---
 
-# Imprimir contenido en el DOM - JS
+# ¿Cómo imprimir contenido en el DOM con JavaScript?
 La estructura que has creado en el archivo .js de la clase que vas a utilizar te servirá para poder insertar contenido dinámico de una clase, en tu HTML haciendo un `inner.html`
 
 Deberás crear la estructura en HTML donde quieras que este contenido sea insertado.

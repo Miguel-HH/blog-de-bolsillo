@@ -1,18 +1,18 @@
 ---
-title: "CSS Media Queries"
+title: "¿Qué son las 'Media Queries' de CSS?"
 date: 2021-05-07
 tags: css
 layout: post-css
-description: "'Media queries' en el diseño web adaptable."
+description: "Definición de 'Media queries' y su importancia en el diseño web adaptable."
 ---
 
 # CSS Media Queries
 
+Las **consultas de medios** permiten adaptar un elemento dependiendo de los parámetros de las pantallas.
+
 ````css
 @media (max-width: 600px) {
-  .container {
-    display: none;
-  }
+  /* Código a mostrar únicamente cuando la pantalla cumpla los parámetros indicados */
 }
 ````
 

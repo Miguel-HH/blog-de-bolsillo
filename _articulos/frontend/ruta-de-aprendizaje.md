@@ -54,7 +54,8 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - **YARN**.
 
 ## Preprocesadores
-- Preprocesadores de CSS. [SASS](../00/sass)
+- [Preprocesadores de CSS](../css/preprocesadores)
+- [SASS](../00/sass)
 
 ## Manipular datos
 - JSON
@@ -70,7 +71,7 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - Linters
 
 ## Frameworks
-- React.js
+- [React.js](../00/react)
 - Angular
 - Vue.js
 - Svelte

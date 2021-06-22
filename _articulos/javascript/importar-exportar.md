@@ -1,13 +1,14 @@
 ---
-title: "Importar y exportar - JS"
-tags: javascript
+title: "¿Cómo importar y exportar archivos JavaScript?"
 date: 2021-05-13
+tags: javascript
+layout: post-javascript
+description: "Guía para importar y exportar contenido JavaScript."
 ---
 
-# Importar y exportar - JS
-Lo primero que debes crear es, las estructuras donde podrás iniciar tus objetos. Estas estructuras son las clases que ya has aprendido como crearlas.
+# ¿Cómo importar y exportar archivos JavaScript?
 
-Para organizar tus scripts es recomendable que crees una sub-carpeta dentro de tu carpeta scripts con el nombre de classes en esta sub-carpeta crearás un archivo con el nombre de cada clase que vayas a utilizar. Luego de crear este archivo, deberás exportarlo a tu archivo index.js para poder utilizar esas clases creadas.
+Para organizar tus scripts es recomendable crear una sub-carpeta dentro de tu carpeta scripts con el nombre de classes en esta sub-carpeta crearás un archivo con el nombre de cada clase que vayas a utilizar. Luego de crear este archivo, deberás exportarlo a tu archivo index.js para poder utilizar esas clases creadas.
 
 ### ¿Cómo exportar un archivo .js?
 

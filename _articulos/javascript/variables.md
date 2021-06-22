@@ -1,7 +1,9 @@
 ---
 title: "Variables en JavaScript"
-tags: javascript
 date: 2021-05-09
+tags: javascript
+layout: post-javascript
+description: "Descripción de 'Variables' en JavaScript."
 ---
 
 # Variables en JavaScript
@@ -35,6 +37,9 @@ let apellido = "Huamán"
 ````js
 nombre = "Angel"
 ````
+
+## Variables globales
+La sentencia `var` declara una variable en el scope global.
 
 ***
 

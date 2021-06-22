@@ -8,11 +8,12 @@ description: "Lista de artículos sobre: 'HTML'."
 ---
 
 # HTML
-Es el lenguaje base de la historia web.
+Es un lenguaje de marcado. HTML es la parte estructural de la página.
 
-- [[Fundamentos de HTML]]
+- Fundamentos de HTML
 - [Convenciones y buenas prácticas en HTML](../html/convenciones-buenas-practicas)
 - [Formularios y validaciones HTML](../html/formularios-validaciones)
-- HTML semántico
+- [Etiquetas semánticas](../html/etiquetas-semanticas)
+- [4 maneras de aplicar CSS en HTML](../html/aplicar-css)
 - Accesibilidad
 - SEO básico

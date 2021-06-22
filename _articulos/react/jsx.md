@@ -1,16 +1,18 @@
 ---
-title: "React.js"
+title: "¿Qué es JSX?"
 date: 2021-05-26
 tags: react
+layout: post-react
+description: "Definición de JSX. React básico."
 ---
 
-## Conociendo JSX
-Es una sintaxis creada por Facebook para extender JavaScript. De este modo, permite escribir código JavaScript como si fuera XML.
+# ¿Qué es JSX?
+Es una sintaxis creada por Facebook para extender JavaScript. Además, permite escribir código JavaScript como si fuera XML.
 
-### Ventajas
+## Ventajas
 Otorga facilidad a los web designers para escribir código en React.
 
-### Escribir código en React sin JSX
+## Escribir código en React sin JSX
 Desde index.js se accede al método ReactDOM, por ese mismo lado, se le pasa al método render los parámetros requeridos:
 
 ````jsx
@@ -50,9 +52,10 @@ Se le pueden pasar directamente el texto al método render.
 - Las etiquetas img, siempre se cierran.
 - Para agregar clases, class se convierte en: className.
 - Al utilizar For en React, debe ser convertido en: htmlFor.
-- No utilizar estructuras condicionales como if, else o el búcle while. Por este mismo lado, se debe recurrir a otros recursos que veremos mas adelante.
+- No utilizar estructuras condicionales como if, else o el búcle while.
 
-## () vs {}
+## `()` vs `{}`
+````jsx
 const App = () => (
     // Escribir cógigo JSX
 )
@@ -60,3 +63,8 @@ const App = () => (
 const App = () => {
     // Escribir cógigo JS puro
 }
+````
+
+***
+
+- Quiero aprender más sobre: ["React"](../00/react)
