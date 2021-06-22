@@ -45,14 +45,14 @@ main li {
 }
 
 a {
+    text-decoration: none;
 
     &:link, &:visited {
     color: var(--high1);
     font-weight: 500;
-    text-decoration: none;
     }
 
     &:hover {
-        text-decoration: underline var(--bg1);
+        text-decoration: underline;
     }
 }
