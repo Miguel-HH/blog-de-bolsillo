@@ -2,7 +2,7 @@
 title: "Arquitectura de la información"
 date: 2021-05-14
 tags: indice
-articles: 0
+articles: 1
 layout: basic
 description: "Lista de artículos sobre: 'Arquitectura de la información'."
 ---
@@ -20,6 +20,9 @@ description: "Lista de artículos sobre: 'Arquitectura de la información'."
 ## Libros recomendados
 
 - How to make sense if any mess - Abby Covert
+
+## Arquitectura de la Información
+- [mejores-frases-arquitectura-informacion](../arquitectura-informacion/mejores-frases-arquitectura-informacion)
 
 ***
 

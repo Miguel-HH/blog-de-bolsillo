@@ -27,54 +27,35 @@ main footer {
 }
 
 /* footers mix-ins */
-.footer.ai {
-    @include bg-font(#0074C4, #eee);
+
+.footer.css,
+.footer.internet,
+.footer.react {
+    @include bg-font(#0077DB, #eee);
 }
 
-.footer.blog {
-    @include bg-font(#e34c26, #eee);
-}
-
-.footer.copywriting {
-    @include bg-font(#1BA47A, #eee);
-}
-
-.footer.css {
-    @include bg-font(#264de4, #eee);
-}
-
-.footer.dt {
-    @include bg-font(#ffdd00, #333);
-}
-
+.footer.blog,
 .footer.html {
     @include bg-font(#e34c26, #eee);
 }
 
-.footer.internet {
-    @include bg-font(#0077DB, #eee);
+.footer.copywriting,
+.footer.marketing {
+    @include bg-font(#1BA47A, #eee);
 }
 
+.footer.dt,
 .footer.javascript {
     @include bg-font(#ffdd00, #333);
 }
 
+.footer.ai,
+.footer.git,
 .footer.jekyll {
     @include bg-font(#D92949, #eee);
 }
 
-.footer.markdown {
-    @include bg-font(#2D6B84, #eee);
-}
-
-.footer.marketing {
-    @include bg-font(#D2F08F, #333);
-}
-
+.footer.markdown,
 .footer.notion {
-    @include bg-font(#e34c26, #eee);
-}
-
-.footer.react {
-    @include bg-font(#0077DB, #eee);
+    @include bg-font(#2D6B84, #eee);
 }

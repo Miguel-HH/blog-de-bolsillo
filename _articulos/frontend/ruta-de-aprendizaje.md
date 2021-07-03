@@ -38,7 +38,7 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 >\
 > _Yuval Noah Harari_
 
-- **Git** es una herramienta indispensable para el trabajo en equipo.
+- [Git](../00/git) es una herramienta indispensable para el trabajo en equipo.
 - **GitHub** es la plataforma de desarrollo colaborativo más popular entre los programadores.
 
 ## API
@@ -53,9 +53,9 @@ Puedes escribir código con **Word**. Incluso puedes usar la aplicación  **Bloc
 - **NPM** es el "Package Manager" más popular.
 - **YARN**.
 
-## Preprocesadores
+## CSS Avanzado
 - [Preprocesadores de CSS](../css/preprocesadores)
-- [SASS](../00/sass)
+- [Metodologías o Arquitecturas CSS](../css/metodologia-bem)
 
 ## Manipular datos
 - JSON
