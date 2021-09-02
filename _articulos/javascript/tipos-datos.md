@@ -1,7 +1,7 @@
 ---
 title: "Tipos de datos en JavaScript"
 date: 2021-05-08
-tags: javascript
+categories: javascript
 ---
 
 # Tipos de datos en JavaScript

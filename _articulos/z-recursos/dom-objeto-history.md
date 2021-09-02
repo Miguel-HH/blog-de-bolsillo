@@ -1,7 +1,7 @@
 ---
 title: Objeto "history" - DOM
 date: 2021-05-18
-tags: javascript dom
+categories: javascript dom
 ---
 
 # Objeto "history" - DOM

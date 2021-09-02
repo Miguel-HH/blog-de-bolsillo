@@ -1,9 +1,10 @@
 ---
 title: "CSS"
 date: 2021-04-30
-tags: indice
+categories: indice
 articles: 8
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'CSS'."
 ---
 

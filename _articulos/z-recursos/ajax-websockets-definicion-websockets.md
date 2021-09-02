@@ -1,7 +1,7 @@
 ---
 title: "Definición de Websockets"
 date: 2021-05-26
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Definición de Websockets

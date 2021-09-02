@@ -1,7 +1,7 @@
 ---
 title: "Nube de tags en Jekyll"
 date: 2021-05-02
-tags: jekyll
+categories: jekyll
 layout: post-jekyll
 description: "Guía para crear una 'nube de tags' en la cual se mostrarán todos los tags en Jekyll."
 ---

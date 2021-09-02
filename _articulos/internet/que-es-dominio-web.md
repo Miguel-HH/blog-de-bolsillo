@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es un 'dominio web'?"
 date: 2021-05-07
-tags: internet
+categories: internet
 layout: post-internet
 description: "Definición de 'dominio web'."
 ---

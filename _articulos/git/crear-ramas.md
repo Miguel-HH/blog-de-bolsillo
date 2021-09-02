@@ -1,7 +1,7 @@
 ---
 title: "Creando 'ramas' en GIT"
 date: 2021-06-29
-tags: git
+categories: git
 layout: post-git
 description: "Guía para crear 'ramas' en GIT."
 ---

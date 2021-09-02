@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es un Middleware? - Express"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # ¿Qué es un Middleware? - Express

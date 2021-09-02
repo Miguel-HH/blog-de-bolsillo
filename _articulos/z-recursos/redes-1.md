@@ -1,7 +1,7 @@
 ---
 title: "Redes de Internet"
 date: 2021-05-05
-tags: internet
+categories: internet
 ---
 
 # Una simple red

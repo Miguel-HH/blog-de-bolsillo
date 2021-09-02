@@ -1,6 +1,6 @@
 ---
 title: "Herencia - Programación orientada a objetos"
-tags: javascript poo
+categories: javascript poo
 date: 2021-05-13
 ---
 

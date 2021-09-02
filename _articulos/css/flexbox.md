@@ -1,7 +1,7 @@
 ---
 title: "CSS Flexbox"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
 description: "¿Qué es 'CSS flexbox'?"
 ---

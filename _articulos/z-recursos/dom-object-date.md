@@ -1,7 +1,7 @@
 ---
 title: "Objeto 'date' - DOM"
 date: 2021-05-19
-tags: javascript dom
+categories: javascript dom
 ---
 
 # Objeto 'date' - DOM

@@ -1,7 +1,7 @@
 ---
 title: "Propiedad CSS 'overflow'"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
 description: "Usos de la propiedad de CSS 'overflow'."
 ---

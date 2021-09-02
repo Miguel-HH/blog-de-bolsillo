@@ -1,7 +1,7 @@
 ---
 title: "Configuraciones y motores de vistas en Express"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # Configuraciones y motores de vistas en Express

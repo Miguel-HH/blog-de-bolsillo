@@ -1,7 +1,7 @@
 ---
 title: "Escribir un 'Hola mundo' con React"
 date: 2021-06-05
-tags: react
+categories: react
 layout: post-react
 description: "Guía definitiva para escribir un 'Hola mundo' con React."
 ---

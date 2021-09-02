@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo importar y exportar archivos JavaScript?"
 date: 2021-05-13
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Guía para importar y exportar contenido JavaScript."
 ---

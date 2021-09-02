@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son las 'Media Queries' de CSS?"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
 description: "Definición de 'Media queries' y su importancia en el diseño web adaptable."
 ---

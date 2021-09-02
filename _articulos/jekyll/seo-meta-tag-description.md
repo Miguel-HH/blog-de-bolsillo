@@ -1,7 +1,7 @@
 ---
 title: "Crear meta tag 'description' en Jekyll"
 date: 2021-05-15
-tags: jekyll
+categories: jekyll
 layout: post-jekyll
 description: "Guía para crear un meta tag 'description' el cual mejorará el SEO de la página."
 ---

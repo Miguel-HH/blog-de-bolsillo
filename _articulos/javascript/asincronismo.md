@@ -1,7 +1,7 @@
 ---
 title: "JavaScript asíncrono"
 date: 2021-05-13
-tags: javascript poo
+categories: javascript poo
 layout: post-javascript
 description: "Definición de 'JavaScript asíncrono'."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es la Web?"
 date: 2021-05-16
-tags: internet
+categories: internet
 layout: post-internet
 description: "Definición de la 'Web'."
 ---

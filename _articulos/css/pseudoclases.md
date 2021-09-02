@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son las Pseudoclases de CSS?"
 date: 2021-05-29
-tags: css
+categories: css
 layout: post-css
 description: "Fundamentos para prender la propiedad CSS: 'box-sizing'"
 ---

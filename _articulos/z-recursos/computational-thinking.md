@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 date: 2021-05-08
-tags: programacion
+categories: programacion
 ---
 
 # Computational Thinking

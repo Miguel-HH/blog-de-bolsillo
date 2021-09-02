@@ -1,7 +1,7 @@
 ---
 title: "Trabajar con 'Repositorios remotos' en GIT"
 date: 2021-06-29
-tags: git
+categories: git
 layout: post-git
 description: "Guía para trabajar con 'Repositorios remotos' en GIT."
 ---

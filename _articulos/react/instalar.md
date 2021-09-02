@@ -1,7 +1,7 @@
 ---
 title: "Tus primeros pasos con 'React.js'"
 date: 2021-05-26
-tags: react
+categories: react
 layout: post-react
 description: "Guía definitiva para iniciar con 'React.js'"
 ---

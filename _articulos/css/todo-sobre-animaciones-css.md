@@ -2,7 +2,7 @@
 published: false
 title: "Animaciones en CSS"
 date: 2021-05-05
-tags: css
+categories: css
 layout: post-css
 description: "Animaciones en CSS."
 ---

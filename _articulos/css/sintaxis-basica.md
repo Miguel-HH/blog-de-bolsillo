@@ -1,7 +1,7 @@
 ---
 title: "Los 6 elementos de la sintaxis en CSS"
 date: 2021-05-29
-tags: css
+categories: css
 layout: post-css
 description: "Explicación de la sintaxis CSS."
 ---

@@ -2,7 +2,7 @@
 published: false
 title: "Post para LinkedIn"
 date: 2021-05-05
-tags: copywriting
+categories: copywriting
 layout: post-copywriting
 description: "Mi primer copy fue un post en LinkedIn."
 ---

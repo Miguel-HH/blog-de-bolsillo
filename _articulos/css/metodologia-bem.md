@@ -1,7 +1,7 @@
 ---
 title: "Metodología BEM para CSS"
 date: 2021-06-28
-tags: css
+categories: css
 layout: post-css
 description: "Definición de la 'Metodología BEM' para CSS."
 ---

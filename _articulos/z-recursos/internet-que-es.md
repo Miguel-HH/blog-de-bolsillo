@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es Internet?"
 date: 2021-05-07
-tags: internet
+categories: internet
 layout: post-internet
 description: Definición de internet.
 ---

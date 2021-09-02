@@ -2,7 +2,7 @@
 published: false
 title: "Marca personal"
 date: 2021-04-29
-tags: marketing
+categories: marketing
 layout: post-marketing
 description: "¿Porqué es importante crear una 'marca personal'?"
 ---

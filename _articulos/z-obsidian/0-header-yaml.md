@@ -1,7 +1,7 @@
 ---
 title: "Obsidian"
 date: 2021-05-14
-tags: obsidian
+categories: obsidian
 layout: post
 description: "Descripción"
 ---

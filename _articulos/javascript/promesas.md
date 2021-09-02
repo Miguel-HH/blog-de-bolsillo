@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son las 'Promesas' en JavaScript?"
 date: 2021-06-19
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Descripción de 'Promesas' en JavaScript."
 ---

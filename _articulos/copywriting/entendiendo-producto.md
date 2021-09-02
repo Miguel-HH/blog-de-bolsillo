@@ -2,7 +2,7 @@
 published: false
 title: "Entendiendo el producto"
 date: 2021-05-02
-tags: copywriting
+categories: copywriting
 layout: post-copywriting
 description: "Formulario que ayudará a entender el tipo de producto que se intenta vender."
 ---

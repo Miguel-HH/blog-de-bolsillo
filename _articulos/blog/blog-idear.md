@@ -1,7 +1,7 @@
 ---
 title: "2. Investigación para el blog"
 date: 2021-05-14
-tags: blog
+categories: blog
 layout: post-blog
 description: "Investigación para el blog."
 ---

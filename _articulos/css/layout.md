@@ -1,7 +1,7 @@
 ---
 title: "Layout CSS"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
 description: "'Layout' es una de las partes del renderizado de CSS."
 ---

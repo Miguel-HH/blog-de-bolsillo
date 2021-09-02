@@ -1,7 +1,7 @@
 ---
 title: "Variables en JavaScript"
 date: 2021-05-09
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Descripción de 'Variables' en JavaScript."
 ---

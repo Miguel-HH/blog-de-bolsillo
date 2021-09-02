@@ -1,6 +1,6 @@
 ---
 title: SEO desde cero
-tags: seo
+categories: seo
 date: 2021-05-10
 ---
 

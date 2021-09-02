@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo imprimir contenido en el DOM con JavaScript?"
 date: 2021-05-13
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Guía para imprimir contenido en el DOM con JavaScript."
 ---

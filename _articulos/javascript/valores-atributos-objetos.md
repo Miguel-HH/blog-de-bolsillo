@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son los 'Valores' y 'Atributos' de los objetos en JavaScript?"
 date: 2021-05-10
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Descripción de 'Valores' y 'Atributos' de los objetos en JavaScript."
 ---

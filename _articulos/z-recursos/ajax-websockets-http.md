@@ -1,7 +1,7 @@
 ---
 title: "Definición del protocolo HTTP"
 date: 2021-05-18
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Definición del protocolo HTTP

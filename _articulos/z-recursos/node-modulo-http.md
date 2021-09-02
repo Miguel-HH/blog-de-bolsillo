@@ -1,7 +1,7 @@
 ---
 title: "Uso de módulo http"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # Uso de módulo http

@@ -1,7 +1,7 @@
 ---
 title: "Códigos de respuesta"
 date: 2021-05-18
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Códigos de respuesta

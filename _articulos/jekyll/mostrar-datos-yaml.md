@@ -1,7 +1,7 @@
 ---
 title: "Mostrar datos en Jekyll"
 date: 2021-04-26
-tags: jekyll
+categories: jekyll
 layout: post-jekyll
 description: "Crear datos en formato 'liquid' para visualizar en Jekyll."
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Copywriting"
 date: 2021-04-28
-tags: indice
-articles: 9
+categories: indice
+articles: 5
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'Copywriting'."
 ---
 
@@ -29,8 +30,11 @@ description: "Lista de artículos sobre: 'Copywriting'."
 - Los beneficios apelan a las emociones mientras que las características apelan a la razón. Golpear directo a las emociones y luego bajar a tierra racionalizando las características prometidas.
 - Urgente, útil, único y ultra-específico.
 
-## Fórmulas de copywriting
-- [Fundamentos del Copywriting](../copywriting/teoria-copywriting)
+## Fundamentos del Copywriting
+- [Teoría básica](../copywriting/fundamentos-del-copywriting)
 - [Escritura del Copywriting](../copywriting/proceso-escritura-copywriting)
 - [¿Cómo escribir?](../copywriting/como-escribir-copywriting)
 - [Frases del Copywriting](../copywriting/mejores-frases-copywriting)
+
+## Fórmulas del Copywriting
+- [¿Qué es 'Briefing'?](../copywriting/que-es-briefing)

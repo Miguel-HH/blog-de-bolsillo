@@ -1,7 +1,7 @@
 ---
 title: "Formularios y validaciones HTML"
 date: 2021-05-07
-tags: html
+categories: html
 layout: post-html
 description: "Tipos de formularios HTML."
 ---

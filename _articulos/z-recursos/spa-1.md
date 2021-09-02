@@ -1,7 +1,7 @@
 ---
 title: "Single Page Aplication con JavaScript"
 date: 20201-05-29
-tags: javascript spa
+categories: javascript spa
 ---
 
 # Single Page Aplication con JavaScript

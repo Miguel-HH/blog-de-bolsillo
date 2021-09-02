@@ -2,7 +2,7 @@
 published: false
 title: "Estructura de una página web"
 date: 2021-05-05
-tags: copywriting
+categories: copywriting
 layout: post-copywriting
 description: "Partes fundamentales para armar cualquier 'página web'."
 ---

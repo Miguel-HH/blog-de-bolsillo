@@ -1,7 +1,7 @@
 ---
 title: "Enviar contenidos con fetch()"
 date: 2021-05-26
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Enviar contenidos con fetch()

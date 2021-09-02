@@ -1,7 +1,7 @@
 ---
 title: "Los 4 pasos para publicar tu 'app de React' en Netlify"
 date: 2021-05-31
-tags: react
+categories: react
 layout: post-react
 description: "Guía para publicar apps de React en Netlify"
 ---

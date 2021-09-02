@@ -1,7 +1,7 @@
 ---
 title: "Petición HTTP XML - XHR"
 date: 2021-05-18
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Petición HTTP XML - XHR

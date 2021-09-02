@@ -1,7 +1,7 @@
 ---
 title: "Necesidades de un proyecto moderno"
 date: 2021-05-19
-tags: fullstack
+categories: fullstack
 ---
 
 # Necesidades de un proyecto moderno

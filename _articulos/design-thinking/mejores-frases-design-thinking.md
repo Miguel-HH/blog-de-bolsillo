@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es 'Design thinking' y porqué es tan importante?"
 date: 2021-05-14
-tags: design-thinking
+categories: design-thinking
 layout: post-dt
 description: "Selección de frases empleadas en el 'Design thinking'."
 ---

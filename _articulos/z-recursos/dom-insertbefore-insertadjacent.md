@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo funciona "insertBefore()" e "insertAdjacent()"?
-tags: javascript dom
+categories: javascript dom
 date: 2021-05-17
 ---
 

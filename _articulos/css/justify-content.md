@@ -1,7 +1,7 @@
 ---
 title: "Propiedad CSS 'justify-content'"
 date: 2021-05-05
-tags: css
+categories: css
 layout: post-css
 description: "Usos de la propiedad de CSS 'justify content'."
 ---

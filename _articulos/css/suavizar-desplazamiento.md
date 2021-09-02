@@ -1,7 +1,7 @@
 ---
 title: "Suavizar desplazamiento de toda la página"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
 description: "Suavizar el desplazamiento de todo el documento HTML en cada desplazamiento."
 ---

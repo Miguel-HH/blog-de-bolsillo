@@ -1,7 +1,7 @@
 ---
 title: "Desarrollo full-stack - LinkedIn"
 date: 2021-05-19
-tags: fullstack
+categories: fullstack
 ---
 
 # Desarrollo full-stack - LinkedIn

@@ -1,7 +1,7 @@
 ---
 title: "Acerca de NPM"
 date: 2021-05-21
-tags: node-js
+categories: node-js
 ---
 
 # Acerca de NPM

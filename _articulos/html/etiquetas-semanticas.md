@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son las etiquetas semánticas de HTML?"
 date: 2021-06-19
-tags: html
+categories: html
 layout: post-html
 description: "Descripción de las etiquetas semánticas de HTML."
 ---

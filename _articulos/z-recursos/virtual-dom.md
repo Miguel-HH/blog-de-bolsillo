@@ -1,7 +1,7 @@
 ---
 title: "Virtual DOM"
 date: 2021-05-05
-tags: dom
+categories: dom
 ---
 
 # Virtual DOM

@@ -1,8 +1,9 @@
 ---
 title: "Componentes presentacionales en 'React.js'"
 date: 2021-05-30
-tags: react
+categories: react
 layout: post-react
+index: 2
 description: "Definición de 'Componentes presentacionales' en React."
 ---
 

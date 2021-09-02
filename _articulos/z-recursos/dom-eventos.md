@@ -1,6 +1,6 @@
 ---
 title: ¿Qué son los eventos del DOM?
-tags: javascript dom
+categories: javascript dom
 date: 2021-05-17
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rutas en Express"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # Rutas en Express

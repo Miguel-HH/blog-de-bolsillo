@@ -1,8 +1,9 @@
 ---
 title: "¿Qué es GITFLOW?"
 date: 2021-06-29
-tags: git
+categories: git
 layout: post-git
+index: 2
 description: "Guía para entender el 'Flujo de trabajo' en GIT."
 ---
 

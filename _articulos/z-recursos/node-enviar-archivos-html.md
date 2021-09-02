@@ -1,7 +1,7 @@
 ---
 title: "Envío de archivos HTML"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # Envío de archivos HTML

@@ -1,7 +1,7 @@
 ---
 title: "Tipos de dato objeto"
 date: 2021-05-08
-tags: javascript
+categories: javascript
 ---
 
 # Tipos de dato objeto

@@ -1,8 +1,9 @@
 ---
 title: "Linking to thinking"
 date: 2021-05-05
-tags: design-thinking
+categories: design-thinking
 layout: post-dt
+index: 2
 description: "Técnicas para enlazar las notas de estudio."
 ---
 

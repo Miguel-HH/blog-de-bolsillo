@@ -1,7 +1,7 @@
 ---
 title: "4 maneras de aplicar CSS en HTML"
 date: 2021-05-29
-tags: html
+categories: html
 layout: post-html
 description: "4 maneras de aplicar estilos CSS a un archivo HTML."
 ---

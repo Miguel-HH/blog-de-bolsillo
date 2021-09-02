@@ -1,9 +1,10 @@
 ---
 title: "UI"
 date: 2021-05-07
-tags: indice
+categories: indice
 articles: 0
 layout: basic
+index: 0
 description: "Lista de artículos sobre: 'UI'."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "'async' y 'await'"
 date: 2021-05-21
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # 'async' y 'await'

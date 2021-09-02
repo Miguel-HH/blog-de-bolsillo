@@ -1,9 +1,10 @@
 ---
 title: "Blog"
 date: 2021-05-05
-tags: indice
+categories: indice
 articles: 0
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'Blog'."
 ---
 

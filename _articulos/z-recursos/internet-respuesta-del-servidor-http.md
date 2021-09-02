@@ -1,7 +1,7 @@
 ---
 title: "Respuesta del servidor"
 date: 2021-05-07
-tags: http
+categories: http
 layout: post-internet
 description: Respuesta al realizar una petición HTTP.
 ---

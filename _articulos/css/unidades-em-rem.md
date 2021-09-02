@@ -1,7 +1,7 @@
 ---
 title: "La gran diferencia entre las unidades de medida 'em' y 'rem' en CSS"
 date: 2021-05-29
-tags: css
+categories: css
 layout: post-css
 description: "Fundamentos para entender las unidades de medida 'em' y 'rem'."
 ---

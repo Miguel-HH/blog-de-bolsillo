@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son los 'Ciclos' en JavaScript?"
 date: 2021-05-09
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Definición de las 'CLASES' en 'JavaScript orientado a objetos'."
 ---

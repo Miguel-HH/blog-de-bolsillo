@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo insertar la fecha actual en JavaScript?"
 date: 2021-05-10
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Guía para insertar la fecha actual en JavaScript."
 ---

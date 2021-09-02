@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es JSX?"
 date: 2021-05-26
-tags: react
+categories: react
 layout: post-react
 description: "Definición de JSX. React básico."
 ---

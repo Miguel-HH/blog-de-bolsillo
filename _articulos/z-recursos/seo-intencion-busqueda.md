@@ -1,6 +1,6 @@
 ---
 title: "Intención de búsqueda SEO"
-tags: seo
+categories: seo
 date: 2021-05-10
 ---
 

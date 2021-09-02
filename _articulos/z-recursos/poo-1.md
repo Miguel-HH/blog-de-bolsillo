@@ -1,6 +1,6 @@
 ---
 title: "Programación orientada a objetos con JavaScript"
-tags: javascript poo
+categories: javascript poo
 date: 2021-05-12
 ---
 

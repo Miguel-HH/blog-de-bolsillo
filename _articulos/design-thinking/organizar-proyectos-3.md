@@ -1,7 +1,7 @@
 ---
 title: "3. Implementar prototipos"
 date: 2021-04-27
-tags: design-thinking
+categories: design-thinking
 layout: post-dt
 description: "Pasos para la organización de cualquier tipo de proyecto."
 ---

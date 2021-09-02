@@ -1,9 +1,10 @@
 ---
 title: "Programación"
 date: 2021-04-30
-tags: indice
+categories: indice
 articles: 0
 layout: basic
+index: 0
 description: "Lista de artículos sobre: 'Programación'."
 ---
 
@@ -11,8 +12,8 @@ description: "Lista de artículos sobre: 'Programación'."
 
 ## Lenguajes de programación
 
-- JavaScript
-- React JSX
+- [javascript](javascript)
+- [react](react)
 - Ruby
 
 ## Lenguajes de estilo

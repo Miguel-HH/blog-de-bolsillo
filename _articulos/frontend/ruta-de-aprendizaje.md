@@ -1,8 +1,9 @@
 ---
 title: "Mi ruta de aprendizaje 'Frontend'"
 date: 2021-05-05
-tags: frontend
+categories: frontend
 layout: post-frontend
+index: 2
 description: "Ruta de aprendizaje para convertirse en un 'Desarrollador Web Frontend'."
 ---
 

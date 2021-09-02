@@ -1,7 +1,7 @@
 ---
 title: "Comentarios en JavaScript"
 date: 2021-05-08
-tags: javascript
+categories: javascript
 ---
 
 # Comentarios en JavaScript

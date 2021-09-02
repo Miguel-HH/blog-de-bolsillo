@@ -1,8 +1,9 @@
 ---
 title: "Fundamentos de CSS"
 date: 2021-05-29
-tags: css
+categories: css
 layout: post-css
+index: 2
 description: "Fundamentos para aprender CSS"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es un 'Preprocesador CSS'?"
 date: 2021-06-19
-tags: css
+categories: css
 layout: post-css
 description: "Definición de 'Preprocesadores de CSS'"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "GIT"
 date: 2021-06-28
-tags: indice
+categories: indice
 articles: 1
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'GIT'."
 ---
 

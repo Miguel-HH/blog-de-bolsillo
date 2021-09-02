@@ -1,9 +1,10 @@
 ---
 title: "Design thinking"
 date: 2021-05-14
-tags: indice
+categories: indice
 articles: 0
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'Design thinking'."
 ---
 

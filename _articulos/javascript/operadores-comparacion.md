@@ -1,6 +1,6 @@
 ---
 title: "Operadores de comparación"
-tags: javascript
+categories: javascript
 date: 2021-05-09
 ---
 

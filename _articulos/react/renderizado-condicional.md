@@ -1,8 +1,9 @@
 ---
 title: "Renderizado condicional de componentes en 'React.js'"
 date: 2021-06-05
-tags: react
+categories: react
 layout: post-react
+index: 2
 description: "Guía para el renderizado condicional de componentes en 'React.js'"
 ---
 

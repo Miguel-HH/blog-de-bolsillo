@@ -1,9 +1,10 @@
 ---
 title: "Jekyll"
 date: 2021-04-25
-tags: indice
+categories: indice
 articles: 10
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'Jekyll'."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ¿Qué es Internet?
 date: 2021-05-05
-tags: internet
+categories: internet
 ---
 
 # No publicado

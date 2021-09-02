@@ -1,7 +1,7 @@
 ---
 title: "Incluir 'hojas de estilo CSS' en Jekyll"
 date: 2021-04-26
-tags: jekyll css
+categories: jekyll css
 layout: post-css
 description: "Agregar estilos CSS en Jekyll."
 ---

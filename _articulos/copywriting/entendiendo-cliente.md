@@ -2,7 +2,7 @@
 published: false
 title: "Entendiendo al cliente"
 date: 2021-05-03
-tags: copywriting
+categories: copywriting
 layout: post-copywriting
 description: "Pasos para crear un 'Buyer persona'. El perfil del cliente ideal."
 ---

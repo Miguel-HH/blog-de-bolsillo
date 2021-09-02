@@ -1,21 +1,27 @@
 ---
 title: "¿Cómo instalar Jekyll en Windows?"
 date: 2021-04-26
-tags: jekyll
+categories: jekyll
 layout: post-jekyll
 description: "Pasos para instalar Jekyll en Windows."
 ---
 
 # ¿Cómo instalar Jekyll en Windows?
 
-## Descargar Jekyll
-- presionar `1`
-- `gem install jekyll bundler`
-- `jekyll new (Nombre)`
+## Instalar Ruby
+- Descargar la última versión de [Ruby+Devkit](https://rubyinstaller.org/downloads/)
+- Instalar. En el último paso activar la opción **ridk install**.
 
-## Crear una terminal en VScode
+## Instalar Jekyll
+- Abrir la consola de Windows y escribir: `gem install jekyll bundler`
+- Comprobar la versión de Jekyll escribiendo: `jekyll -v`
+- Escribir `jekyll new (Nombre)` en la ruta que se creará el proyecto.
+
+## Abrir un servidor en Jekyll
+- Crear una terminal en VScode.
 - `jekyll serve`
-- localhost:4000
+- Ir a: `localhost:4000` en cualquier navegador.
+- Si hay algún error, escribir `bundle add webrick`
 
 ## Gemfile
 - seguir instrucciones

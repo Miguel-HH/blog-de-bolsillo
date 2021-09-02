@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo funciona el motor de busqueda de Google?"
-tags: seo
+categories: seo
 date: 2021-05-10
 ---
 

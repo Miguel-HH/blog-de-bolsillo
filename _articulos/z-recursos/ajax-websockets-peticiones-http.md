@@ -1,7 +1,7 @@
 ---
 title: "Peticiones HTTP"
 date: 2021-05-18
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Peticiones HTTP

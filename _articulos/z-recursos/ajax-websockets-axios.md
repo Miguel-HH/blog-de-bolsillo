@@ -1,7 +1,7 @@
 ---
 title: "Documentación axios - AJAX"
 date: 2021-05-24
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Documentación axios - AJAX

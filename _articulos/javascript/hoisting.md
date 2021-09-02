@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es 'Hoisting' en JavaScript?"
 date: 2021-05-10
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Descripción de 'Hoisting' en JavaScript."
 ---

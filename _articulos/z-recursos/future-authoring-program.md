@@ -1,7 +1,7 @@
 ---
 title: Future Authoring Program
 date: 2021-05-12
-tags: motivacion
+categories: motivacion
 ---
 
 # Future Authoring Program

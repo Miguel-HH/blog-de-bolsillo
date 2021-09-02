@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo funciona la HERENCIA en JavaScript?"
 date: 2021-06-21
-tags: javascript poo
+categories: javascript poo
 layout: post-javascript
 description: "Definición de 'Herencia' en JavaScript."
 ---

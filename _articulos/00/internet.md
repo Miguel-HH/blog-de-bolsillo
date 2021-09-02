@@ -1,9 +1,10 @@
 ---
 title: "Internet"
 date: 2021-05-07
-tags: indice
+categories: indice
 articles: 6
 layout: basic
+index: 0
 description: "Lista de artículos sobre: 'Internet'."
 ---
 
@@ -14,3 +15,4 @@ description: "Lista de artículos sobre: 'Internet'."
 - ¿Qué es [DNS](../internet/que-es-dns)?
 - ¿Qué es un [dominio web](../internet/que-es-dominio-web)?
 - ¿Qué es [hosting](../internet/que-es-hosting)?
+- [wordpress](wordpress)

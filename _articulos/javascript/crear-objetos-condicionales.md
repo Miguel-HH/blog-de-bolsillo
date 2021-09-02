@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo crear OBJETOS de forma CONDICIONAL en JavaScript?"
 date: 2021-06-21
-tags: javascript poo
+categories: javascript poo
 layout: post-javascript
 description: "Guía para crear OBJETOS de forma CONDICIONAL en JavaScript."
 ---

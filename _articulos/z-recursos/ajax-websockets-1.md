@@ -1,7 +1,7 @@
 ---
 title: "Ajax y WebSockets"
 date: 20201-05-18
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Ajax y WebSockets

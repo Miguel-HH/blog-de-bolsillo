@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son las CLASES y las INSTANCIAS en 'JavaScript orientado a objetos'?"
 date: 2021-05-13
-tags: javascript poo
+categories: javascript poo
 layout: post-javascript
 description: "Definición de las 'CLASES' en 'JavaScript orientado a objetos'."
 ---

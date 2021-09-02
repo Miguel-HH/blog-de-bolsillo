@@ -1,6 +1,6 @@
 ---
 title: Reemplazar hijos en el DOM
-tags: javascript dom
+categories: javascript dom
 date: 2021-05-17
 ---
 

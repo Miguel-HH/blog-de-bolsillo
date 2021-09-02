@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo evitar el 'flash' color blanco antes de que cargue el tema oscuro de una página?"
 date: 2021-06-12
-tags: css
+categories: css
 layout: post-css
 description: "Guía para agregar correctamente un tema oscuro a tu página web."
 ---

@@ -2,7 +2,7 @@
 published: false
 title: "Fórmulas en Notion"
 date: 2021-05-05
-tags: notion
+categories: notion
 layout: post-notion
 description: "Ejemplo de una fórmula muy compleja utilizada en Notion"
 ---

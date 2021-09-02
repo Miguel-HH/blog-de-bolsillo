@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es React?"
 date: 2021-05-06
-tags: react
+categories: react
 ---
 
 # ¿Qué es React?

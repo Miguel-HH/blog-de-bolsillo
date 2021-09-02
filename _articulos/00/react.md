@@ -1,9 +1,10 @@
 ---
 title: "React.js"
 date: 2021-05-31
-tags: indice
+categories: indice
 articles: 5
 layout: basic
+index: 1
 description: "Lista de artículos sobre: 'React.js'."
 ---
 

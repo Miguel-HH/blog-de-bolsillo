@@ -1,6 +1,6 @@
 ---
 title: "Condicionales en JavaScript"
-tags: javascript
+categories: javascript
 date: 2021-05-09
 ---
 

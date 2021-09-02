@@ -1,7 +1,7 @@
 ---
 title:  "Listas en Jekyll"
 date: 2021-04-25
-tags: jekyll
+categories: jekyll
 layout: post-jekyll
 description: "Guía para crear listas con y sin visualización en Jekyll."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Instalación y creación de servidor con Express"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # Instalación y creación de servidor con Express

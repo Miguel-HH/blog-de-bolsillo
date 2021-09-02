@@ -1,7 +1,7 @@
 ---
 title: "Función constructora en JavaScript"
 date: 2021-05-12
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Definición de 'Función constructora' en 'JavaScript orientada a objetos'."
 ---

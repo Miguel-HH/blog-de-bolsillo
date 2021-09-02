@@ -1,7 +1,7 @@
 ---
 title: "Botón reusable para React"
 date: 2021-06-05
-tags: react
+categories: react
 layout: post-react
 description: "Guía definitiva crear 'botones reusables' con React"
 ---

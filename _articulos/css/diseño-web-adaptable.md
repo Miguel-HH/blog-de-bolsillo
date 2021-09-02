@@ -1,8 +1,9 @@
 ---
 title: "Diseño web adaptable"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
+index: 2
 description: "'Buenas prácticas' para crear webs que se adapten a la pantalla de los teléfonos móviles."
 ---
 

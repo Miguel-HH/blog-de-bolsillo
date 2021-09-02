@@ -1,7 +1,7 @@
 ---
 title: "¿Qué significa THIS en JavaScript?"
 date: 2021-06-20
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Definición de 'this' en JavaScript."
 ---

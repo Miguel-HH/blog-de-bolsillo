@@ -1,7 +1,7 @@
 ---
 title: "¿Qué son las 'IIFE' en JavaScript?"
 date: 2021-06-20
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Descripción de las 'IIFE' o 'Expresión de función ejecutada inmediatamente'."
 ---

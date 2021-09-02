@@ -1,6 +1,6 @@
 ---
 title: Arquitectura de la Información
-tags: arquitectura-de-la-informacion
+categories: arquitectura-de-la-informacion
 date: 2021-05-11
 ---
 

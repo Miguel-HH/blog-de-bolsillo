@@ -1,7 +1,7 @@
 ---
 title: "Eliminar decoración de listas HTML"
 date: 2021-05-07
-tags: css
+categories: css
 layout: post-css
 description: "Eliminar el estilo por defecto de las 'listas en HTML'."
 ---

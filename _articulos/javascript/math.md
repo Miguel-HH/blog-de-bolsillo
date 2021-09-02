@@ -1,8 +1,8 @@
 ---
 title: "¿Cómo ejecutar valores matemáticos en JavaScript?"
-tags: javascript
+categories: javascript
 date: 2021-05-10
-tags: javascript
+categories: javascript
 layout: post-javascript
 description: "Guía para ejecutar valores matemáticos en JavaScript."
 ---

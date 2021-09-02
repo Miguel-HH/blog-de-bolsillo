@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo escribir variables en CSS?"
 date: 2021-05-29
-tags: css
+categories: css
 layout: post-css
 description: "Guía para escribir variables en 'CSS'"
 ---

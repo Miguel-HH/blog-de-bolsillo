@@ -1,7 +1,7 @@
 ---
 title: "Creando librería AJAX"
 date: 2021-05-24
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Creando librería AJAX

@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es 'Proxy'?"
 date: 2021-05-07
-tags: http
+categories: http
 layout: post-internet
 description: "Definición de 'Proxy'."
 ---

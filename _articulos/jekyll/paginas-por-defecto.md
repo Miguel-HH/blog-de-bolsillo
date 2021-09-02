@@ -1,7 +1,7 @@
 ---
 title: "Páginas por defecto de Jekyll"
 date: 2021-04-26
-tags: jekyll
+categories: jekyll
 layout: post-jekyll
 description: "Guía para crear las primeras páginas de Jekyll."
 ---

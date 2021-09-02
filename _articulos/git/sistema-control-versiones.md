@@ -1,7 +1,7 @@
 ---
 title: "Sistema de Control de Versiones"
 date: 2021-06-29
-tags: git
+categories: git
 layout: post-git
 description: "Definición de 'Sistema de Control de Versiones'."
 ---

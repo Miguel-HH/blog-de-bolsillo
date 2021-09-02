@@ -1,7 +1,7 @@
 ---
 title: Objeto "window" - DOM
 date: 2021-05-18
-tags: javascript dom
+categories: javascript dom
 ---
 
 # Objeto "window" - DOM

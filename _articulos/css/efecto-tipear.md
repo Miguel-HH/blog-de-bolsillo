@@ -1,7 +1,7 @@
 ---
 title: "Crear un efecto de 'Máquina de escribir' con CSS puro"
 date: 2021-06-19
-tags: css
+categories: css
 layout: post-css
 description: "Guía para crear un efecto de 'Máquina de escribir' con CSS puro."
 ---

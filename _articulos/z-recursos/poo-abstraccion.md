@@ -1,6 +1,6 @@
 ---
 title: "POO y la abstracción"
-tags: javascript poo
+categories: javascript poo
 date: 2021-05-12
 ---
 

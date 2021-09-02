@@ -1,7 +1,7 @@
 ---
 title: "Ciclo de vida de un websocket"
 date: 2021-05-29
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Ciclo de vida de un websocket

@@ -1,7 +1,7 @@
 ---
 title: "Funciones callback"
 date: 2021-05-21
-tags: ajax websockets
+categories: ajax websockets
 ---
 
 # Funciones callback

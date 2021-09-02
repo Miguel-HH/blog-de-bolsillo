@@ -1,7 +1,7 @@
 ---
 title: "Métodos GET, POST, PUT, DELETE - Node.js"
 date: 2021-05-22
-tags: node-js
+categories: node-js
 ---
 
 # Métodos GET, POST, PUT, DELETE - Node.js
