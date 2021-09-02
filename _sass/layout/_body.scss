@@ -10,12 +10,9 @@ body {
     color: var(--txt1);
 }
 
-main {
+.main {
+    min-height: calc(100vh - 8rem);
     margin: 1em 1em 0 1em;
-}
-
-.page-content {
-    padding-bottom: 5em;
 
     & img {
         display: block;
@@ -23,4 +20,9 @@ main {
         max-width: 15em;
         padding: 2em 0 0;
     }
+}
+
+.post-container {
+    margin-bottom: 4em;
+    min-height: calc(100vh - 22rem);
 }

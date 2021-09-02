@@ -5,8 +5,19 @@ date: 2021-05-05
 layout: basic
 description: "Nube de tags."
 ---
+## Categorías
+<p class="tag-cloud">
+{% assign categories =  site.articulos | map: 'categories' | sort_natural | join: ','  | split: ',' | uniq %}
+{% for item in categories %}
+  <a href="/blog-de-bolsillo/categorie/{{ item }}">
+    <span class="tag-line">
+      <span class="tag-cuadro">{{ item }}</span>
+    </span>
+  </a>
+{% endfor %}
+</p>
 
-# Nube de tags
+## Nube de tags (Proximamente)
 <p class="tag-cloud">
 {% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}

@@ -1,11 +1,11 @@
 <li class="tag-list-date">
     <span>
         <p class="tag-span">
-        {% for tag in item.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/blog-de-bolsillo/tag/{{ tag_name }}">
+        {% for categorie in item.categories %}
+        {% capture categorie_name %}{{ categorie }}{% endcapture %}
+            <a href="/blog-de-bolsillo/tag/{{ categorie_name }}">
                 <span class="tag-line">
-                    <nobr class="tag-cuadro">{{ tag_name }}
+                    <nobr class="tag-cuadro">{{ categorie_name }}
                     </nobr>
                 </span>
             </a>

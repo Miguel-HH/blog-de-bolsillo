@@ -2,7 +2,7 @@
 layout: basic
 ---
 
-<article id="post">
+<section class="section__info">
     <header>
         <div class="post-date">
         {% assign m = page.date | date: "%-m" %}
@@ -35,5 +35,5 @@ layout: basic
         {% endfor %}
         </span>
     </header>
-</article>
+</section>
 {{ content }}
