@@ -10,16 +10,16 @@ description: "Guía para crear una 'nube de tags' en la cual se mostrarán todos
 
 ````html
 {% raw %}
-{% assign tags =  site.a | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
+<p class="tag-cloud">
+{% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in tags %}
-    <ul>
-        <a href="/blog/tag/{{ item }}">
-            <span class="tag-line">
-                <span class="tag-cuadro">{{ item }}</span>
-            </span>
-        </a>
-    </ul>
+  <a href="/blog-de-bolsillo/tag/{{ item }}">
+    <span class="tag-line">
+      <span class="tag-cuadro">{{ item }}</span>
+    </span>
+  </a>
 {% endfor %}
+</p>
 {% endraw %}
 ````
 

@@ -24,11 +24,11 @@ layout: basic
         {{ page.date | date: "%Y" }}
         </div>
         <span>Tags:
-        {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/blog-de-bolsillo/tag/{{ tag_name }}">
+        {% for categorie in page.categories %}
+        {% capture categorie_name %}{{ categorie }}{% endcapture %}
+            <a href="/blog-de-bolsillo/categorie/{{ categorie_name }}">
                 <span class="tag-line">
-                    <nobr class="tag-cuadro">{{ tag_name }}
+                    <nobr class="tag-cuadro">{{ categorie_name }}
                     </nobr>
                 </span>
             </a>

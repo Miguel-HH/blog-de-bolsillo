@@ -1,15 +1,15 @@
 ---
-title: "Tag: 'Internet'"
-tag: internet
+title: "Categoría: 'Internet'"
+categories: internet
 layout: basic
-description: "Todos los posts con el tag: 'Internet'."
+description: "Todos los posts de la categoría: 'Internet'."
 ---
 
 <h1>{{ page.title }}</h1>
 
 {% for item in site.articulos reversed%}
-{% for tag in item.tags %}
-{% if tag contains "internet" %}
+{% for categorie in item.categories %}
+{% if categorie contains "internet" %}
 <ul>
     {% include list-date-tag.html %}
 </ul>

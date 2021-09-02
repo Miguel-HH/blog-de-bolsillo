@@ -1,15 +1,15 @@
 ---
+title: "Categoría: 'UI'"
+categories: ui
 layout: basic
-title: "Tag: 'UI'"
-tag: ui
-description: "Todos los posts con el tag: 'UI'."
+description: "Todos los posts de la categoría: 'UI'."
 ---
 
 <h1>{{ page.title }}</h1>
 
 {% for item in site.articulos reversed%}
-{% for tag in item.tags %}
-{% if tag contains "ui" %}
+{% for categorie in item.categories %}
+{% if categorie contains "ui" %}
 <ul>
     {% include list-date-tag.html %}
 </ul>

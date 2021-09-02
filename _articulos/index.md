@@ -6,12 +6,11 @@ layout: basic
 description: "Nube de tags."
 ---
 
-# Nube de tags
-
+# Categorías
 <p class="tag-cloud">
-{% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
-{% for item in tags %}
-  <a href="/blog-de-bolsillo/tag/{{ item }}">
+{% assign categories =  site.articulos | map: 'categories' | sort_natural | join: ','  | split: ',' | uniq %}
+{% for item in categories %}
+  <a href="/blog-de-bolsillo/categorie/{{ item }}">
     <span class="tag-line">
       <span class="tag-cuadro">{{ item }}</span>
     </span>

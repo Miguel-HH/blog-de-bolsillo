@@ -1,15 +1,15 @@
 ---
-title: "Tag: 'Git'"
-tag: git
+title: "Categoría: 'Git'"
+categories: git
 layout: basic
-description: "Todos los posts con el tag: 'Git'."
+description: "Todos los posts de la categoría: 'Git'."
 ---
 
 <h1>{{ page.title }}</h1>
 
 {% for item in site.articulos reversed%}
-{% for tag in item.tags %}
-{% if tag contains "git" %}
+{% for categorie in item.categories %}
+{% if categorie contains "git" %}
 <ul>
     {% include list-date-tag.html %}
 </ul>

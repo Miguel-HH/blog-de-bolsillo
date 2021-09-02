@@ -1,11 +1,13 @@
 ---
-permalink: /tag
+permalink: /categorie
 title: "Nube de tags"
 date: 2021-05-05
 layout: basic
-description: "Nube de tags."
+description: "Categorías y Etiquetas."
 ---
-## Categorías
+
+# Categorías
+
 <p class="tag-cloud">
 {% assign categories =  site.articulos | map: 'categories' | sort_natural | join: ','  | split: ',' | uniq %}
 {% for item in categories %}
@@ -17,19 +19,7 @@ description: "Nube de tags."
 {% endfor %}
 </p>
 
-## Nube de tags (Proximamente)
-<p class="tag-cloud">
-{% assign tags =  site.articulos | map: 'tags' | sort_natural | join: ','  | split: ',' | uniq %}
-{% for item in tags %}
-  <a href="/blog-de-bolsillo/tag/{{ item }}">
-    <span class="tag-line">
-      <span class="tag-cuadro">{{ item }}</span>
-    </span>
-  </a>
-{% endfor %}
-</p>
-
-## Front-end Web Development
+## Desarrollo Web Frontend
 - [CSS](00/css)
 - [JavaScript](00/javascript)
 - [Programación](00/programacion)
@@ -38,15 +28,16 @@ description: "Nube de tags."
 - [Frontend](00/frontend)
 - SASS
 
-## User Experience Design
+## Diseño de Experiencia de Usuario
+- [Arquitectura de la información](00/arquitectura-informacion)
 - [Copywriting](00/copywriting)
 - [Design thinking](00/design-thinking)
 - [UX](00/ux)
-- UI
-- Marketing
+- [UI](00/ui)
+- [Marketing](00/marketing)
 
-## Blogging
+## Blogging y más
 - [Blogging](00/blog)
 - [Jekyll](00/jekyll)
 - [Markdown](00/markdown)
-- Notion
+- [Notion](00/notion)

@@ -53,6 +53,7 @@ main footer {
 }
 
 .footer.markdown,
-.footer.notion {
+.footer.notion,
+.footer.wordpress {
     @include bg-font(#2D6B84, #eee);
 }

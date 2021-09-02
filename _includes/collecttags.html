@@ -1,19 +1,19 @@
 <head>
-    {% assign rawtags = "" %}
+    {% assign rawcategories = "" %}
     {% for post in site.posts %}
-    {% assign ttags = post.tags | join:'|' | append:'|' %}
-    {% assign rawtags = rawtags | append:ttags %}
+    {% assign categories = post.categories | join:'|' | append:'|' %}
+    {% assign rawcategories = rawcategories | append:categories %}
     {% endfor %}
-    {% assign rawtags = rawtags | split:'|' | sort %}
+    {% assign rawcategories = rawcategories | split:'|' | sort %}
 
-    {% assign site.tags = "" %}
-    {% for tag in rawtags %}
-    {% if tag != "" %}
-    {% if tags == "" %}
-    {% assign tags = tag | split:'|' %}
+    {% assign site.categories = "" %}
+    {% for categorie in rawcategories %}
+    {% if categorie != "" %}
+    {% if categories == "" %}
+    {% assign categories = categorie | split:'|' %}
     {% endif %}
-    {% unless tags contains tag %}
-    {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% unless categories contains categorie %}
+    {% assign categories = categories | join:'|' | append:'|' | append:categorie | split:'|' %}
     {% endunless %}
     {% endif %}
     {% endfor %}

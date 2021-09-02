@@ -1,15 +1,15 @@
 ---
-title: "Tag: 'Programación'"
-tag: programacion
+title: "Categoría: 'Programación'"
+categories: programacion
 layout: basic
-description: "Todos los posts con el tag: 'Programación'."
+description: "Todos los posts de la categoría: 'Programación'."
 ---
 
 <h1>{{ page.title }}</h1>
 
 {% for item in site.articulos reversed%}
-{% for tag in item.tags %}
-{% if tag contains "programacion" %}
+{% for categorie in item.categories %}
+{% if categorie contains "programacion" %}
 <ul>
     {% include list-date-tag.html %}
 </ul>

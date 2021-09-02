@@ -1,15 +1,15 @@
 ---
-title: "Tag: 'Markdown'"
-tag: markdown
+title: "Categoría: 'Markdown'"
+categories: markdown
 layout: basic
-description: "Todos los posts con el tag: 'Markdown'."
+description: "Todos los posts de la categoría: 'Markdown'."
 ---
 
 <h1>{{ page.title }}</h1>
 
 {% for item in site.articulos reversed%}
-{% for tag in item.tags %}
-{% if tag contains "markdown" %}
+{% for categorie in item.categories %}
+{% if categorie contains "markdown" %}
 <ul>
     {% include list-date-tag.html %}
 </ul>
