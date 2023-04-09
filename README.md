@@ -6,4 +6,4 @@
 
 En mi celular tengo cientos de apuntes sobre **Desarrollo Web Frontend**. Pero… ¿De qué sirve el conocimiento si es que no se comparte?
 
-[Enlace al blog](https://miguel-hh.github.io/blog-de-bolsillo/)
+[Enlace al blog](https://miguel1man.github.io/blog-de-bolsillo/)
